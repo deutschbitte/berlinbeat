@@ -1,0 +1,28 @@
+---
+import { Image } from 'astro:assets';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  src: ImageMetadata | string;
+  alt: string;
+  class?: string;
+  widths?: number[];
+  sizes?: string;
+}
+
+const { src, alt, class: className, sizes, widths } = Astro.props;
+const isRemote = typeof src === 'string';
+---
+
+{isRemote ? (
+  // Remote images here come from a decade of archived, hotlinked press/venue
+  // photos — a meaningful fraction are dead or unreachable. Astro's <Image>
+  // fetches each one at build time to read its dimensions, so one bad link
+  // would crash the entire site build. Every place this component is used
+  // already constrains the image to a fixed-aspect-ratio container with
+  // object-cover, so intrinsic size doesn't affect layout — a plain <img>
+  // (no build-time fetch) is the safer choice for these.
+  <img src={src} alt={alt} class={className} loading="lazy" decoding="async" />
+) : (
+  <Image src={src} alt={alt} class={className} widths={widths} sizes={sizes} />
+)}

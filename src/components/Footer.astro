@@ -1,0 +1,14 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="border-t border-[var(--border)]">
+  <div class="mx-auto flex max-w-6xl flex-col gap-2 px-5 py-6 text-sm text-[var(--fg-muted)] sm:flex-row sm:items-center sm:justify-between sm:px-8">
+    <p>&copy; {year} Berlin Beat &mdash; Berlin music, up close.</p>
+    <div class="flex gap-4">
+      <a href="/about/" class="transition-colors hover:text-[var(--fg)]">About</a>
+      <a href="/contact/" class="transition-colors hover:text-[var(--fg)]">Contact</a>
+      <a href="/rss.xml" class="transition-colors hover:text-[var(--fg)]">RSS</a>
+    </div>
+  </div>
+</footer>

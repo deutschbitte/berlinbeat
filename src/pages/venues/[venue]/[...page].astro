@@ -1,0 +1,24 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import { getAllPosts, uniqueVenues, slugify } from '../../../lib/posts';
+import ListingPage from '../../../components/ListingPage.astro';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const posts = await getAllPosts();
+  const venues = uniqueVenues(posts);
+
+  return venues.flatMap((venue) => {
+    const venueSlug = slugify(venue);
+    const venuePosts = posts.filter((p) => p.data.venue && slugify(p.data.venue) === venueSlug);
+    return paginate(venuePosts, {
+      params: { venue: slugify(venue) },
+      props: { venueName: venue },
+      pageSize: 12,
+    });
+  });
+}
+
+const { page, venueName } = Astro.props;
+---
+
+<ListingPage title={venueName} description={`Coverage from ${venueName}.`} page={page} />

@@ -1,0 +1,23 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import { getAllPosts, uniqueTags, slugify } from '../../../lib/posts';
+import ListingPage from '../../../components/ListingPage.astro';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const posts = await getAllPosts();
+  const tags = uniqueTags(posts);
+
+  return tags.flatMap((tag) => {
+    const tagPosts = posts.filter((p) => p.data.tags.includes(tag));
+    return paginate(tagPosts, {
+      params: { tag: slugify(tag) },
+      props: { tagName: tag },
+      pageSize: 12,
+    });
+  });
+}
+
+const { page, tagName } = Astro.props;
+---
+
+<ListingPage title={`#${tagName}`} description={`Posts tagged “${tagName}”.`} page={page} />

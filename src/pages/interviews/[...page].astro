@@ -1,0 +1,18 @@
+---
+import type { GetStaticPathsOptions } from 'astro';
+import { getAllPosts } from '../../lib/posts';
+import ListingPage from '../../components/ListingPage.astro';
+
+export async function getStaticPaths({ paginate }: GetStaticPathsOptions) {
+  const posts = (await getAllPosts()).filter((p) => p.data.type === 'interview');
+  return paginate(posts, { pageSize: 12 });
+}
+
+const { page } = Astro.props;
+---
+
+<ListingPage
+  title="Interviews"
+  description="Conversations with bands and artists passing through Berlin."
+  page={page}
+/>

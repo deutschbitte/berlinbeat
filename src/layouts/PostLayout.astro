@@ -1,0 +1,77 @@
+---
+import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
+import Layout from './Layout.astro';
+import SmartImage from '../components/SmartImage.astro';
+import GalleryGrid from '../components/GalleryGrid.astro';
+import TagList from '../components/TagList.astro';
+import { typeLabel, formatDate, type Post } from '../lib/posts';
+
+interface Props {
+  post: Post;
+  Content: AstroComponentFactory;
+}
+
+const { post, Content } = Astro.props;
+const { data } = post;
+
+const metaLine = [
+  data.type === 'review' && data.album ? `“${data.album}”` : null,
+  data.band,
+  data.venue,
+]
+  .filter(Boolean)
+  .join(' · ');
+---
+
+<Layout
+  title={data.title}
+  description={data.excerpt}
+  image={typeof data.coverImage === 'string' ? data.coverImage : data.coverImage?.src}
+>
+  <article class="mx-auto max-w-3xl px-5 py-8 sm:px-8 sm:py-10">
+    <p class="text-xs text-[var(--fg-muted)]">
+      {typeLabel(post)}
+    </p>
+    <h1 class="mt-1 text-balance text-2xl font-medium leading-tight sm:text-3xl">
+      {data.title}
+    </h1>
+
+    <div class="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--fg-muted)]">
+      <time datetime={data.date.toISOString()}>{formatDate(data.date)}</time>
+      {metaLine && (
+        <>
+          <span aria-hidden="true">&middot;</span>
+          <span>{metaLine}</span>
+        </>
+      )}
+    </div>
+
+    {data.coverImage && (
+      <div class="mt-5 overflow-hidden rounded-lg border border-[var(--border)]">
+        <SmartImage
+          src={data.coverImage}
+          alt={data.coverImageAlt ?? data.title}
+          class="w-full object-cover"
+          widths={[640, 960, 1280]}
+          sizes="(min-width: 768px) 768px, 100vw"
+        />
+      </div>
+    )}
+
+    <div class="prose mt-6 max-w-none">
+      <Content />
+    </div>
+
+    {data.type === 'photos' && data.gallery.length > 0 && (
+      <div class="mt-6">
+        <GalleryGrid images={data.gallery} alt={data.title} />
+      </div>
+    )}
+
+    {data.tags.length > 0 && (
+      <div class="mt-6 border-t border-[var(--border)] pt-4">
+        <TagList tags={data.tags} />
+      </div>
+    )}
+  </article>
+</Layout>

@@ -1,0 +1,32 @@
+---
+import type { Page } from 'astro';
+import Layout from '../layouts/Layout.astro';
+import PostCard from './PostCard.astro';
+import Pagination from './Pagination.astro';
+import type { Post } from '../lib/posts';
+
+interface Props {
+  title: string;
+  description: string;
+  page: Page<Post>;
+}
+
+const { title, description, page } = Astro.props;
+---
+
+<Layout title={title} description={description}>
+  <section class="mx-auto max-w-6xl px-5 py-8 sm:px-8 sm:py-10">
+    <h1 class="text-2xl font-medium sm:text-3xl">{title}</h1>
+    <p class="mt-1 max-w-xl text-[var(--fg-muted)]">{description}</p>
+
+    {page.data.length > 0 ? (
+      <div class="mt-5 grid grid-cols-1 gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {page.data.map((post) => <PostCard post={post} />)}
+      </div>
+    ) : (
+      <p class="mt-6 text-[var(--fg-muted)]">Nothing here yet — check back soon.</p>
+    )}
+
+    <Pagination page={page} />
+  </section>
+</Layout>
