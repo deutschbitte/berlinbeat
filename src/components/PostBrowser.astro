@@ -1,0 +1,56 @@
+---
+import PostGrid from './PostGrid.astro';
+import type { Post } from '../lib/posts';
+
+interface Props {
+  posts: Post[];
+}
+
+const { posts } = Astro.props;
+
+const counts = {
+  interview: posts.filter((p) => p.data.type === 'interview').length,
+  review: posts.filter((p) => p.data.type === 'review').length,
+  photos: posts.filter((p) => p.data.type === 'photos').length,
+};
+---
+
+<div>
+  <div class="mb-5 flex items-center gap-2">
+    <label for="type-filter" class="text-sm text-[var(--fg-muted)]">Show</label>
+    <select
+      id="type-filter"
+      class="rounded-md border border-[var(--border)] bg-[var(--bg)] px-2 py-1 text-sm text-[var(--fg)]"
+    >
+      <option value="all">All ({posts.length})</option>
+      <option value="interview">Interviews ({counts.interview})</option>
+      <option value="review">Reviews ({counts.review})</option>
+      <option value="photos">Photos ({counts.photos})</option>
+    </select>
+  </div>
+
+  <PostGrid posts={posts} />
+
+  <p id="post-browser-empty" class="hidden text-[var(--fg-muted)]">No posts match this filter.</p>
+</div>
+
+<script is:inline>
+  (function () {
+    const select = document.getElementById('type-filter');
+    const emptyMessage = document.getElementById('post-browser-empty');
+
+    function applyFilter() {
+      const value = select.value;
+      const cards = document.querySelectorAll('[data-type]');
+      let visibleCount = 0;
+      cards.forEach((card) => {
+        const matches = value === 'all' || card.dataset.type === value;
+        card.classList.toggle('hidden', !matches);
+        if (matches) visibleCount++;
+      });
+      emptyMessage?.classList.toggle('hidden', visibleCount > 0);
+    }
+
+    select?.addEventListener('change', applyFilter);
+  })();
+</script>

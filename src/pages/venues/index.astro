@@ -14,20 +14,17 @@ const venues = uniqueVenues(posts).map((venue) => {
 ---
 
 <Layout title="Venues" description="Berlin venues covered by Berlin Beat.">
-  <section class="mx-auto max-w-6xl px-5 py-8 sm:px-8 sm:py-10">
+  <section class="mx-auto max-w-2xl px-5 py-8 sm:px-8 sm:py-10">
     <h1 class="text-2xl font-medium sm:text-3xl">Venues</h1>
     <p class="mt-1 max-w-xl text-[var(--fg-muted)]">Shows and photos, sorted by venue.</p>
 
     {venues.length > 0 ? (
-      <ul class="mt-5 grid grid-cols-1 gap-1.5 sm:grid-cols-2 lg:grid-cols-3">
+      <ul class="mt-6">
         {venues.map((venue) => (
-          <li>
-            <a
-              href={`/venues/${venue.slug}/`}
-              class="flex items-center justify-between rounded-lg border border-[var(--border)] px-3 py-2 transition-colors hover:border-[var(--fg-muted)]"
-            >
-              <span>{venue.name}</span>
-              <span class="text-sm text-[var(--fg-muted)]">{venue.count}</span>
+          <li class="border-b border-[var(--border)] py-2.5 first:pt-0">
+            <a href={`/venues/${venue.slug}/`} class="group flex items-baseline justify-between gap-4">
+              <span class="group-hover:underline">{venue.name}</span>
+              <span class="shrink-0 text-sm text-[var(--fg-muted)]">{venue.count}</span>
             </a>
           </li>
         ))}

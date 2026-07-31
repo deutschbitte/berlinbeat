@@ -1,0 +1,22 @@
+---
+import { getAllPosts, uniqueTags, slugify } from '../../../lib/posts';
+import BrowsePage from '../../../components/BrowsePage.astro';
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+  const tags = uniqueTags(posts);
+
+  return tags.map((tag) => {
+    const tagSlug = slugify(tag);
+    const tagPosts = posts.filter((p) => p.data.tags.some((t) => slugify(t) === tagSlug));
+    return {
+      params: { tag: tagSlug },
+      props: { tagName: tag, posts: tagPosts },
+    };
+  });
+}
+
+const { tagName, posts } = Astro.props;
+---
+
+<BrowsePage title={`#${tagName}`} description={`Posts tagged “${tagName}”.`} posts={posts} />

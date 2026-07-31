@@ -1,3 +1,7 @@
+## Before making changes
+
+Read `PROJECT_HISTORY.md` first. It logs what's been built, why, and — importantly — which design directions were already tried and rejected (with reasons). Design has changed direction several times; don't re-propose something already crossed off there without checking.
+
 ## Development
 
 When starting the dev server, use background mode:

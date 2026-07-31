@@ -1,0 +1,22 @@
+---
+import { getAllPosts, uniqueVenues, slugify } from '../../../lib/posts';
+import BrowsePage from '../../../components/BrowsePage.astro';
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+  const venues = uniqueVenues(posts);
+
+  return venues.map((venue) => {
+    const venueSlug = slugify(venue);
+    const venuePosts = posts.filter((p) => p.data.venue && slugify(p.data.venue) === venueSlug);
+    return {
+      params: { venue: venueSlug },
+      props: { venueName: venue, posts: venuePosts },
+    };
+  });
+}
+
+const { venueName, posts } = Astro.props;
+---
+
+<BrowsePage title={venueName} description={`Coverage from ${venueName}.`} posts={posts} />

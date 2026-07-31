@@ -1,17 +1,15 @@
 ---
-import type { Page } from 'astro';
 import Layout from '../layouts/Layout.astro';
-import PostGrid from './PostGrid.astro';
-import Pagination from './Pagination.astro';
+import PostBrowser from './PostBrowser.astro';
 import type { Post } from '../lib/posts';
 
 interface Props {
   title: string;
   description: string;
-  page: Page<Post>;
+  posts: Post[];
 }
 
-const { title, description, page } = Astro.props;
+const { title, description, posts } = Astro.props;
 ---
 
 <Layout title={title} description={description}>
@@ -20,9 +18,7 @@ const { title, description, page } = Astro.props;
     <p class="mt-1 max-w-xl text-[var(--fg-muted)]">{description}</p>
 
     <div class="mt-6">
-      <PostGrid posts={page.data} />
+      <PostBrowser posts={posts} />
     </div>
-
-    <Pagination page={page} />
   </section>
 </Layout>
