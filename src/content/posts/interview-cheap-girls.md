@@ -1,6 +1,7 @@
 ---
 title: Cheap Girls
 date: '2011-08-14'
+author: natalye
 type: interview
 band: Cheap Girls
 tags:

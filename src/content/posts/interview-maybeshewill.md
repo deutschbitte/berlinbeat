@@ -1,6 +1,7 @@
 ---
 title: Maybeshewill
 date: '2011-11-02'
+author: natalye
 type: interview
 band: Maybeshewill
 tags:

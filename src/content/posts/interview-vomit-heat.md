@@ -1,6 +1,7 @@
 ---
 title: Vomit Heat
 date: '2011-08-13'
+author: natalye
 type: interview
 band: Vomit Heat
 tags:

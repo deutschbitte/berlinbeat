@@ -1,6 +1,7 @@
 ---
 title: Phantom/Ghost
 date: '2011-10-03'
+author: natalye
 type: interview
 band: Phantom/Ghost
 tags:

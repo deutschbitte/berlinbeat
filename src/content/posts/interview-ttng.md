@@ -1,6 +1,7 @@
 ---
 title: TTNG
 date: '2013-02-13'
+author: natalye
 type: interview
 band: TTNG
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-TTNG - Photo courtesy of TTNGA lot can happen in four years, and in the case of British band [TTNG](http://www.thistownneedsguns.com/) – formerly known as This Town Needs Guns – that includes a member change, a name change, and, at long last, a new album.
+TTNG - Photo courtesy of TTNG
+
+A lot can happen in four years, and in the case of British band [TTNG](http://www.thistownneedsguns.com/) – formerly known as This Town Needs Guns – that includes a member change, a name change, and, at long last, a new album.
 
 The trio, which was once based in Oxford, but is now spread to Dorset and Norwich, still consists of its founding member, Tim Collis, and his brother Chris, who joined the band two years after its formation. But the original singer, Stuart Smith, and bassist Jamie Cooper, quit last year, leaving newest member Henry Tremain to fill in both of those roles.
 

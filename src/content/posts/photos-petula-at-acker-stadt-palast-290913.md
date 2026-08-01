@@ -1,6 +1,7 @@
 ---
 title: Petula at Acker Stadt Palast 29/09/13
 date: '2013-10-11'
+author: Heike
 type: photos
 band: Petula
 venue: Acker Stadt Palast

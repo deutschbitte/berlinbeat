@@ -1,6 +1,7 @@
 ---
 title: Samothrace and Bell Witch at Køpi 17/05/13
 date: '2013-05-22'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Samothrace and Bell Witch

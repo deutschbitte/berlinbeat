@@ -1,6 +1,7 @@
 ---
 title: Freakish Atlantic
 date: '2012-07-25'
+author: natalye
 type: interview
 band: Freakish Atlantic
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Freakish Atlantic - Photo courtesy of Freakish Atlantic[Freakish Atlantic](http://www.facebook.com/freakishatlantic) may have plucked its band name straight out of Sylvia Plath's "Daddy," but one shouldn't allow the dark subject matter of the poem to inform what the music actually sounds like. Certainly, the lyrical content isn't entirely uplifting, but the aural landscape is a particular treat, laden with sweetly crafted melodies and dulcified with an assemblage of enchanting textures.
+Freakish Atlantic - Photo courtesy of Freakish Atlantic
+
+[Freakish Atlantic](http://www.facebook.com/freakishatlantic) may have plucked its band name straight out of Sylvia Plath's "Daddy," but one shouldn't allow the dark subject matter of the poem to inform what the music actually sounds like. Certainly, the lyrical content isn't entirely uplifting, but the aural landscape is a particular treat, laden with sweetly crafted melodies and dulcified with an assemblage of enchanting textures.
 
 So it might be surprising that such lushness comes out of the collected efforts of merely two individuals: Marius Gutowski and Florian Sekula. The two have lived in Berlin since October of last year, but originally come out of North Rhine-Westphalia, and first met up in Bonn while studying at the same university.
 

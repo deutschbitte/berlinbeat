@@ -1,6 +1,7 @@
 ---
 title: Mineral at Bi Nuu 03/02/15
 date: '2015-02-11'
+author: Heike
 type: photos
 band: Mineral
 venue: Bi Nuu

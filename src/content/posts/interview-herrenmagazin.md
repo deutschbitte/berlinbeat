@@ -1,6 +1,7 @@
 ---
 title: Herrenmagazin
 date: '2012-05-11'
+author: natalye
 type: interview
 band: Herrenmagazin
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Herrenmagazin - Photo by Ramona SchoonIt would be a stretch of the imagination to suggest that Hamburg-based indie rock outfit [Herrenmagazin](http://www.herrenmusik.de/) is a literary group. Yet there is a certain Joycean quality to the evolution of the band, a history which, when traced from origins to present, certainly is reminiscent of Stephen Dedalus' stream of consciousness and his coming of age journey that ultimately valued expression above all else.
+Herrenmagazin - Photo by Ramona Schoon
+
+It would be a stretch of the imagination to suggest that Hamburg-based indie rock outfit [Herrenmagazin](http://www.herrenmusik.de/) is a literary group. Yet there is a certain Joycean quality to the evolution of the band, a history which, when traced from origins to present, certainly is reminiscent of Stephen Dedalus' stream of consciousness and his coming of age journey that ultimately valued expression above all else.
 
 The group, which has undergone a couple of lineup changes in its existence, has since 2009 consisted of lead singer and guitarist Deniz Jaspersen, guitarist König Wilhelmsburg, bassist Paul Konopacka and drummer Rasmus Engler.
 

@@ -1,6 +1,7 @@
 ---
 title: Our Blanket Skies
 date: '2011-09-12'
+author: natalye
 type: interview
 band: Our Blanket Skies
 tags:

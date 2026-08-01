@@ -1,6 +1,7 @@
 ---
 title: Jenn Kelly
 date: '2014-06-17'
+author: natalye
 type: interview
 band: Jenn Kelly
 tags:

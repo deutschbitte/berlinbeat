@@ -1,6 +1,7 @@
 ---
 title: Gorilla Mask at Schokoladen 03/05/19
 date: '2019-05-06'
+author: klirrsjourney
 type: photos
 band: Gorilla Mask
 venue: Schokoladen

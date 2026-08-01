@@ -1,6 +1,7 @@
 ---
 title: Mutiny on the Bounty at Schokoladen 07/04/14
 date: '2014-04-17'
+author: klirrsjourney
 type: photos
 band: Mutiny on the Bounty
 venue: Schokoladen

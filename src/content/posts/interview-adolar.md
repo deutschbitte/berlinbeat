@@ -1,6 +1,7 @@
 ---
 title: Adolar
 date: '2011-10-16'
+author: natalye
 type: interview
 band: Adolar
 tags:

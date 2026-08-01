@@ -1,6 +1,7 @@
 ---
 title: The Shaking Sensations
 date: '2011-09-20'
+author: natalye
 type: interview
 band: The Shaking Sensations
 tags:

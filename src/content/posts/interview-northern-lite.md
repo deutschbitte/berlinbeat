@@ -1,6 +1,7 @@
 ---
 title: Northern Lite
 date: '2014-05-31'
+author: natalye
 type: interview
 band: Northern Lite
 tags:

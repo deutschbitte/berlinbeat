@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: This Will Destroy You at Lido 21/03/12
 date: '2012-05-15'
+author: natalye
 type: photos
 band: This Will Destroy You
 venue: Lido

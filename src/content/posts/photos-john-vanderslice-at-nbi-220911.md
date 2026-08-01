@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: John Vanderslice at NBI 22/09/11
 date: '2011-10-20'
+author: natalye
 type: photos
 band: John Vanderslice
 venue: NBI

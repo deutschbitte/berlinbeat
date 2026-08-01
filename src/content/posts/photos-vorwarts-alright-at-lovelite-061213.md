@@ -1,6 +1,7 @@
 ---
 title: Vorwärts, Alright! at Lovelite 06/12/13
 date: '2013-12-24'
+author: Heike
 type: photos
 band: Vorwärts, Alright!
 venue: Lovelite

@@ -1,6 +1,7 @@
 ---
 title: Johnny Houx
 date: '2011-10-04'
+author: natalye
 type: interview
 band: Johnny Houx
 tags:

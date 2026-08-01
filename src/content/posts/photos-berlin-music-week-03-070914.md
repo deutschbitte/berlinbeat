@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: Berlin Music Week 03-07/09/14
 date: '2014-09-17'
+author: natalye
 type: photos
 tags:
   - Berlin Music Week

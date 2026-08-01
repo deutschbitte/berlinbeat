@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Ter Haar at Magnet Club 20/01/12
 date: '2012-02-18'
+author: natalye
 type: photos
 band: Ter Haar
 venue: Magnet Club

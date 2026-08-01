@@ -1,6 +1,7 @@
 ---
 title: Black Map at Columbia Club 04/11/14
 date: '2014-11-25'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Black Map

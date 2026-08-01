@@ -1,6 +1,7 @@
 ---
 title: tUnE-yArDs at Berghain 14/05/14
 date: '2014-06-05'
+author: K Hawthorne
 type: review
 reviewType: show
 band: tUnE-yArDs

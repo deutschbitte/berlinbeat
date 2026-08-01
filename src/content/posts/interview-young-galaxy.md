@@ -1,6 +1,7 @@
 ---
 title: Young Galaxy
 date: '2011-10-23'
+author: natalye
 type: interview
 band: Young Galaxy
 tags:

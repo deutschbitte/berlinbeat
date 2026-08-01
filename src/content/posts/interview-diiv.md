@@ -1,6 +1,7 @@
 ---
 title: DIIV
 date: '2013-01-23'
+author: natalye
 type: interview
 band: DIIV
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-DIIV - Photo courtesy of Captured TracksIt's almost a surefire thing that when a band is noticed by [Captured Tracks](http://capturedtracks.com/), people need to pay attention. And with [DIIV](https://www.facebook.com/diivnyc), the story doesn't deviate much.
+DIIV - Photo courtesy of Captured Tracks
+
+It's almost a surefire thing that when a band is noticed by [Captured Tracks](http://capturedtracks.com/), people need to pay attention. And with [DIIV](https://www.facebook.com/diivnyc), the story doesn't deviate much.
 
 The four-piece Brooklyn band was formed in 2011 by Zachary Cole Smith, the former guitarist of label-mates Beach Fossils, bringing musicians Devin Ruben Perez, Andrew Bailey, and Colby Hewitt into the mix to complete the lineup.
 

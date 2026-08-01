@@ -1,6 +1,7 @@
 ---
 title: Clay Hips
 date: '2011-09-30'
+author: natalye
 type: interview
 band: Clay Hips
 tags:

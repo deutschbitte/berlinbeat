@@ -1,6 +1,7 @@
 ---
 title: Ja, Panik
 date: '2012-04-18'
+author: natalye
 type: interview
 band: Ja, Panik
 tags:

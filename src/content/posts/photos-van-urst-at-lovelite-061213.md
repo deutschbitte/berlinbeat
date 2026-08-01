@@ -1,6 +1,7 @@
 ---
 title: Van Urst at Lovelite 06/12/13
 date: '2013-12-27'
+author: Heike
 type: photos
 band: Van Urst
 venue: Lovelite

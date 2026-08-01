@@ -1,6 +1,7 @@
 ---
 title: Sivu
 date: '2014-09-04'
+author: K Hawthorne
 type: interview
 band: Sivu
 tags:

@@ -1,6 +1,7 @@
 ---
 title: La Dispute
 date: '2012-01-18'
+author: natalye
 type: interview
 band: La Dispute
 tags:

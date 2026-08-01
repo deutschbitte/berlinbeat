@@ -1,6 +1,7 @@
 ---
 title: Russ Rankin at Privatclub 04/05/13
 date: '2013-09-16'
+author: natalye
 type: photos
 band: Russ Rankin
 venue: Privatclub

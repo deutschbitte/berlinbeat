@@ -1,6 +1,7 @@
 ---
 title: Kate Boy, Son Lux, and Youth Kills at Bi Nuu 14/01/14
 date: '2014-01-20'
+author: K Hawthorne
 type: review
 reviewType: show
 band: Kate Boy, Son Lux, and Youth Kills

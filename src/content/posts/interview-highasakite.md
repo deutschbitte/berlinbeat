@@ -1,6 +1,7 @@
 ---
 title: Highasakite
 date: '2012-11-11'
+author: natalye
 type: interview
 band: Highasakite
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Highasakite - Photo courtesy of HighasakiteThere is an air of apprehension as the members of [Highasakite](http://www.highasakite.no/), a Norwegian indie pop band, sit down in the underground backstage of Bi Nuu. It's September and the Berlin venue–located beneath a U-Bahn station–is host to one of dozens of [Berlin Music Week](http://www.berlin-music-week.de/)\-related shows throughout the city. And although it's still too soon for the members to feel nervous about the weekend's shows, the collectively soft-spoken group admitted that this interview is its first outside of Norway, and in English no less.
+Highasakite - Photo courtesy of Highasakite
+
+There is an air of apprehension as the members of [Highasakite](http://www.highasakite.no/), a Norwegian indie pop band, sit down in the underground backstage of Bi Nuu. It's September and the Berlin venue–located beneath a U-Bahn station–is host to one of dozens of [Berlin Music Week](http://www.berlin-music-week.de/)\-related shows throughout the city. And although it's still too soon for the members to feel nervous about the weekend's shows, the collectively soft-spoken group admitted that this interview is its first outside of Norway, and in English no less.
 
 It's not long, however, before the quintet, which consists of founding members Ingrid Helene Håvik and Trond Bersu, veteran Øystein Skar, and relative newcomers Marte Eberson and Kristoffer Lo, is opening up about its history, its perceived setbacks, and its aspirations.
 

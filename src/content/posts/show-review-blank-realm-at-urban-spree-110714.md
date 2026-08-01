@@ -1,6 +1,7 @@
 ---
 title: Blank Realm at Urban Spree 11/07/14
 date: '2014-07-19'
+author: chloe_louise
 type: review
 reviewType: show
 band: Blank Realm

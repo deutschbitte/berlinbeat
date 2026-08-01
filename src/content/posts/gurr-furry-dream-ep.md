@@ -1,6 +1,7 @@
 ---
 title: GURR - "Furry Dream"
 date: '2015-05-06'
+author: Malte Grotendorst
 type: review
 reviewType: album
 band: GURR

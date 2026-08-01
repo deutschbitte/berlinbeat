@@ -1,6 +1,7 @@
 ---
 title: Sløtface
 date: '2017-09-17'
+author: natalye
 type: interview
 band: Sløtface
 tags:

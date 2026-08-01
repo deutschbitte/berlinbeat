@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Dear Reader at Lido 03/02/12
 date: '2012-02-27'
+author: natalye
 type: photos
 band: Dear Reader
 venue: Lido

@@ -1,6 +1,7 @@
 ---
 title: French Films
 date: '2011-12-16'
+author: natalye
 type: interview
 band: French Films
 tags:

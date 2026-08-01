@@ -1,6 +1,7 @@
 ---
 title: Crystal Fighters at Lido 24/05/14
 date: '2014-08-14'
+author: natalye
 type: photos
 band: Crystal Fighters
 venue: Lido

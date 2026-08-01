@@ -1,13 +1,14 @@
 ---
-title: Captain Capa at Musik &amp; Frieden 12/05/17
+title: Captain Capa at Musik & Frieden 12/05/17
 date: '2017-09-18'
+author: natalye
 type: photos
 band: Captain Capa
-venue: Musik &amp; Frieden
+venue: Musik & Frieden
 tags:
   - Captain Capa
   - German
-  - Musik &amp; Frieden
+  - Musik & Frieden
 coverImage: https://farm5.staticflickr.com/4409/36902609030_6a43196529_z.jpg
 gallery:
   - https://farm5.staticflickr.com/4409/36902609030_6a43196529_z.jpg

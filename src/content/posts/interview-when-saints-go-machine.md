@@ -1,6 +1,7 @@
 ---
 title: When Saints Go Machine
 date: '2012-09-08'
+author: natalye
 type: interview
 band: When Saints Go Machine
 tags:
@@ -15,7 +16,9 @@ gallery: []
 draft: false
 ---
 
-When Saints Go Machine - Photo courtesy of When Saints Go MachineSeated along the waterfront, just steps away from [Vooruit](http://vooruit.be/)\--site of this year's [10 Days Off](http://www.10daysoff.be/) festival in Ghent, Belgium--the members of [When Saints Go Machine](http://www.whensaintsgomachine.com/) spent some time tackling the question of how national identity forms certain styles of music.
+When Saints Go Machine - Photo courtesy of When Saints Go Machine
+
+Seated along the waterfront, just steps away from [Vooruit](http://vooruit.be/)\--site of this year's [10 Days Off](http://www.10daysoff.be/) festival in Ghent, Belgium--the members of [When Saints Go Machine](http://www.whensaintsgomachine.com/) spent some time tackling the question of how national identity forms certain styles of music.
 
 The band--a Danish electropop foursome, consisting of Silas Moldenhawer (drums), Jonas Kenton (synth), Simon Muschinsky (keys), and Nikolaj Manuel Vonsild (vocals)--hails from Copenhagen. With slightly more than 1 million residents, the capital city has a lot of musical movement, but as Moldenhawer shared, the scene is very much intertwined on a personal level. This close-knit feeling, when combined with various overlapping scenes, creates an interesting scenario, in which a major city seems to lack a musical focal point.
 

@@ -1,6 +1,7 @@
 ---
 title: Indian Summer Westward HO
 date: '2017-02-21'
+author: natalye
 type: interview
 band: Indian Summer Westward HO
 tags:

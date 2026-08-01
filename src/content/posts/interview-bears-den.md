@@ -1,6 +1,7 @@
 ---
 title: Bear's Den
 date: '2014-10-14'
+author: K Hawthorne
 type: interview
 band: Bear's Den
 tags:

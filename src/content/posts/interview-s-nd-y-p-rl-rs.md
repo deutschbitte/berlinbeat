@@ -1,6 +1,7 @@
 ---
 title: S ND Y P RL RS
 date: '2012-01-05'
+author: natalye
 type: interview
 band: S ND Y P RL RS
 tags:

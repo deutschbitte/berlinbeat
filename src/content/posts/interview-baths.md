@@ -1,6 +1,7 @@
 ---
 title: Baths
 date: '2013-11-08'
+author: natalye
 type: interview
 band: Baths
 tags:

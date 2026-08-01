@@ -1,6 +1,7 @@
 ---
 title: Touchy Mob
 date: '2011-08-12'
+author: natalye
 type: interview
 band: Touchy Mob
 tags:

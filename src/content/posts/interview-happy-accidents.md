@@ -1,6 +1,7 @@
 ---
 title: Happy Accidents
 date: '2018-10-02'
+author: natalye
 type: interview
 band: Happy Accidents
 tags:

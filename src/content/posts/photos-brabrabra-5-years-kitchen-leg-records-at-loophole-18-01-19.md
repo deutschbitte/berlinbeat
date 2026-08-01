@@ -1,6 +1,7 @@
 ---
 title: Brabrabra (5 Years Kitchen Leg Records) at Loophole 18/01/19
 date: '2019-02-12'
+author: klirrsjourney
 type: photos
 band: Brabrabra (5 Years Kitchen Leg Records)
 venue: Loophole

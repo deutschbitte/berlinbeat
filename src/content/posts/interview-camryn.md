@@ -1,6 +1,7 @@
 ---
 title: Camryn
 date: '2013-05-10'
+author: natalye
 type: interview
 band: Camryn
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Camryn - Photo courtesy of CamrynIt was just a few years ago that Camryn Magness was living a relatively normal life in her hometown of Denver. Fast-forward to today and the 13-year-old singer is living in Los Angeles and pursuing her dreams of being a singer under the first-name-only moniker of [Camryn](http://www.camrynmusic.com/).
+Camryn - Photo courtesy of Camryn
+
+It was just a few years ago that Camryn Magness was living a relatively normal life in her hometown of Denver. Fast-forward to today and the 13-year-old singer is living in Los Angeles and pursuing her dreams of being a singer under the first-name-only moniker of [Camryn](http://www.camrynmusic.com/).
 
 What's more, and what few pop stars can boast, is that Camryn is on the road as the opening act for English-Irish power pop boy band One Direction - and for not the first time.
 

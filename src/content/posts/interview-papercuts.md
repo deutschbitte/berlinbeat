@@ -1,6 +1,7 @@
 ---
 title: Papercuts
 date: '2011-06-24'
+author: natalye
 type: interview
 band: Papercuts
 tags:

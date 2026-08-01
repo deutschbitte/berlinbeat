@@ -1,6 +1,7 @@
 ---
 title: The Gaslight Anthem, Deer Tick, and Bayside at Columbiahalle 31/10/14
 date: '2015-01-08'
+author: punkrockdoll
 type: review
 reviewType: show
 band: The Gaslight Anthem, Deer Tick, and Bayside

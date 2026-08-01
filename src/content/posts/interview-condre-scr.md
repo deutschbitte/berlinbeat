@@ -1,6 +1,7 @@
 ---
 title: Condre Scr
 date: '2013-04-26'
+author: natalye
 type: interview
 band: Condre Scr
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Amen Dunes at Monarch 28/11/14
 date: '2014-12-16'
+author: chloe_louise
 type: review
 reviewType: show
 band: Amen Dunes

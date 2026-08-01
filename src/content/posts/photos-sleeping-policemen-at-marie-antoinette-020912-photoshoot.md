@@ -1,6 +1,7 @@
 ---
 title: Sleeping Policemen at Marie Antoinette 02/09/12 (Photoshoot)
 date: '2013-05-24'
+author: natalye
 type: photos
 band: Sleeping Policemen
 venue: Marie Antoinette 02/09/12 (Photoshoot)

@@ -1,6 +1,7 @@
 ---
 title: The Appleseed Cast
 date: '2013-10-31'
+author: natalye
 type: interview
 band: The Appleseed Cast
 tags:

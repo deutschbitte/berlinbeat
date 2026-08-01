@@ -1,6 +1,7 @@
 ---
 title: Sebadoh
 date: '2011-08-08'
+author: natalye
 type: interview
 band: Sebadoh
 tags:

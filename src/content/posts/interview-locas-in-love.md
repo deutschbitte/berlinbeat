@@ -1,6 +1,7 @@
 ---
 title: Locas in Love
 date: '2011-10-09'
+author: natalye
 type: interview
 band: Locas in Love
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Petethepiratesquid at Kili Club 18/10/2013
 date: '2013-10-22'
+author: Heike
 type: photos
 band: Petethepiratesquid
 venue: Kili Club

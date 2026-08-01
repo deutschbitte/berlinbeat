@@ -1,6 +1,7 @@
 ---
 title: Der Elegante Rest
 date: '2011-08-23'
+author: natalye
 type: interview
 band: Der Elegante Rest
 tags:

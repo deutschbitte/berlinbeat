@@ -1,6 +1,7 @@
 ---
 title: Band à Part at Roter Salon 28/07/12
 date: '2012-10-13'
+author: natalye
 type: photos
 band: Band à Part
 venue: Roter Salon

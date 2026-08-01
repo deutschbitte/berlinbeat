@@ -1,6 +1,7 @@
 ---
 title: Candy Boys + Pastor Leumund at ://about blank 14/07/18
 date: '2018-07-20'
+author: steventhirsty
 type: photos
 band: Candy Boys + Pastor Leumund
 venue: ://about blank

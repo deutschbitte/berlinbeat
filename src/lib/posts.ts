@@ -34,30 +34,6 @@ export function slugify(value: string): string {
     .replace(/(^-|-$)/g, '');
 }
 
-// Venue names come from free-text title parsing, so the same venue can show
-// up with different capitalization/punctuation (e.g. "About Blank" vs.
-// "://about blank"). Group by slug and pick the most common exact spelling
-// as the canonical display name, so those variants collapse into one venue
-// page instead of colliding on the same URL.
-export function uniqueVenues(posts: Post[]): string[] {
-  const countsBySlug = new Map<string, Map<string, number>>();
-
-  for (const post of posts) {
-    const venue = post.data.venue;
-    if (!venue) continue;
-    const slug = slugify(venue);
-    const variants = countsBySlug.get(slug) ?? new Map<string, number>();
-    variants.set(venue, (variants.get(venue) ?? 0) + 1);
-    countsBySlug.set(slug, variants);
-  }
-
-  const canonicalNames = [...countsBySlug.values()].map((variants) => {
-    return [...variants.entries()].sort((a, b) => b[1] - a[1])[0][0];
-  });
-
-  return canonicalNames.sort((a, b) => a.localeCompare(b));
-}
-
 export function uniqueTags(posts: Post[]): string[] {
   const tags = posts.flatMap((p) => p.data.tags);
   return [...new Set(tags)].sort((a, b) => a.localeCompare(b));

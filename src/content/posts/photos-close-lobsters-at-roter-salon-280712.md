@@ -1,6 +1,7 @@
 ---
 title: Close Lobsters at Roter Salon 28/07/12
 date: '2012-11-12'
+author: natalye
 type: photos
 band: Close Lobsters
 venue: Roter Salon

@@ -1,6 +1,7 @@
 ---
 title: Darren Hanlon
 date: '2011-08-25'
+author: natalye
 type: interview
 band: Darren Hanlon
 tags:

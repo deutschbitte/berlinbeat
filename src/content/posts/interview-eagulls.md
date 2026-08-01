@@ -1,6 +1,7 @@
 ---
 title: Eagulls
 date: '2014-05-05'
+author: K Hawthorne
 type: interview
 band: Eagulls
 tags:

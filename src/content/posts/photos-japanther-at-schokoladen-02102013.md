@@ -1,6 +1,7 @@
 ---
 title: Japanther at Schokoladen 02/10/2013
 date: '2013-10-15'
+author: klirrsjourney
 type: photos
 band: Japanther
 venue: Schokoladen

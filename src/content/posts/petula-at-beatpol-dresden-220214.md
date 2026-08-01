@@ -1,6 +1,7 @@
 ---
 title: Petula at Beatpol Dresden 22/02/14
 date: '2014-03-12'
+author: Heike
 type: photos
 band: Petula
 venue: Beatpol Dresden

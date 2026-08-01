@@ -1,6 +1,7 @@
 ---
 title: Purling Hiss
 date: '2011-09-28'
+author: natalye
 type: interview
 band: Purling Hiss
 tags:

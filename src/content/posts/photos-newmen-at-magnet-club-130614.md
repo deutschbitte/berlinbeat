@@ -1,6 +1,7 @@
 ---
 title: NEWMEN at Magnet Club 13/06/14
 date: '2014-06-16'
+author: natalye
 type: photos
 band: NEWMEN
 venue: Magnet Club

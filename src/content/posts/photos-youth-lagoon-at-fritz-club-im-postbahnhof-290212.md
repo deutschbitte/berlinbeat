@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Youth Lagoon at Fritz Club im Postbahnhof 29/02/12
 date: '2012-03-21'
+author: natalye
 type: photos
 band: Youth Lagoon
 venue: Fritz Club im Postbahnhof

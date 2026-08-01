@@ -1,6 +1,7 @@
 ---
 title: Trümmer at Waschhaus Potsdam 03/12/13
 date: '2013-12-16'
+author: Heike
 type: photos
 band: Trümmer
 venue: Waschhaus Potsdam

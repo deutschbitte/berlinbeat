@@ -1,6 +1,7 @@
 ---
 title: Museum
 date: '2011-09-08'
+author: natalye
 type: interview
 band: Museum
 tags:

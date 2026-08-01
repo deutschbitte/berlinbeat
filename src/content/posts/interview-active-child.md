@@ -1,6 +1,7 @@
 ---
 title: Active Child
 date: '2012-03-09'
+author: natalye
 type: interview
 band: Active Child
 tags:

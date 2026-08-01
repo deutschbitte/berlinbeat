@@ -1,6 +1,7 @@
 ---
 title: Hot Trigger at Bassy Club 06/07/13
 date: '2013-07-31'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Hot Trigger

@@ -1,6 +1,7 @@
 ---
 title: BoySetsFire
 date: '2014-10-07'
+author: natalye
 type: interview
 band: BoySetsFire
 tags:

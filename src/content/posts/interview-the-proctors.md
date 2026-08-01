@@ -1,6 +1,7 @@
 ---
 title: The Proctors
 date: '2012-07-28'
+author: natalye
 type: interview
 band: The Proctors
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-The Proctors - Photo courtesy of The ProctorsThe standard for many bands is to write some songs, take on some gigs, write some more songs, and eventually get around to recording an album. But that's most bands, and if nothing else is clear, [the Proctors](https://www.facebook.com/pages/The-Proctors/147843178561745) aren't most bands.
+The Proctors - Photo courtesy of The Proctors
+
+The standard for many bands is to write some songs, take on some gigs, write some more songs, and eventually get around to recording an album. But that's most bands, and if nothing else is clear, [the Proctors](https://www.facebook.com/pages/The-Proctors/147843178561745) aren't most bands.
 
 In fact, the band formed in 1993 but didn't play its first show until a performance in Cambridge in April of last year, preferring instead to release singles, 7-inches, and EPs.
 

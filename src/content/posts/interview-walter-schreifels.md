@@ -1,6 +1,7 @@
 ---
 title: Walter Schreifels
 date: '2014-08-27'
+author: natalye
 type: interview
 band: Walter Schreifels
 tags:

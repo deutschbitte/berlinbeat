@@ -1,6 +1,7 @@
 ---
 title: David Bazan at Privatclub 11/02/13
 date: '2013-09-11'
+author: natalye
 type: photos
 band: David Bazan
 venue: Privatclub

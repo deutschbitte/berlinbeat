@@ -1,12 +1,13 @@
 ---
-title: Saba Lou + Joey Bargeld + Christiane Rösinger &amp; Andreas Spechtl at ://about blank 14/07/18
+title: Saba Lou + Joey Bargeld + Christiane Rösinger & Andreas Spechtl at ://about blank 14/07/18
 date: '2018-07-23'
+author: steventhirsty
 type: photos
-band: Saba Lou + Joey Bargeld + Christiane Rösinger &amp; Andreas Spechtl
+band: Saba Lou + Joey Bargeld + Christiane Rösinger & Andreas Spechtl
 venue: ://about blank
 tags:
   - ://About Blank
-  - Christiane Rösinger &amp; Andreas Spechtl
+  - Christiane Rösinger & Andreas Spechtl
   - Down By The River Festival
   - Joey Bargeld
   - Saba Lou

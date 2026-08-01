@@ -1,11 +1,12 @@
 ---
-title: Boy &amp; Bear
+title: Boy & Bear
 date: '2014-03-04'
+author: natalye
 type: interview
-band: Boy &amp; Bear
+band: Boy & Bear
 tags:
   - Australian
-  - Boy &amp; Bear
+  - Boy & Bear
   - Feature
 coverImage: http://berlinbeat.org/wp-content/uploads/2014/03/42d177e763061f5e82ed3d3c99a0fc0a1-650x400.jpg?w=300
 gallery: []

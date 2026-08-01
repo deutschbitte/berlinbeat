@@ -1,6 +1,7 @@
 ---
 title: Uh Huh Her
 date: '2012-04-17'
+author: natalye
 type: interview
 band: Uh Huh Her
 tags:

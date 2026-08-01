@@ -1,6 +1,7 @@
 ---
 title: mOck - "mOck"
 date: '2012-05-25'
+author: natalye
 type: review
 reviewType: album
 band: mOck

@@ -1,6 +1,7 @@
 ---
 title: Crocodiles
 date: '2012-05-31'
+author: natalye
 type: interview
 band: Crocodiles
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Crocodiles - Photo by Alex KachaAlthough the band [Crocodiles](https://www.facebook.com/killcrocodiles) hails from Southern California, the members are no strangers to Berlin.
+Crocodiles - Photo by Alex Kacha
+
+Although the band [Crocodiles](https://www.facebook.com/killcrocodiles) hails from Southern California, the members are no strangers to Berlin.
 
 "Last year we returned, and that was when we fell in love the city," guitarist Charles Rowell said.
 

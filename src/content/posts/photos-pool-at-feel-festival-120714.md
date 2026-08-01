@@ -1,6 +1,7 @@
 ---
 title: Pool at Feel Festival 12/07/14
 date: '2014-07-30'
+author: natalye
 type: photos
 band: Pool
 venue: Feel Festival

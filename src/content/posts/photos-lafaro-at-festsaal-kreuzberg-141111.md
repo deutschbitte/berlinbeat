@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: LaFaro at Festsaal Kreuzberg 14/11/11
 date: '2012-01-17'
+author: natalye
 type: photos
 band: LaFaro
 venue: Festsaal Kreuzberg

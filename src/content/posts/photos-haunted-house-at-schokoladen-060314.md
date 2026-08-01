@@ -1,6 +1,7 @@
 ---
 title: Haunted House at Schokoladen 06/03/14
 date: '2014-03-17'
+author: klirrsjourney
 type: photos
 band: Haunted House
 venue: Schokoladen

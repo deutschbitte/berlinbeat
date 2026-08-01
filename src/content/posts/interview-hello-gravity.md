@@ -1,6 +1,7 @@
 ---
 title: Hello Gravity
 date: '2012-02-12'
+author: natalye
 type: interview
 band: Hello Gravity
 tags:

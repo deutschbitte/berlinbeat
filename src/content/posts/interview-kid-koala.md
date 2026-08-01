@@ -1,6 +1,7 @@
 ---
 title: Kid Koala
 date: '2011-12-19'
+author: natalye
 type: interview
 band: Kid Koala
 tags:

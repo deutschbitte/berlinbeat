@@ -1,6 +1,7 @@
 ---
 title: Gurr at Schokoladen 13/03/14
 date: '2014-03-19'
+author: klirrsjourney
 type: photos
 band: Gurr
 venue: Schokoladen

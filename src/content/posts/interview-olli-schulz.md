@@ -1,6 +1,7 @@
 ---
 title: Olli Schulz
 date: '2011-06-02'
+author: natalye
 type: interview
 band: Olli Schulz
 tags:

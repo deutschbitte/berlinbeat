@@ -1,6 +1,7 @@
 ---
 title: Age of Consent
 date: '2012-06-12'
+author: natalye
 type: interview
 band: Age of Consent
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Age of Consent - Photo courtesy of Age of ConsentThe first thing to come to the minds of most people when hearing the phrase "age of consent" is often the song of the same name by New Order, but Joe Reeves and Darren Cullen are in the process of giving it a new spin.
+Age of Consent - Photo courtesy of Age of Consent
+
+The first thing to come to the minds of most people when hearing the phrase "age of consent" is often the song of the same name by New Order, but Joe Reeves and Darren Cullen are in the process of giving it a new spin.
 
 The two, who make up relatively newly-formed [Age of Consent](http://ageofconsent.co.uk/), play a version of electronic dance music considered to fall under the gothic-pop label. But while they are just beginning to make a name for themselves, others may already know them from their previous project, Glasgow-based [SHITDISCO](http://www.shitdisco.co.uk/), a dance-punk band, which amicably called it quits in 2009.
 

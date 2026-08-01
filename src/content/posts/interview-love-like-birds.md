@@ -1,6 +1,7 @@
 ---
 title: Love Like Birds
 date: '2012-12-15'
+author: natalye
 type: interview
 band: Love Like Birds
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Touché Amoré
 date: '2012-08-19'
+author: natalye
 type: interview
 band: Touché Amoré
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Touché Amoré - Photo courtesy of Deathwish Inc.It's impossible to mention any of the following band names – Defeater, La Dispute, Make Do and Mend, Pianos Become the Teeth, [Touché Amoré](http://www.toucheamore.com/) – without some reference to "The Wave." The term, which is a self-prescribed moniker for this quintet of post-hardcore bands, dates back a few years and has been proclaimed far and wide in nearly every bit of press surrounding them.
+Touché Amoré - Photo courtesy of Deathwish Inc.
+
+It's impossible to mention any of the following band names – Defeater, La Dispute, Make Do and Mend, Pianos Become the Teeth, [Touché Amoré](http://www.toucheamore.com/) – without some reference to "The Wave." The term, which is a self-prescribed moniker for this quintet of post-hardcore bands, dates back a few years and has been proclaimed far and wide in nearly every bit of press surrounding them.
 
 But Touché Amoré singer, Jeremy Bolm, laughed and shook his head when discussing the topic, insisting that it's not so much a movement, as purported, but rather a proclamation of friendship that became misconstrued.
 

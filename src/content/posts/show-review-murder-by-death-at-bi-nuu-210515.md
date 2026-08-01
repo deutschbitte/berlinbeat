@@ -1,6 +1,7 @@
 ---
 title: Murder By Death at Bi Nuu 21/05/15
 date: '2015-06-27'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Murder By Death

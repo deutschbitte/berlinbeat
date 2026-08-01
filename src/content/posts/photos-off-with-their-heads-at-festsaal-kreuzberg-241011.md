@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Off With Their Heads at Festsaal Kreuzberg 24/10/11
 date: '2011-12-22'
+author: natalye
 type: photos
 band: Off With Their Heads
 venue: Festsaal Kreuzberg

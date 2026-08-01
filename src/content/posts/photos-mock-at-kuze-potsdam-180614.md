@@ -1,6 +1,7 @@
 ---
 title: mOck at Kuze Potsdam 18/06/14
 date: '2014-07-24'
+author: Heike
 type: photos
 band: mOck
 venue: Kuze Potsdam

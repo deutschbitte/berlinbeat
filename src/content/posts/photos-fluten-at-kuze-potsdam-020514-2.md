@@ -1,6 +1,7 @@
 ---
 title: Fluten at Kuze Potsdam 02/05/14
 date: '2014-05-26'
+author: Heike
 type: photos
 band: Fluten
 venue: Kuze Potsdam

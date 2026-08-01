@@ -1,6 +1,7 @@
 ---
 title: Fluxkompensator at Subversiv 03/11/12
 date: '2013-07-11'
+author: natalye
 type: photos
 band: Fluxkompensator
 venue: Subversiv

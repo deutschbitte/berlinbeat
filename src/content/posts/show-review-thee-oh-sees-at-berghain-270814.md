@@ -1,6 +1,7 @@
 ---
 title: Thee Oh Sees at Berghain 27/08/14
 date: '2014-09-02'
+author: chloe_louise
 type: review
 reviewType: show
 band: Thee Oh Sees

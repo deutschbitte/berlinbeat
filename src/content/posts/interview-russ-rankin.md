@@ -1,6 +1,7 @@
 ---
 title: Russ Rankin
 date: '2013-06-06'
+author: natalye
 type: interview
 band: Russ Rankin
 tags:

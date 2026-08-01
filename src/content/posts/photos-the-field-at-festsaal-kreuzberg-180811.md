@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: The Field at Festsaal Kreuzberg 18/08/11
 date: '2011-08-23'
+author: natalye
 type: photos
 band: The Field
 venue: Festsaal Kreuzberg

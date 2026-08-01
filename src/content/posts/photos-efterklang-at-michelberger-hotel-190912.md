@@ -1,6 +1,7 @@
 ---
 title: Efterklang at Michelberger Hotel 19/09/12
 date: '2013-06-18'
+author: natalye
 type: photos
 band: Efterklang
 venue: Michelberger Hotel

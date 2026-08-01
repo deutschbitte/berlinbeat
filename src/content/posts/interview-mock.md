@@ -1,6 +1,7 @@
 ---
 title: mOck
 date: '2017-07-08'
+author: natalye
 type: interview
 band: mOck
 tags:

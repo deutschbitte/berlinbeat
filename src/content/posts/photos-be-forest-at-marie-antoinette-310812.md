@@ -1,6 +1,7 @@
 ---
 title: Be Forest at Marie Antoinette 31/08/12
 date: '2013-04-13'
+author: natalye
 type: photos
 band: Be Forest
 venue: Marie Antoinette

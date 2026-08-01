@@ -1,6 +1,7 @@
 ---
 title: EF at Magnet Club 05/11/13
 date: '2013-11-20'
+author: natalye
 type: photos
 band: EF
 venue: Magnet Club

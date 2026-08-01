@@ -1,6 +1,7 @@
 ---
 title: Magnetic Poetry
 date: '2012-02-04'
+author: natalye
 type: interview
 band: Magnetic Poetry
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Nils Folke Valdemar
 date: '2011-09-01'
+author: natalye
 type: interview
 band: Nils Folke Valdemar
 tags:

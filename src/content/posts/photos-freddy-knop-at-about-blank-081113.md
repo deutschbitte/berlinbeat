@@ -1,6 +1,7 @@
 ---
 title: Freddy Knop at About Blank 08/11/13
 date: '2013-11-26'
+author: natalye
 type: photos
 band: Freddy Knop
 venue: About Blank

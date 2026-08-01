@@ -1,6 +1,7 @@
 ---
 title: Cursive
 date: '2012-05-13'
+author: natalye
 type: interview
 band: Cursive
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Cursive - Photo by Daniel MullerAnyone who knows anything about [Cursive](http://www.cursivearmy.com/) understands that the members of the band are no strangers to concept albums.
+Cursive - Photo by Daniel Muller
+
+Anyone who knows anything about [Cursive](http://www.cursivearmy.com/) understands that the members of the band are no strangers to concept albums.
 
 This is largely due to the fact that lead singer and guitarist Tim Kasher, who is also the band's lyricist, is the kind of guy who has the tendency to see beyond face value of a set of lyrics, instead visualizing an entire story that simply needs more space than the confines of a song to say its piece.
 

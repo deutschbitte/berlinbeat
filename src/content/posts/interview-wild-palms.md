@@ -1,6 +1,7 @@
 ---
 title: Wild Palms
 date: '2011-09-16'
+author: natalye
 type: interview
 band: Wild Palms
 tags:

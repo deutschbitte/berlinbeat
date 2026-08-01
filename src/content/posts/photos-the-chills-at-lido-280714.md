@@ -1,6 +1,7 @@
 ---
 title: The Chills at Lido 28/07/14
 date: '2015-01-15'
+author: natalye
 type: photos
 band: The Chills
 venue: Lido

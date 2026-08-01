@@ -1,6 +1,7 @@
 ---
 title: King Tuff at Magnet Club 27/11/14
 date: '2014-12-29'
+author: punkrockdoll
 type: review
 reviewType: show
 band: King Tuff

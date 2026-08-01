@@ -1,6 +1,7 @@
 ---
 title: Damien Jurado
 date: '2012-03-07'
+author: natalye
 type: interview
 band: Damien Jurado
 tags:

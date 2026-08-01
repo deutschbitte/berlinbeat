@@ -1,6 +1,7 @@
 ---
 title: Joan of Arc
 date: '2013-12-16'
+author: natalye
 type: interview
 band: Joan of Arc
 tags:

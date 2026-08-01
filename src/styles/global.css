@@ -65,37 +65,47 @@
     background: var(--fg);
     color: var(--bg);
   }
-
-  .prose {
-    line-height: 1.55;
-    --tw-prose-body: var(--fg);
-    --tw-prose-headings: var(--fg);
-    --tw-prose-lead: var(--fg-muted);
-    --tw-prose-links: var(--fg);
-    --tw-prose-bold: var(--fg);
-    --tw-prose-counters: var(--fg-muted);
-    --tw-prose-bullets: var(--fg-muted);
-    --tw-prose-hr: var(--border);
-    --tw-prose-quotes: var(--fg);
-    --tw-prose-quote-borders: var(--border);
-    --tw-prose-captions: var(--fg-muted);
-    --tw-prose-code: var(--fg);
-    --tw-prose-th-borders: var(--border);
-    --tw-prose-td-borders: var(--border);
-  }
-
-  .prose a {
-    text-decoration: underline;
-  }
-
-  .prose p {
-    margin-top: 0.85em;
-    margin-bottom: 0.85em;
-  }
 }
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+
+/*
+ * Deliberately outside any @layer. @tailwindcss/typography defines its own
+ * --tw-prose-* defaults (calibrated for dark text on a light page) inside
+ * Tailwind's utilities layer. Cascade layers resolve strictly by layer order
+ * regardless of rule order, so a same-specificity override placed in
+ * @layer base loses to that silently — the theme's actual --fg/--fg-muted
+ * values never take effect and prose text renders in the plugin's default
+ * dark-gray-on-white palette even in dark mode. An unlayered rule always
+ * wins over any layered one, so this has to live here, not in @layer base.
+ */
+.prose {
+  line-height: 1.55;
+  --tw-prose-body: var(--fg);
+  --tw-prose-headings: var(--fg);
+  --tw-prose-lead: var(--fg-muted);
+  --tw-prose-links: var(--fg);
+  --tw-prose-bold: var(--fg);
+  --tw-prose-counters: var(--fg-muted);
+  --tw-prose-bullets: var(--fg-muted);
+  --tw-prose-hr: var(--border);
+  --tw-prose-quotes: var(--fg);
+  --tw-prose-quote-borders: var(--border);
+  --tw-prose-captions: var(--fg-muted);
+  --tw-prose-code: var(--fg);
+  --tw-prose-th-borders: var(--border);
+  --tw-prose-td-borders: var(--border);
+}
+
+.prose a {
+  text-decoration: underline;
+}
+
+.prose p {
+  margin-top: 0.85em;
+  margin-bottom: 0.85em;
 }

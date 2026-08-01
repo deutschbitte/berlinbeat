@@ -1,6 +1,7 @@
 ---
 title: Atom Tree
 date: '2013-11-30'
+author: natalye
 type: interview
 band: Atom Tree
 tags:

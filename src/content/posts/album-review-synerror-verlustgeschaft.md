@@ -1,6 +1,7 @@
 ---
 title: syn*error - "Verlustgeschäft"
 date: '2011-07-29'
+author: natalye
 type: review
 reviewType: album
 band: syn*error

@@ -1,6 +1,7 @@
 ---
 title: The Dropout Patrol – "The Dropout Patrol"
 date: '2012-09-05'
+author: natalye
 type: review
 reviewType: album
 band: The Dropout Patrol

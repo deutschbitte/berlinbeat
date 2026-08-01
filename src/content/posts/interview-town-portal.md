@@ -1,6 +1,7 @@
 ---
 title: Town Portal
 date: '2012-02-03'
+author: natalye
 type: interview
 band: Town Portal
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Fluffers at Schokoladen 02/10/2013
 date: '2013-10-14'
+author: klirrsjourney
 type: photos
 band: Fluffers
 venue: Schokoladen

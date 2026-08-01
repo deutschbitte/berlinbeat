@@ -1,6 +1,7 @@
 ---
 title: The Black Atlantic at Roter Salon 25/07/12
 date: '2012-10-10'
+author: natalye
 type: photos
 band: The Black Atlantic
 venue: Roter Salon

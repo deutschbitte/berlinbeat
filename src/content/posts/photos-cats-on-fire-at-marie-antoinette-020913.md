@@ -1,6 +1,7 @@
 ---
 title: Cats on Fire at Marie Antoinette 02/09/13
 date: '2013-06-16'
+author: natalye
 type: photos
 band: Cats on Fire
 venue: Marie Antoinette

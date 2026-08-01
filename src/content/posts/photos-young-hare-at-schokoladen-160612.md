@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Young Hare at Schokoladen 16/06/12
 date: '2012-08-14'
+author: natalye
 type: photos
 band: Young Hare
 venue: Schokoladen

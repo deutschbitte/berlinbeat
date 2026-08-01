@@ -1,6 +1,7 @@
 ---
 title: mOck at Schokoladen 14/02/15
 date: '2015-03-17'
+author: Heike
 type: photos
 band: mOck
 venue: Schokoladen

@@ -1,6 +1,7 @@
 ---
 title: Herrenmagazin at Feel Festival 12/07/14
 date: '2014-08-12'
+author: natalye
 type: photos
 band: Herrenmagazin
 venue: Feel Festival

@@ -1,6 +1,7 @@
 ---
 title: Baths at About Blank 08/11/13
 date: '2014-01-30'
+author: natalye
 type: photos
 band: Baths
 venue: About Blank

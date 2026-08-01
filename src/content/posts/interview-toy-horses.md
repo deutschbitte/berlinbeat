@@ -1,6 +1,7 @@
 ---
 title: Toy Horses
 date: '2011-09-10'
+author: natalye
 type: interview
 band: Toy Horses
 tags:

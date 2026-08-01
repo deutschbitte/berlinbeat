@@ -1,6 +1,7 @@
 ---
 title: Max Prosa
 date: '2011-09-03'
+author: natalye
 type: interview
 band: Max Prosa
 tags:

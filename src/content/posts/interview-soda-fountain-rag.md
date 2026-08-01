@@ -1,6 +1,7 @@
 ---
 title: Soda Fountain Rag
 date: '2011-08-28'
+author: natalye
 type: interview
 band: Soda Fountain Rag
 tags:

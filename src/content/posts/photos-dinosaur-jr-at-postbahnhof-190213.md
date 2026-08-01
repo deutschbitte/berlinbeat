@@ -1,6 +1,7 @@
 ---
 title: Dinosaur Jr. at Postbahnhof 19/02/13
 date: '2014-09-24'
+author: natalye
 type: photos
 band: Dinosaur Jr.
 venue: Postbahnhof

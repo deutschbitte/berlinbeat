@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Astronautalis at About Blank 14/02/12
 date: '2012-03-05'
+author: natalye
 type: photos
 band: Astronautalis
 venue: About Blank

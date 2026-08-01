@@ -1,6 +1,7 @@
 ---
 title: YACHT
 date: '2011-08-02'
+author: natalye
 type: interview
 band: YACHT
 tags:

@@ -1,6 +1,7 @@
 ---
 title: I Found Myself in Austin, Texas at Schokoladen 22/06/12
 date: '2012-09-12'
+author: natalye
 type: photos
 band: I Found Myself in Austin, Texas
 venue: Schokoladen

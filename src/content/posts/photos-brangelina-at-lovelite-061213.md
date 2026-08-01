@@ -1,6 +1,7 @@
 ---
 title: Brangelina at Lovelite 06/12/13
 date: '2013-12-26'
+author: Heike
 type: photos
 band: Brangelina
 venue: Lovelite

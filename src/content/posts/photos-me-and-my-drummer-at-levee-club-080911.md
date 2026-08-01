@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Me and My Drummer at Levee Club 08/09/11
 date: '2011-09-15'
+author: natalye
 type: photos
 band: Me and My Drummer
 venue: Levee Club

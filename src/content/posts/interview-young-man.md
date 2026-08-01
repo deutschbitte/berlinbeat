@@ -1,6 +1,7 @@
 ---
 title: Young Man
 date: '2012-11-22'
+author: natalye
 type: interview
 band: Young Man
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Young Man – Photo courtesy of Young ManMusic holds an important place in Colin Caulfield's life, but doing it as a career isn't necessarily an objective he grew up with.
+Young Man – Photo courtesy of Young Man
+
+Music holds an important place in Colin Caulfield's life, but doing it as a career isn't necessarily an objective he grew up with.
 
 "I wasn't really like planning on it," said Caulfield, whose solo-project-turned-band, [Young Man](http://youngmanmusic.net/), first got off the ground when he was living in France in 2010. "\[But\] going to Paris really, like, forced me to...be in situations that I wasn't used to."
 

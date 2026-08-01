@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: Feel Festival Day 1
 date: '2013-07-13'
+author: natalye
 type: photos
 tags:
   - Feel Festival

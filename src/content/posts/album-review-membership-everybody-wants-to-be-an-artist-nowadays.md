@@ -1,6 +1,7 @@
 ---
 title: Membership - "Everybody Wants To Be An Artist Nowadays"
 date: '2011-06-06'
+author: natalye
 type: review
 reviewType: album
 band: Membership

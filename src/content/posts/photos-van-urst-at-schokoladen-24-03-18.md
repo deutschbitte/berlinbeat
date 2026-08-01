@@ -1,6 +1,7 @@
 ---
 title: Van Urst at Schokoladen 24/03/18
 date: '2018-03-27'
+author: steventhirsty
 type: photos
 band: Van Urst
 venue: Schokoladen

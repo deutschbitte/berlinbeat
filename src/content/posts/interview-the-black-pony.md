@@ -1,6 +1,7 @@
 ---
 title: The Black Pony
 date: '2011-10-27'
+author: natalye
 type: interview
 band: The Black Pony
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Cloud Nothings
 date: '2012-05-07'
+author: natalye
 type: interview
 band: Cloud Nothings
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Cloud Nothings - Photo courtesy of Cloud NothingsWhen Dylan Baldi began attending university, he was a music major. Almost immediately, one of his first major realizations was that music could get him where he wanted to be, but also that the kind of music he was doing - playing the saxophone - wasn't exactly the thing that would get him there.
+Cloud Nothings - Photo courtesy of Cloud Nothings
+
+When Dylan Baldi began attending university, he was a music major. Almost immediately, one of his first major realizations was that music could get him where he wanted to be, but also that the kind of music he was doing - playing the saxophone - wasn't exactly the thing that would get him there.
 
 So after toughing out the entire first semester - something he did more to placate his suburban Ohio upbringing than out of a personal desire – he quit in the second semester and started working on putting his solo music out. Thus, his solo-project-turned-band, [Cloud Nothings](http://cloudnothings.com/), transformed from an outlet to a full-time career.
 

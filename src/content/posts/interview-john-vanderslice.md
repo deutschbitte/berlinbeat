@@ -1,6 +1,7 @@
 ---
 title: John Vanderslice
 date: '2011-09-22'
+author: natalye
 type: interview
 band: John Vanderslice
 tags:

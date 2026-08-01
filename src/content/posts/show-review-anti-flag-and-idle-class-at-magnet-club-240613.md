@@ -1,6 +1,7 @@
 ---
 title: Anti-Flag and Idle Class at Magnet Club 24/06/13
 date: '2013-07-09'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Anti-Flag and Idle Class

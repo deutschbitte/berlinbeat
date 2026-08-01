@@ -1,6 +1,7 @@
 ---
 title: The Great Park
 date: '2011-09-09'
+author: natalye
 type: interview
 band: The Great Park
 tags:

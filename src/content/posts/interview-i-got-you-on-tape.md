@@ -1,6 +1,7 @@
 ---
 title: I Got You On Tape
 date: '2013-01-16'
+author: natalye
 type: interview
 band: I Got You On Tape
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-I Got You On Tape - Photo courtesy of Tigerspring RecordsWhen it comes to the Danish indie rock game, the members of [I Got You On Tape](http://igotyouontape.com/) are long-time players. Formed in 2004, the group has four full-lengths to its name, the most recent of which is 2011's "Church of the Real."
+I Got You On Tape - Photo courtesy of Tigerspring Records
+
+When it comes to the Danish indie rock game, the members of [I Got You On Tape](http://igotyouontape.com/) are long-time players. Formed in 2004, the group has four full-lengths to its name, the most recent of which is 2011's "Church of the Real."
 
 But the album did more than service the band's fans when it landed the group a nomination in 2012's Danish Music Awards for the category of Danish Songwriter of the Year. The award ultimately went not to songwriter and vocalist Jacob Bellens, but to Danish-language popstar Rasmus Seebach. However, that the group was nominated perhaps points to the country's music scene embracing alternative music more. Other Danish indie bands that were nominated include When Saints Go Machine, Spleen United, and Oh Land.
 

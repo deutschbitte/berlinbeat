@@ -1,6 +1,7 @@
 ---
 title: The Walkmen
 date: '2012-09-11'
+author: natalye
 type: interview
 band: The Walkmen
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-The Walkmen – Photo courtesy of The WalkmenIt has been 10 years since [The Walkmen](http://thewalkmen.com/) debuted as a proper album-backed band with 2002's "Everyone Who Pretended to Like Me Is Gone." In the decade that has passed, the East Coast-based quintet has accomplished its fair share of things, including following up the debut with six more full-lengths. However, this year was the first time The Walkmen have played Berlin in 10 years, since the group unintentionally made a name for itself, emerging as leaders of a new indie rock scene in New York City.
+The Walkmen – Photo courtesy of The Walkmen
+
+It has been 10 years since [The Walkmen](http://thewalkmen.com/) debuted as a proper album-backed band with 2002's "Everyone Who Pretended to Like Me Is Gone." In the decade that has passed, the East Coast-based quintet has accomplished its fair share of things, including following up the debut with six more full-lengths. However, this year was the first time The Walkmen have played Berlin in 10 years, since the group unintentionally made a name for itself, emerging as leaders of a new indie rock scene in New York City.
 
 Of course a grand affair like returning to the German capital after years of playing Cologne, Hamburg, and Munich–-all while finding it nearly impossible to book gigs in Berlin--didn't come so easily for the group, who toured Europe throughout June in support of the release of "Heaven."
 

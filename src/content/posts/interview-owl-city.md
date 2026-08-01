@@ -1,6 +1,7 @@
 ---
 title: Owl City
 date: '2012-08-01'
+author: natalye
 type: interview
 band: Owl City
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Owl City - Photo courtesy of Owl CityOne would think that self-professed shy guy, [Adam Young](http://ayoungmusic.com/), would have overcome his introvertedness when he – almost overnight – transformed from an unknown 20-something living in a quiet Minnesota town, into a commercial success.
+Owl City - Photo courtesy of Owl City
+
+One would think that self-professed shy guy, [Adam Young](http://ayoungmusic.com/), would have overcome his introvertedness when he – almost overnight – transformed from an unknown 20-something living in a quiet Minnesota town, into a commercial success.
 
 But much in the same way tigers can't ditch their stripes and leopards can't lose their spots, Young remains quite reserved. It's only via his indie pop music project, [Owl City](http://www.owlcity.com), that he finds a way to overcome his reticent nature.
 

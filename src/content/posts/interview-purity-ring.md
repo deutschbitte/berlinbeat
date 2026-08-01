@@ -1,6 +1,7 @@
 ---
 title: Purity Ring
 date: '2012-06-08'
+author: natalye
 type: interview
 band: Purity Ring
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Purity Ring - Photo by Landon SpeersJust a matter of half a decade ago, it was hardly conceivable that a band without an album to its name would have a huge following, but that seems to be exactly the case for [Purity Ring](http://www.purityringsongs.com), a dreamy indie-pop project from Canada.
+Purity Ring - Photo by Landon Speers
+
+Just a matter of half a decade ago, it was hardly conceivable that a band without an album to its name would have a huge following, but that seems to be exactly the case for [Purity Ring](http://www.purityringsongs.com), a dreamy indie-pop project from Canada.
 
 The duo - which consists of Edmonton, Alberta natives Megan James (vocals) and Corin Roddick (everything else) - has been in existence since late 2010, and is just now preparing to release its debut full-length, "Shrines," on [4AD](http://www.4ad.com/)
 

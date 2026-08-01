@@ -1,6 +1,7 @@
 ---
 title: Claire at Feel Festival 14/07/13
 date: '2014-01-06'
+author: natalye
 type: photos
 band: Claire
 venue: Feel Festival

@@ -1,6 +1,7 @@
 ---
 title: Velojet at Waschhaus Potsdam 03/12/13
 date: '2013-12-17'
+author: Heike
 type: photos
 band: Velojet
 venue: Waschhaus Potsdam

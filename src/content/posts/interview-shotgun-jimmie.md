@@ -1,6 +1,7 @@
 ---
 title: Shotgun Jimmie
 date: '2012-05-24'
+author: natalye
 type: interview
 band: Shotgun Jimmie
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Shotgun Jimmie - Photo courtesy of Shotgun JimmieAlthough life on the road may strike many as consistently glamourous, Jim Kilpatrick knows differently.
+Shotgun Jimmie - Photo courtesy of Shotgun Jimmie
+
+Although life on the road may strike many as consistently glamourous, Jim Kilpatrick knows differently.
 
 The Canadian singer-songwriter, who performs under the stage name [Shotgun Jimmie](http://shotgunjimmie.net/), has been performing for years, both as a solo act and in bands, and is aware of just how difficult it is to establish healthy habits while touring.
 

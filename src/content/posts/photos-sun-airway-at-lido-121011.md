@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Sun Airway at Lido 12/10/11
 date: '2011-11-05'
+author: natalye
 type: photos
 band: Sun Airway
 venue: Lido

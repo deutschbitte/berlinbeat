@@ -1,6 +1,7 @@
 ---
 title: Teitur at Privatclub 26/10/13
 date: '2013-10-29'
+author: berlinerbeat
 type: review
 reviewType: show
 band: Teitur

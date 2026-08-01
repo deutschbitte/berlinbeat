@@ -1,6 +1,7 @@
 ---
 title: AWOLNATION
 date: '2011-09-27'
+author: natalye
 type: interview
 band: AWOLNATION
 tags:

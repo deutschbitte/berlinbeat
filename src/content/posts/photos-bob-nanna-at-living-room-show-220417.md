@@ -1,6 +1,7 @@
 ---
 title: Bob Nanna at Living Room Show 22/04/17
 date: '2017-05-16'
+author: natalye
 type: photos
 band: Bob Nanna
 venue: Living Room Show

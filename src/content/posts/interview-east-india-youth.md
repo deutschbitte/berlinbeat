@@ -1,6 +1,7 @@
 ---
 title: East India Youth
 date: '2014-06-04'
+author: K Hawthorne
 type: interview
 band: East India Youth
 tags:

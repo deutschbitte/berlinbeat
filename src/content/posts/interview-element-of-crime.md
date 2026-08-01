@@ -1,6 +1,7 @@
 ---
 title: Element of Crime
 date: '2011-08-19'
+author: natalye
 type: interview
 band: Element of Crime
 tags:

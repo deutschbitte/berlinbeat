@@ -1,6 +1,7 @@
 ---
 title: Blueblut at Schokoladen 11/06/16
 date: '2016-06-29'
+author: klirrsjourney
 type: photos
 band: Blueblut
 venue: Schokoladen

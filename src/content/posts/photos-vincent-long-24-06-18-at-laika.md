@@ -1,6 +1,7 @@
 ---
 title: Vincent Long at Laika 24/06/18
 date: '2018-07-02'
+author: steventhirsty
 type: photos
 band: Vincent Long
 venue: Laika

@@ -1,6 +1,7 @@
 ---
 title: Krank at Waschhaus Potsdam 03/10/14
 date: '2015-02-02'
+author: Heike
 type: photos
 band: Krank
 venue: Waschhaus Potsdam

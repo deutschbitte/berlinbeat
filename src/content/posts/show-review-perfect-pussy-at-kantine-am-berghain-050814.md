@@ -1,6 +1,7 @@
 ---
 title: Perfect Pussy at Kantine am Berghain 05/08/14
 date: '2014-08-11'
+author: natalye
 type: review
 reviewType: show
 band: Perfect Pussy

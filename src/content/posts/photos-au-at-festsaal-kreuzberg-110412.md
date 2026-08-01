@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: AU at Festsaal Kreuzberg 11/04/12
 date: '2012-05-28'
+author: natalye
 type: photos
 band: AU
 venue: Festsaal Kreuzberg

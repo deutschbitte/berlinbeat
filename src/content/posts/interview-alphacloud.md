@@ -1,6 +1,7 @@
 ---
 title: Alphacloud
 date: '2011-12-21'
+author: natalye
 type: interview
 band: Alphacloud
 tags:

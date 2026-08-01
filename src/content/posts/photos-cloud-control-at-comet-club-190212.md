@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Cloud Control at Comet Club 19/02/12
 date: '2012-03-10'
+author: natalye
 type: photos
 band: Cloud Control
 venue: Comet Club

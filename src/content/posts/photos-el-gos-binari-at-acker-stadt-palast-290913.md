@@ -1,6 +1,7 @@
 ---
 title: El Gos Binari at Acker Stadt Palast 29/09/13
 date: '2013-10-08'
+author: Heike
 type: photos
 band: El Gos Binari
 venue: Acker Stadt Palast

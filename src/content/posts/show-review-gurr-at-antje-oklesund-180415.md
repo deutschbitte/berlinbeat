@@ -1,6 +1,7 @@
 ---
 title: GURR at Antje Øklesund 18/04/15
 date: '2015-04-22'
+author: Malte Grotendorst
 type: review
 reviewType: show
 band: GURR

@@ -1,6 +1,7 @@
 ---
 title: Obstacles
 date: '2012-02-03'
+author: natalye
 type: interview
 band: Obstacles
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Temples and Crystal Antlers at Bi Nuu 18/02/14
 date: '2014-03-11'
+author: K Hawthorne
 type: review
 reviewType: show
 band: Temples and Crystal Antlers

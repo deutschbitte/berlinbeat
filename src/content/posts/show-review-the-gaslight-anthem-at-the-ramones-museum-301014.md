@@ -1,6 +1,7 @@
 ---
 title: The Gaslight Anthem at the Ramones Museum 30/10/14
 date: '2014-11-12'
+author: punkrockdoll
 type: review
 reviewType: show
 band: The Gaslight Anthem

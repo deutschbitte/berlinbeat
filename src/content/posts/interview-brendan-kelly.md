@@ -1,6 +1,7 @@
 ---
 title: Brendan Kelly
 date: '2012-07-07'
+author: natalye
 type: interview
 band: Brendan Kelly
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Brendan Kelly - Photo courtesy of Brendan KellyAlthough he has been active in the punk rock scene since the early 90s, it is only recently that Brendan Kelly – known over the years for his roles in Slapstick, The Broadways, the Lawrence Arms and The Falcon – decided the pursue the route of a solo artist.
+Brendan Kelly - Photo courtesy of Brendan Kelly
+
+Although he has been active in the punk rock scene since the early 90s, it is only recently that Brendan Kelly – known over the years for his roles in Slapstick, The Broadways, the Lawrence Arms and The Falcon – decided the pursue the route of a solo artist.
 
 Interestingly enough, his newest endeavor, [Brendan Kelly and the Wandering Birds](http://www.facebook.com/bkandthewanderingbirds) wasn't necessarily a conscious decision or departure from his current bands, but rather something that just came out of his songwriting.
 

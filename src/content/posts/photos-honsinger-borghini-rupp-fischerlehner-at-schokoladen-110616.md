@@ -1,6 +1,7 @@
 ---
 title: Honsinger / Borghini / Rupp / Fischerlehner at Schokoladen 11/06/16
 date: '2016-06-20'
+author: klirrsjourney
 type: photos
 band: Honsinger / Borghini / Rupp / Fischerlehner
 venue: Schokoladen

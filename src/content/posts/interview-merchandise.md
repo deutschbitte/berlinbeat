@@ -1,6 +1,7 @@
 ---
 title: Merchandise
 date: '2014-06-14'
+author: K Hawthorne
 type: interview
 band: Merchandise
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Merchandise - Photo courtesy of MerchandiseIt’s a chaotic start for [Merchandise](http://www.wmerchandise.com/). Running behind schedule due to a soundcheck involving more smoke than anyone would wish, frontman Carson Cox gleefully admitted that Merchandise has never played its new set to a live audience. Unprepared? “It’s been the same for every show we’ve ever done!”
+Merchandise - Photo courtesy of Merchandise
+
+It’s a chaotic start for [Merchandise](http://www.wmerchandise.com/). Running behind schedule due to a soundcheck involving more smoke than anyone would wish, frontman Carson Cox gleefully admitted that Merchandise has never played its new set to a live audience. Unprepared? “It’s been the same for every show we’ve ever done!”
 
 Monday (June 2) at the Kantine was Merchandise’s opening night--the band will spend two months on the road promoting the forthcoming album, “After the End.” Given the Floridan five-piece's complex discography, it’s a release difficult to place: two records--EP "Totale Nite" and a split disc with Milk Music and Destruction Unit--have followed since second album “Children of Desire” in 2012. But even that doesn’t count as a ‘real’ sophomore effort; Merchandise started playing and self-releasing around eight years ago, in the depths of Tampa’s now-infamous hardcore scene.
 

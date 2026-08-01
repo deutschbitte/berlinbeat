@@ -1,6 +1,7 @@
 ---
 title: Indian Summer Westward HO! at Schokoladen 22/03/14
 date: '2014-04-05'
+author: Heike
 type: photos
 band: Indian Summer Westward HO!
 venue: Schokoladen

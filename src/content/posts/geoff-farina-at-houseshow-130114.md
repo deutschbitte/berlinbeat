@@ -1,6 +1,7 @@
 ---
 title: Geoff Farina at Houseshow 13/01/14
 date: '2014-01-18'
+author: Heike
 type: photos
 band: Geoff Farina
 venue: Houseshow

@@ -1,6 +1,7 @@
 ---
 title: Brangelina at Schokoladen 19/09/13
 date: '2013-09-27'
+author: Heike
 type: photos
 band: Brangelina
 venue: Schokoladen

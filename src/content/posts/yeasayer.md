@@ -1,6 +1,7 @@
 ---
 title: Yeasayer
 date: '2012-11-22'
+author: natalye
 type: interview
 band: Yeasayer
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Dan Andriano
 date: '2012-07-07'
+author: natalye
 type: interview
 band: Dan Andriano
 tags:

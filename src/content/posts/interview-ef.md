@@ -1,6 +1,7 @@
 ---
 title: EF
 date: '2014-02-04'
+author: natalye
 type: interview
 band: EF
 tags:

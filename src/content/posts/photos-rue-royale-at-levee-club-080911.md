@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Rue Royale at Levee Club 08/09/11
 date: '2011-09-14'
+author: natalye
 type: photos
 band: Rue Royale
 venue: Levee Club

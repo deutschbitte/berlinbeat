@@ -1,15 +1,16 @@
 ---
-title: Onom Agemo &amp; The Discojumpers Feat. Ahmed Ag Kaedy + Odd Couple + Hekla Magnúsdóttir at ://about blank 14/07/18
+title: Onom Agemo & The Discojumpers Feat. Ahmed Ag Kaedy + Odd Couple + Hekla Magnúsdóttir at ://about blank 14/07/18
 date: '2018-07-23'
+author: steventhirsty
 type: photos
-band: Onom Agemo &amp; The Discojumpers Feat. Ahmed Ag Kaedy + Odd Couple + Hekla Magnúsdóttir
+band: Onom Agemo & The Discojumpers Feat. Ahmed Ag Kaedy + Odd Couple + Hekla Magnúsdóttir
 venue: ://about blank
 tags:
   - ://About Blank
   - Down By The River Festival
   - Hekla Magnúsdóttir
   - Odd Couple
-  - Onom Agemo &amp; The Discojumpers Feat. Ahmed Ag Kaedy
+  - Onom Agemo & The Discojumpers Feat. Ahmed Ag Kaedy
 coverImage: https://farm1.staticflickr.com/930/42785634684_47e60f4d0a.jpg
 gallery:
   - https://farm1.staticflickr.com/930/42785634684_47e60f4d0a.jpg

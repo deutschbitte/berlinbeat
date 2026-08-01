@@ -1,6 +1,7 @@
 ---
 title: Polar Bear Club at Cassiopeia 20/08/12
 date: '2013-03-04'
+author: natalye
 type: photos
 band: Polar Bear Club
 venue: Cassiopeia

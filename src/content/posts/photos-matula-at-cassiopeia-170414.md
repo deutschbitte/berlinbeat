@@ -1,6 +1,7 @@
 ---
 title: Matula at Cassiopeia 17/04/14
 date: '2014-05-08'
+author: Heike
 type: photos
 band: Matula
 venue: Cassiopeia

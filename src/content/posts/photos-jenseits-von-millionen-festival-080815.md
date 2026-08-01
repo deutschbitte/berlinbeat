@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: Jenseits von Millionen Festival 08/08/15
 date: '2016-02-23'
+author: Heike
 type: photos
 tags:
   - Burg Friedland

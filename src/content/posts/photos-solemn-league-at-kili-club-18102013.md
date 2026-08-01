@@ -1,6 +1,7 @@
 ---
 title: Solemn League at Kili Club 18/10/2013
 date: '2013-10-21'
+author: Heike
 type: photos
 band: Solemn League
 venue: Kili Club

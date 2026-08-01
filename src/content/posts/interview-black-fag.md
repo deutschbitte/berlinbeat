@@ -1,6 +1,7 @@
 ---
 title: Black Fag
 date: '2012-02-15'
+author: natalye
 type: interview
 band: Black Fag
 tags:

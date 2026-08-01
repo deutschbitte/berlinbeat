@@ -1,6 +1,7 @@
 ---
 title: Public Service Broadcasting
 date: '2014-04-26'
+author: K Hawthorne
 type: interview
 band: Public Service Broadcasting
 tags:

@@ -1,19 +1,51 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import PostBrowser from '../components/PostBrowser.astro';
+import PostCard from '../components/PostCard.astro';
 import { getAllPosts } from '../lib/posts';
 
-const posts = await getAllPosts();
+// The site is no longer updated, so a "latest posts" homepage would be
+// misleading — it'd always show the same handful from 2020 and imply
+// activity that isn't happening. Instead: pick a random pool at build time
+// (refreshes on every deploy), render it all server-side but hidden, then
+// have the client randomly reveal a subset on every page load — so it
+// actually changes on every visit, not just every deploy.
+const POOL_SIZE = 120;
+const VISIBLE_COUNT = 12;
+
+const allPosts = await getAllPosts();
+const pool = [...allPosts].sort(() => Math.random() - 0.5).slice(0, POOL_SIZE);
 ---
 
 <Layout title="Berlin Beat">
-  <section class="mx-auto max-w-6xl px-5 pb-2 pt-6 sm:px-8 sm:pt-10">
-    <p class="max-w-xl text-balance text-sm text-[var(--fg-muted)]">
-      Interviews, reviews &amp; photos from Berlin's music underground
-    </p>
-  </section>
-
-  <section class="mx-auto max-w-6xl px-5 pb-12 sm:px-8">
-    <PostBrowser posts={posts} />
+  <section class="mx-auto max-w-6xl px-5 pb-12 pt-6 sm:px-8 sm:pt-10">
+    <style is:global>
+      /* PostCard's root element belongs to a child component, so Astro's
+         default style scoping (which only tags elements written directly
+         in this component's own template) wouldn't ever match it — hence
+         is:global here. Scoped to #post-pool as its own selector prefix,
+         so this doesn't leak into any other page. */
+      #post-pool > [data-type] {
+        display: none;
+      }
+      #post-pool > [data-type].is-visible {
+        display: flex;
+      }
+    </style>
+    <div id="post-pool" class="grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4">
+      {pool.map((post) => <PostCard post={post} />)}
+    </div>
   </section>
 </Layout>
+
+<script is:inline define:vars={{ VISIBLE_COUNT }}>
+  (function () {
+    const cards = Array.from(document.querySelectorAll('#post-pool > [data-type]'));
+    for (let i = cards.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [cards[i], cards[j]] = [cards[j], cards[i]];
+    }
+    cards.slice(0, VISIBLE_COUNT).forEach((card) => {
+      card.classList.add('is-visible');
+    });
+  })();
+</script>

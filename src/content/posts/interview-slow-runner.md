@@ -1,6 +1,7 @@
 ---
 title: Slow Runner
 date: '2011-12-22'
+author: natalye
 type: interview
 band: Slow Runner
 tags:

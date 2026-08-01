@@ -1,6 +1,7 @@
 ---
 title: Brangelina at Bassy Club 30/08/14
 date: '2014-09-09'
+author: natalye
 type: photos
 band: Brangelina
 venue: Bassy Club

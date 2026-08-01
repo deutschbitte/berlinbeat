@@ -1,6 +1,7 @@
 ---
 title: Nausae at Schokoladen 03/08/15
 date: '2015-09-04'
+author: Heike
 type: photos
 band: Nausae
 venue: Schokoladen

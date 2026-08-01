@@ -1,6 +1,7 @@
 ---
 title: Chad Vangaalen
 date: '2011-08-05'
+author: natalye
 type: interview
 band: Chad Vangaalen
 tags:

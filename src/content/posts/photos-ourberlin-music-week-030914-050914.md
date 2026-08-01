@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: Our/Berlin Music Week 03-05/09/14
 date: '2015-03-12'
+author: natalye
 type: photos
 tags:
   - Berlin Music Week

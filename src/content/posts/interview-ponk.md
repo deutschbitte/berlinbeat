@@ -1,6 +1,7 @@
 ---
 title: pOnk
 date: '2011-09-13'
+author: natalye
 type: interview
 band: pOnk
 tags:

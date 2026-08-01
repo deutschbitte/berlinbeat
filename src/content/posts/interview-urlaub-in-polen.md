@@ -1,6 +1,7 @@
 ---
 title: Urlaub in Polen
 date: '2011-09-20'
+author: natalye
 type: interview
 band: Urlaub in Polen
 tags:

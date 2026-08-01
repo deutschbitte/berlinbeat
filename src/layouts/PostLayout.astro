@@ -2,9 +2,10 @@
 import type { AstroComponentFactory } from 'astro/runtime/server/index.js';
 import Layout from './Layout.astro';
 import SmartImage from '../components/SmartImage.astro';
-import GalleryGrid from '../components/GalleryGrid.astro';
+import PhotoSlideshow from '../components/PhotoSlideshow.astro';
 import TagList from '../components/TagList.astro';
 import { typeLabel, formatDate, type Post } from '../lib/posts';
+import { upgradeImageQuality } from '../lib/imageQuality';
 
 interface Props {
   post: Post;
@@ -13,20 +14,12 @@ interface Props {
 
 const { post, Content } = Astro.props;
 const { data } = post;
-
-const metaLine = [
-  data.type === 'review' && data.album ? `“${data.album}”` : null,
-  data.band,
-  data.venue,
-]
-  .filter(Boolean)
-  .join(' · ');
 ---
 
 <Layout
   title={data.title}
   description={data.excerpt}
-  image={typeof data.coverImage === 'string' ? data.coverImage : data.coverImage?.src}
+  image={typeof data.coverImage === 'string' ? upgradeImageQuality(data.coverImage) : data.coverImage?.src}
 >
   <article class="mx-auto max-w-3xl px-5 py-8 sm:px-8 sm:py-10">
     <p class="text-xs text-[var(--fg-muted)]">
@@ -37,16 +30,16 @@ const metaLine = [
     </h1>
 
     <div class="mt-2 flex flex-wrap items-center gap-x-2 gap-y-1 text-sm text-[var(--fg-muted)]">
-      <time datetime={data.date.toISOString()}>{formatDate(data.date)}</time>
-      {metaLine && (
+      {data.author && (
         <>
+          <span>By {data.author}</span>
           <span aria-hidden="true">&middot;</span>
-          <span>{metaLine}</span>
         </>
       )}
+      <time datetime={data.date.toISOString()}>{formatDate(data.date)}</time>
     </div>
 
-    {data.coverImage && (
+    {data.coverImage && data.type !== 'photos' && (
       <div class="mt-5 overflow-hidden rounded-lg border border-[var(--border)]">
         <SmartImage
           src={data.coverImage}
@@ -64,7 +57,7 @@ const metaLine = [
 
     {data.type === 'photos' && data.gallery.length > 0 && (
       <div class="mt-6">
-        <GalleryGrid images={data.gallery} alt={data.title} />
+        <PhotoSlideshow images={data.gallery} alt={data.title} />
       </div>
     )}
 

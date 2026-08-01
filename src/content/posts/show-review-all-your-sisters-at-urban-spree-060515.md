@@ -1,6 +1,7 @@
 ---
 title: All Your Sisters at Urban Spree 06/05/15
 date: '2015-05-22'
+author: Malte Grotendorst
 type: review
 reviewType: show
 band: All Your Sisters

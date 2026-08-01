@@ -1,6 +1,7 @@
 ---
 title: Shokei at Schokoladen 07/02/15
 date: '2015-03-04'
+author: Heike
 type: photos
 band: Shokei
 venue: Schokoladen

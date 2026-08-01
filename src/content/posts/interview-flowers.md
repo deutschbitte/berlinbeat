@@ -1,6 +1,7 @@
 ---
 title: Flowers
 date: '2013-10-02'
+author: natalye
 type: interview
 band: Flowers
 tags:

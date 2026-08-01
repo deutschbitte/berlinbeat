@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Urlaub in Polen at Bassy 20/09/11
 date: '2011-10-17'
+author: natalye
 type: photos
 band: Urlaub in Polen
 venue: Bassy

@@ -1,6 +1,7 @@
 ---
 title: ZSK
 date: '2012-01-09'
+author: natalye
 type: interview
 band: ZSK
 tags:

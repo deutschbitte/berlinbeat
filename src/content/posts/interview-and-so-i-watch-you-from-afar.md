@@ -1,6 +1,7 @@
 ---
 title: And So I Watch You From Afar
 date: '2012-03-12'
+author: natalye
 type: interview
 band: And So I Watch You From Afar
 tags:

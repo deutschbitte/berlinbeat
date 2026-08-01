@@ -1,6 +1,7 @@
 ---
 title: Dinosaur Jr.
 date: '2013-02-24'
+author: natalye
 type: interview
 band: Dinosaur Jr.
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Dinosaur Jr. - Photo by Brantley GutierrezAlthough the members of [Dinosaur Jr.](http://www.dinosaurjr.com/) have spent the past few weeks touring Europe, the highlight thus far has not been any particular city, but rather the fact that they are finally fighting off the sickness that has plagued all three of them since the tour start. Compound that with a winter tour, and being on the road is not entirely enjoyable.
+Dinosaur Jr. - Photo by Brantley Gutierrez
+
+Although the members of [Dinosaur Jr.](http://www.dinosaurjr.com/) have spent the past few weeks touring Europe, the highlight thus far has not been any particular city, but rather the fact that they are finally fighting off the sickness that has plagued all three of them since the tour start. Compound that with a winter tour, and being on the road is not entirely enjoyable.
 
 But luckily for the group, they haven't had to worry about the audience turnout, with many of the shows, including last week's Berlin performance at Postbahnhof, selling out.
 

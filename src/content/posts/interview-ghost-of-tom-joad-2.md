@@ -1,6 +1,7 @@
 ---
 title: Ghost of Tom Joad
 date: '2012-01-20'
+author: natalye
 type: interview
 band: Ghost of Tom Joad
 tags:

@@ -1,6 +1,7 @@
 ---
 title: White Rabbits
 date: '2012-04-23'
+author: natalye
 type: interview
 band: White Rabbits
 tags:

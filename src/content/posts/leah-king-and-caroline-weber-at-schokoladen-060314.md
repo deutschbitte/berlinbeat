@@ -1,6 +1,7 @@
 ---
 title: Leah King and Caroline Weber at Schokoladen 06/03/14
 date: '2014-03-16'
+author: klirrsjourney
 type: photos
 band: Leah King and Caroline Weber
 venue: Schokoladen

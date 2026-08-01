@@ -1,8 +1,9 @@
 ---
-title: The Fast Forwards &gt; &gt;
+title: The Fast Forwards > >
 date: '2012-01-06'
+author: natalye
 type: interview
-band: The Fast Forwards &gt; &gt;
+band: The Fast Forwards > >
 tags:
   - Feature
   - Swedish

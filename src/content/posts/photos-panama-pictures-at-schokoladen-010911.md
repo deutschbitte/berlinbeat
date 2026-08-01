@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Panama Pictures at Schokoladen 01/09/11
 date: '2011-09-07'
+author: natalye
 type: photos
 band: Panama Pictures
 venue: Schokoladen

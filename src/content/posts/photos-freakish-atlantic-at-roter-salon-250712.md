@@ -1,6 +1,7 @@
 ---
 title: Freakish Atlantic at Roter Salon 25/07/12
 date: '2012-10-04'
+author: natalye
 type: photos
 band: Freakish Atlantic
 venue: Roter Salon

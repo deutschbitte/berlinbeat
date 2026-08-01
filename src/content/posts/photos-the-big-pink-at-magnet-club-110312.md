@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: The Big Pink at Magnet Club 11/03/12
 date: '2012-04-23'
+author: natalye
 type: photos
 band: The Big Pink
 venue: Magnet Club

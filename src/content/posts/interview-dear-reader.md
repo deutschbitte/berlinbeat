@@ -1,6 +1,7 @@
 ---
 title: Dear Reader
 date: '2012-02-02'
+author: natalye
 type: interview
 band: Dear Reader
 tags:

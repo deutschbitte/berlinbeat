@@ -1,6 +1,7 @@
 ---
 title: Mumbles (5 Years Kitchen Leg Records) at Loophole 18/01/19
 date: '2019-02-05'
+author: klirrsjourney
 type: photos
 band: Mumbles (5 Years Kitchen Leg Records)
 venue: Loophole

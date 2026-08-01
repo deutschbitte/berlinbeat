@@ -1,6 +1,7 @@
 ---
 title: Hella Comet at Schokoladen 21/05/15
 date: '2015-05-25'
+author: klirrsjourney
 type: photos
 band: Hella Comet
 venue: Schokoladen

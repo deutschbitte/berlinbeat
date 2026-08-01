@@ -1,6 +1,7 @@
 ---
 title: Summer Heart
 date: '2012-01-04'
+author: natalye
 type: interview
 band: Summer Heart
 tags:

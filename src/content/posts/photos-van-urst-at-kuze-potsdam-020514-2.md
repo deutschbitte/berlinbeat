@@ -1,6 +1,7 @@
 ---
 title: Van Urst at Kuze Potsdam 02/05/14
 date: '2014-05-27'
+author: Heike
 type: photos
 band: Van Urst
 venue: Kuze Potsdam

@@ -1,6 +1,7 @@
 ---
 import { Image } from 'astro:assets';
 import type { ImageMetadata } from 'astro';
+import { upgradeImageQuality } from '../lib/imageQuality';
 
 interface Props {
   src: ImageMetadata | string;
@@ -22,7 +23,7 @@ const isRemote = typeof src === 'string';
   // already constrains the image to a fixed-aspect-ratio container with
   // object-cover, so intrinsic size doesn't affect layout — a plain <img>
   // (no build-time fetch) is the safer choice for these.
-  <img src={src} alt={alt} class={className} loading="lazy" decoding="async" />
+  <img src={upgradeImageQuality(src)} alt={alt} class={className} loading="lazy" decoding="async" />
 ) : (
   <Image src={src} alt={alt} class={className} widths={widths} sizes={sizes} />
 )}

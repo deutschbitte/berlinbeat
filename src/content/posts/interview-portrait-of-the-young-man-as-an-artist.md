@@ -1,6 +1,7 @@
 ---
 title: Portrait of the Young Man as an Artist
 date: '2012-02-01'
+author: natalye
 type: interview
 band: Portrait of the Young Man as an Artist
 tags:

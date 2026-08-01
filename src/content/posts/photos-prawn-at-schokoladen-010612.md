@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Prawn at Schokoladen 01/06/12
 date: '2012-07-16'
+author: natalye
 type: photos
 band: Prawn
 venue: Schokoladen

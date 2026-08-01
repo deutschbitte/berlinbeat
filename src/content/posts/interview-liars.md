@@ -1,6 +1,7 @@
 ---
 title: Liars
 date: '2012-10-23'
+author: natalye
 type: interview
 band: Liars
 tags:

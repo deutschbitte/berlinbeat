@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Lemuria at Lovelite 14/08/11
 date: '2011-08-17'
+author: natalye
 type: photos
 band: Lemuria
 venue: Lovelite

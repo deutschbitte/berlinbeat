@@ -1,11 +1,12 @@
 ---
-title: Cars &amp; Trains
+title: Cars & Trains
 date: '2014-09-27'
+author: natalye
 type: interview
-band: Cars &amp; Trains
+band: Cars & Trains
 tags:
   - American
-  - Cars &amp; Trains
+  - Cars & Trains
   - Feature
 coverImage: http://berlinbeat.org/wp-content/uploads/2014/09/10174803_10151972357355780_1205329563_n.jpg?w=300
 gallery: []

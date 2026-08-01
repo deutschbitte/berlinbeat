@@ -1,6 +1,7 @@
 ---
 title: Skid Row
 date: '2015-01-12'
+author: punkrockdoll
 type: interview
 band: Skid Row
 tags:

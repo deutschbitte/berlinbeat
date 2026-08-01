@@ -1,6 +1,7 @@
 ---
 title: Wild Flag
 date: '2012-02-07'
+author: natalye
 type: interview
 band: Wild Flag
 tags:

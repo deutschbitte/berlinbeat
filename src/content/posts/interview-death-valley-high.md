@@ -1,6 +1,7 @@
 ---
 title: Death Valley High
 date: '2015-01-05'
+author: punkrockdoll
 type: interview
 band: Death Valley High
 tags:

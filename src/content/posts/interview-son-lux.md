@@ -1,6 +1,7 @@
 ---
 title: Son Lux
 date: '2014-01-23'
+author: natalye
 type: interview
 band: Son Lux
 tags:

@@ -1,6 +1,7 @@
 ---
 title: The Sandwitches
 date: '2011-11-20'
+author: natalye
 type: interview
 band: The Sandwitches
 tags:

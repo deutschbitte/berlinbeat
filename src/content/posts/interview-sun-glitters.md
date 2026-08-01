@@ -1,6 +1,7 @@
 ---
 title: Sun Glitters
 date: '2011-11-10'
+author: natalye
 type: interview
 band: Sun Glitters
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Princessin Hans at Roter Salon 18/10/14
 date: '2014-11-05'
+author: klirrsjourney
 type: photos
 band: Princessin Hans
 venue: Roter Salon

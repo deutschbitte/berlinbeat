@@ -1,6 +1,7 @@
 ---
 title: Bo Ningen
 date: '2014-08-25'
+author: K Hawthorne
 type: interview
 band: Bo Ningen
 tags:

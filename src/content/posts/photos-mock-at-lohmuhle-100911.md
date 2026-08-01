@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: mOck at Lohmühle 10/09/11
 date: '2011-09-16'
+author: natalye
 type: photos
 band: mOck
 venue: Lohmühle

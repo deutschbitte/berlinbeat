@@ -1,6 +1,7 @@
 ---
 title: Tonia Reeh + Rudi Fischerlehner + Barbara Morgenstern at Schokoladen 24/01/14
 date: '2014-01-26'
+author: klirrsjourney
 type: photos
 band: Tonia Reeh + Rudi Fischerlehner + Barbara Morgenstern
 venue: Schokoladen

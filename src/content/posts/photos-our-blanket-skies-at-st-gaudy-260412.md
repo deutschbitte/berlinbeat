@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Our Blanket Skies at St. Gaudy 26/04/12
 date: '2012-06-22'
+author: natalye
 type: photos
 band: Our Blanket Skies
 venue: St. Gaudy

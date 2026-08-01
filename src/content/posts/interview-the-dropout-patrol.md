@@ -1,6 +1,7 @@
 ---
 title: The Dropout Patrol
 date: '2012-04-25'
+author: natalye
 type: interview
 band: The Dropout Patrol
 tags:

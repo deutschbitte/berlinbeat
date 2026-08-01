@@ -1,6 +1,7 @@
 ---
 title: In Golden Tears
 date: '2012-06-21'
+author: natalye
 type: interview
 band: In Golden Tears
 tags:

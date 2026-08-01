@@ -1,6 +1,7 @@
 ---
 title: The Just Joans at Marie Antoinette 02/09/12
 date: '2013-05-08'
+author: natalye
 type: photos
 band: The Just Joans
 venue: Marie Antoinette

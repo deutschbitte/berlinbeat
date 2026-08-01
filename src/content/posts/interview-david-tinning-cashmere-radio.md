@@ -1,8 +1,9 @@
 ---
-title: David Tinning &amp; Cashmere Radio
+title: David Tinning & Cashmere Radio
 date: '2016-07-12'
+author: berlinerbeat
 type: interview
-band: David Tinning &amp; Cashmere Radio
+band: David Tinning & Cashmere Radio
 tags:
   - British
   - Cashmere Radio

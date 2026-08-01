@@ -1,6 +1,7 @@
 ---
 title: The Dwarves at Lido 23/04/15
 date: '2015-05-18'
+author: punkrockdoll
 type: review
 reviewType: show
 band: The Dwarves

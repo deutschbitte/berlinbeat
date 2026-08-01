@@ -1,13 +1,14 @@
 ---
-title: Happy Accidents at Musik &amp; Frieden 28/09/18
+title: Happy Accidents at Musik & Frieden 28/09/18
 date: '2018-10-08'
+author: natalye
 type: photos
 band: Happy Accidents
-venue: Musik &amp; Frieden
+venue: Musik & Frieden
 tags:
   - British
   - Happy Accidents
-  - Musik &amp; Frieden
+  - Musik & Frieden
 coverImage: https://farm2.staticflickr.com/1920/44436663614_cea1fbe25a_z.jpg
 gallery:
   - https://farm2.staticflickr.com/1920/44436663614_cea1fbe25a_z.jpg

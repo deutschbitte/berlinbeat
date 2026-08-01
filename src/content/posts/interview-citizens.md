@@ -1,6 +1,7 @@
 ---
 title: Citizens!
 date: '2012-05-22'
+author: natalye
 type: interview
 band: Citizens!
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Citizens! - Photo courtesy of Citizens!If you ask the members of [Citizens!](http://www.citizens.cz/), a London-based indie-pop band, currently at the peak of its hype, they would likely tell you that they did things a little bit backward.
+Citizens! - Photo courtesy of Citizens!
+
+If you ask the members of [Citizens!](http://www.citizens.cz/), a London-based indie-pop band, currently at the peak of its hype, they would likely tell you that they did things a little bit backward.
 
 "We kind of started the band just over a year ago, and I guess we did everything the wrong way around," singer Tom Burke admitted.
 

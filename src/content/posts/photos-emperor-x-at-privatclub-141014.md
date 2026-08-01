@@ -1,6 +1,7 @@
 ---
 title: Emperor X at Privatclub 14/10/14
 date: '2014-10-29'
+author: natalye
 type: photos
 band: Emperor X
 venue: Privatclub

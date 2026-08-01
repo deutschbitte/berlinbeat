@@ -1,6 +1,7 @@
 ---
 title: Television Keeps Us Apart
 date: '2011-08-24'
+author: natalye
 type: interview
 band: Television Keeps Us Apart
 tags:

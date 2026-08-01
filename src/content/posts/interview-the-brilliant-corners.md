@@ -1,6 +1,7 @@
 ---
 title: The Brilliant Corners
 date: '2013-09-06'
+author: natalye
 type: interview
 band: The Brilliant Corners
 tags:

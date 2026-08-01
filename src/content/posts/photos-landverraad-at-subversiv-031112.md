@@ -1,6 +1,7 @@
 ---
 title: Landverraad at Subversiv 03/11/12
 date: '2013-07-13'
+author: natalye
 type: photos
 band: Landverraad
 venue: Subversiv

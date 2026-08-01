@@ -1,6 +1,7 @@
 ---
 title: Mini Mansions
 date: '2011-08-21'
+author: natalye
 type: interview
 band: Mini Mansions
 tags:

@@ -1,6 +1,7 @@
 ---
 title: SANS GENE at Bei Ruth 04/05/17
 date: '2017-05-10'
+author: steventhirsty
 type: photos
 band: SANS GENE
 venue: Bei Ruth

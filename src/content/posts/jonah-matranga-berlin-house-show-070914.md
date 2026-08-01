@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: Jonah Matranga Berlin House Show 07/09/14
 date: '2014-09-15'
+author: natalye
 type: photos
 tags:
   - American

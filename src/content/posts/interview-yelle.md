@@ -1,6 +1,7 @@
 ---
 title: Yelle
 date: '2014-12-08'
+author: Joy C. Mitchell
 type: interview
 band: Yelle
 tags:

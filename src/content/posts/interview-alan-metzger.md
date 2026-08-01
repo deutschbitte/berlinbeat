@@ -1,6 +1,7 @@
 ---
 title: Alan Metzger
 date: '2011-09-02'
+author: natalye
 type: interview
 band: Alan Metzger
 tags:

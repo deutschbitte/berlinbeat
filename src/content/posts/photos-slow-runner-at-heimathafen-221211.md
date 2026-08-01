@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Slow Runner at Heimathafen 22/12/11
 date: '2012-02-07'
+author: natalye
 type: photos
 band: Slow Runner
 venue: Heimathafen

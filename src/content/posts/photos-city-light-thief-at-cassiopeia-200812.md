@@ -1,6 +1,7 @@
 ---
 title: City Light Thief at Cassiopeia 20/08/12
 date: '2012-12-18'
+author: natalye
 type: photos
 band: City Light Thief
 venue: Cassiopeia

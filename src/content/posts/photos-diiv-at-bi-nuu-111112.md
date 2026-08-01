@@ -1,6 +1,7 @@
 ---
 title: DIIV at Bi Nuu 11/11/12
 date: '2014-09-25'
+author: natalye
 type: photos
 band: DIIV
 venue: Bi Nuu

@@ -1,6 +1,7 @@
 ---
 title: Samaris at Our/Berlin Music Week 04/09/13
 date: '2013-09-06'
+author: natalye
 type: photos
 band: Samaris
 venue: Our/Berlin Music Week

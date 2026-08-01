@@ -1,6 +1,7 @@
 ---
 title: The Spook School at Marie Antoinette 31/08/12
 date: '2013-03-07'
+author: natalye
 type: photos
 band: The Spook School
 venue: Marie Antoinette

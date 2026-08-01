@@ -1,6 +1,7 @@
 ---
 title: Cloud Nothings at Badeschiff Escobar 18/08/14
 date: '2014-09-05'
+author: natalye
 type: photos
 band: Cloud Nothings
 venue: Badeschiff Escobar

@@ -1,6 +1,7 @@
 ---
 title: Tony Sly
 date: '2011-11-12'
+author: natalye
 type: interview
 band: Tony Sly
 tags:

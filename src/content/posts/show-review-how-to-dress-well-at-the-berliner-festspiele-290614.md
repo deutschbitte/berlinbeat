@@ -1,6 +1,7 @@
 ---
 title: How To Dress Well at the Berliner Festspiele 29/06/14
 date: '2014-07-07'
+author: K Hawthorne
 type: review
 reviewType: show
 band: How To Dress Well

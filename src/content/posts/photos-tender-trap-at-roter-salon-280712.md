@@ -1,6 +1,7 @@
 ---
 title: Tender Trap at Roter Salon 28/07/12
 date: '2012-10-31'
+author: natalye
 type: photos
 band: Tender Trap
 venue: Roter Salon

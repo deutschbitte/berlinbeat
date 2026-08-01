@@ -1,6 +1,7 @@
 ---
 title: Man Without Country
 date: '2012-07-15'
+author: natalye
 type: interview
 band: Man Without Country
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Man Without Country - Photo courtesy of Man Without CountryIt took everyone by surprise when [the Postal Service](http://postalservicemusic.net/) first arrived on the scene in 2003, establishing itself as a project between two members living in separate places. But now, projects of that nature are much more commonplace, and South Wales electronic chillwave duo, [Man Without Country](http://manwithoutcountry.com/), is another shining example of songwriting and music production defying conventional standards.
+Man Without Country - Photo courtesy of Man Without Country
+
+It took everyone by surprise when [the Postal Service](http://postalservicemusic.net/) first arrived on the scene in 2003, establishing itself as a project between two members living in separate places. But now, projects of that nature are much more commonplace, and South Wales electronic chillwave duo, [Man Without Country](http://manwithoutcountry.com/), is another shining example of songwriting and music production defying conventional standards.
 
 The two core members, Ryan James and Tomas Greenhalf, first met in university some five years ago and knew right away they wanted to collaborate.
 

@@ -1,6 +1,7 @@
 ---
 title: Goat at Postbahnhof 23/09/14
 date: '2014-10-02'
+author: natalye
 type: review
 reviewType: show
 band: Goat

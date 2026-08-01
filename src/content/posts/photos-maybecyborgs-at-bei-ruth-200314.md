@@ -1,6 +1,7 @@
 ---
 title: Maybecyborgs at Bei Ruth 20/03/14
 date: '2014-03-28'
+author: klirrsjourney
 type: photos
 band: Maybecyborgs
 venue: Bei Ruth

@@ -1,6 +1,7 @@
 ---
 title: Japanther
 date: '2012-11-14'
+author: natalye
 type: interview
 band: Japanther
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Japanther - Photo courtesy of JapantherCall [Japanther](http://japanther.com/) whatever you want. Just don't call it a band.
+Japanther - Photo courtesy of Japanther
+
+Call [Japanther](http://japanther.com/) whatever you want. Just don't call it a band.
 
 The Brooklyn duo, consisting of members Matt Reilly and Ian Vanek, formed in 2001 after meeting while attending [Pratt Institute](http://www.pratt.edu/).
 

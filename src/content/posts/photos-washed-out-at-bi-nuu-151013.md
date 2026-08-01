@@ -1,6 +1,7 @@
 ---
 title: Washed Out at Bi Nuu 15/10/13
 date: '2014-06-06'
+author: natalye
 type: photos
 band: Washed Out
 venue: Bi Nuu

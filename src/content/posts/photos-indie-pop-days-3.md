@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: 'Indie Pop Days #3'
 date: '2012-09-03'
+author: natalye
 type: photos
 tags:
   - Indie Pop Days

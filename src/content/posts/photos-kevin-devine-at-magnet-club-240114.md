@@ -1,6 +1,7 @@
 ---
 title: Kevin Devine at Magnet Club 24/01/14
 date: '2014-01-29'
+author: Heike
 type: photos
 band: Kevin Devine
 venue: Magnet Club

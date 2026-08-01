@@ -1,6 +1,7 @@
 ---
 title: Washed Out
 date: '2013-12-10'
+author: natalye
 type: interview
 band: Washed Out
 tags:

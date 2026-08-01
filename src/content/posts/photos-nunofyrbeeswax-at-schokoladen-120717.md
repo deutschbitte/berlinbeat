@@ -1,6 +1,7 @@
 ---
 title: nunofyrbeeswax at Schokoladen 12/07/17
 date: '2017-07-24'
+author: steventhirsty
 type: photos
 band: nunofyrbeeswax
 venue: Schokoladen

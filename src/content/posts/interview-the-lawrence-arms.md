@@ -1,6 +1,7 @@
 ---
 title: The Lawrence Arms
 date: '2014-05-29'
+author: natalye
 type: interview
 band: The Lawrence Arms
 tags:

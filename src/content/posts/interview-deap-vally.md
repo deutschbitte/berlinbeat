@@ -1,6 +1,7 @@
 ---
 title: Deap Vally
 date: '2013-11-29'
+author: K Hawthorne
 type: interview
 band: Deap Vally
 tags:
@@ -12,11 +13,10 @@ gallery: []
 draft: false
 ---
 
-Deap Vally - Photo by Brian Sheffield  
+Deap Vally - Photo by Brian Sheffield
 
 "There are people who just see a picture of us, and have immediate hatred. It’s the sexuality, it’s the ‘sexy woman’ thing,’" explained Julie Edwards, drummer of rock’n’roll two-piece [Deap Vally](http://deapvally.com/). "I think something that we’ve realized in the process of doing what we do, is that even in 2013 there is a lot of…I don’t know what the word would be. Puritanism. Prudishness."
 
-  
 For a band that released its debut album only a few months ago, Deap Vally is already shrouded in urban myth. Is Marilyn Manson really a groupie? Just how much do they like knitting? With a cult following and the sexiest riffs this side of the '70s, Deap Vally stands as a rip-roaring raised middle finger to your misconceptions of women in rock. With razor sharp songs full of one-night-stands, lechery, liars and cheaters, Deap Vally will take you for a ride that’s exhilarating and utterly uncompromising. 
 
 Edwards met Lindsey Troy (guitar and vocals) whilst running a crochet class. It’s the kind of humble beginning that becomes the stuff of rock’n’roll legend.

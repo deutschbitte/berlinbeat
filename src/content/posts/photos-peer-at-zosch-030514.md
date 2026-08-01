@@ -1,6 +1,7 @@
 ---
 title: Peer at Zosch 03/05/14
 date: '2014-06-03'
+author: Heike
 type: photos
 band: Peer
 venue: Zosch

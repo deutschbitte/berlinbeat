@@ -1,6 +1,7 @@
 ---
 title: Average Engines
 date: '2011-09-20'
+author: natalye
 type: interview
 band: Average Engines
 tags:

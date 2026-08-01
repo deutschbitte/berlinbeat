@@ -1,0 +1,119 @@
+---
+import SmartImage from './SmartImage.astro';
+import { upgradeImageQuality } from '../lib/imageQuality';
+import type { ImageMetadata } from 'astro';
+
+interface Props {
+  images: (ImageMetadata | string)[];
+  alt: string;
+}
+
+const { images, alt } = Astro.props;
+---
+
+{images.length > 0 && (
+  <div data-slideshow>
+    <div class="relative overflow-hidden rounded-lg border border-[var(--border)] bg-[var(--bg-elevated)]">
+      <div class="aspect-[4/3] sm:aspect-[16/10]">
+        {images.map((img, i) => (
+          <button
+            type="button"
+            class:list={['slideshow-slide absolute inset-0 size-full cursor-pointer', i === 0 && 'is-active']}
+            data-next
+            aria-label="Next photo"
+          >
+            <SmartImage
+              src={img}
+              alt={`${alt} — photo ${i + 1}`}
+              class="size-full object-contain"
+            />
+          </button>
+        ))}
+      </div>
+
+      {images.length > 1 && (
+        <>
+          <button
+            type="button"
+            data-prev
+            aria-label="Previous photo"
+            class="absolute left-2 top-1/2 grid size-9 -translate-y-1/2 place-items-center rounded-full border border-[var(--border)] bg-[var(--bg)]/80 text-[var(--fg)] backdrop-blur transition-colors hover:border-[var(--fg-muted)]"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-4"><path d="m15 18-6-6 6-6"></path></svg>
+          </button>
+          <button
+            type="button"
+            data-next-btn
+            aria-label="Next photo"
+            class="absolute right-2 top-1/2 grid size-9 -translate-y-1/2 place-items-center rounded-full border border-[var(--border)] bg-[var(--bg)]/80 text-[var(--fg)] backdrop-blur transition-colors hover:border-[var(--fg-muted)]"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="size-4"><path d="m9 18 6-6-6-6"></path></svg>
+          </button>
+        </>
+      )}
+    </div>
+
+    <div class="mt-2 flex items-center justify-between text-sm text-[var(--fg-muted)]">
+      {images.length > 1 ? (
+        <p><span data-current>1</span> / {images.length}</p>
+      ) : <span />}
+      <a
+        data-full-size
+        href={typeof images[0] === 'string' ? upgradeImageQuality(images[0]) : images[0].src}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="underline hover:text-[var(--fg)]"
+      >
+        Open full size ↗
+      </a>
+    </div>
+  </div>
+)}
+
+<style is:global>
+  /* .slideshow-slide is a child component's (SmartImage's) markup, so
+     Astro's default scoped-style attribute would never reach it — see
+     PROJECT_HISTORY.md for why this has to be is:global. */
+  .slideshow-slide {
+    display: none;
+  }
+  .slideshow-slide.is-active {
+    display: block;
+  }
+</style>
+
+<script is:inline>
+  (function () {
+    document.querySelectorAll('[data-slideshow]').forEach((root) => {
+      const slides = Array.from(root.querySelectorAll('.slideshow-slide'));
+      const fullSizeLinks = slides.map((slide) => {
+        const img = slide.querySelector('img');
+        return img?.currentSrc || img?.src;
+      });
+      const counter = root.querySelector('[data-current]');
+      const fullSizeLink = root.querySelector('[data-full-size]');
+      const prevBtn = root.querySelector('[data-prev]');
+      const nextBtn = root.querySelector('[data-next-btn]');
+      let index = 0;
+
+      function show(i) {
+        index = (i + slides.length) % slides.length;
+        slides.forEach((slide, si) => slide.classList.toggle('is-active', si === index));
+        if (counter) counter.textContent = String(index + 1);
+        if (fullSizeLink && fullSizeLinks[index]) fullSizeLink.setAttribute('href', fullSizeLinks[index]);
+      }
+
+      prevBtn?.addEventListener('click', () => show(index - 1));
+      nextBtn?.addEventListener('click', () => show(index + 1));
+      slides.forEach((slide) => slide.addEventListener('click', () => show(index + 1)));
+
+      // Listening on the document (rather than requiring the slideshow to
+      // be focused first) so arrow keys work as soon as the page loads —
+      // safe since there's at most one slideshow per page.
+      document.addEventListener('keydown', (event) => {
+        if (event.key === 'ArrowLeft') show(index - 1);
+        if (event.key === 'ArrowRight') show(index + 1);
+      });
+    });
+  })();
+</script>

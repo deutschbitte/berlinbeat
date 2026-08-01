@@ -1,6 +1,7 @@
 ---
 title: Samiam
 date: '2013-04-21'
+author: natalye
 type: interview
 band: Samiam
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Samiam - Photo courtesy of SamiamFor a band that doesn't necessarily consider itself a band, [Samiam](http://samiam666.bandcamp.com/) does a pretty good job of keeping its fans satisfied. Formed in Berkeley, Calif., in 1988, Samiam gained a noteworthy following in the 90s, a period of time which could definitely be considered its heyday.
+Samiam - Photo courtesy of Samiam
+
+For a band that doesn't necessarily consider itself a band, [Samiam](http://samiam666.bandcamp.com/) does a pretty good job of keeping its fans satisfied. Formed in Berkeley, Calif., in 1988, Samiam gained a noteworthy following in the 90s, a period of time which could definitely be considered its heyday.
 
 Since then, the punk rock quintet has slowed its output and stopped being a full-time band, meaning that the members don't regularly practice, play, write, or tour together. But that still hasn't kept them from calling it quits; things are just a bit more drawn out, with breaks taken when they need to be.
 

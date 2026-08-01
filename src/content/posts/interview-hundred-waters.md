@@ -1,6 +1,7 @@
 ---
 title: Hundred Waters
 date: '2014-10-03'
+author: natalye
 type: interview
 band: Hundred Waters
 tags:

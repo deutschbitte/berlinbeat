@@ -1,6 +1,7 @@
 ---
 title: Band à Part
 date: '2012-07-28'
+author: natalye
 type: interview
 band: Band à Part
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Band à Part - Photo courtesy of Band à PartWhen bands talk about how they met and made the decision to play together, often times it comes down to a single word: chemistry. Just as friendships and romantic relationships rely on these things, so too does a musical partnership. Luckily, in the case of Madrid-based duo, [Band à Part](http://www.facebook.com/bandaparte), it was there from day one, literally.
+Band à Part - Photo courtesy of Band à Part
+
+When bands talk about how they met and made the decision to play together, often times it comes down to a single word: chemistry. Just as friendships and romantic relationships rely on these things, so too does a musical partnership. Luckily, in the case of Madrid-based duo, [Band à Part](http://www.facebook.com/bandaparte), it was there from day one, literally.
 
 As one half of the two, Javier Román, recalled, he met Coral Rodriguez when visiting her roommate – a friend of his – in Valencia.
 

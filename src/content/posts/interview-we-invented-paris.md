@@ -1,6 +1,7 @@
 ---
 title: We Invented Paris
 date: '2012-10-16'
+author: natalye
 type: interview
 band: We Invented Paris
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-We Invented Paris - Photo courtesy of We Invented ParisWhile most musicians who play together consider themselves to be a band, [We Invented Paris](http://www.weinventedparis.com/) prefers the term "artist collective."
+We Invented Paris - Photo courtesy of We Invented Paris
+
+While most musicians who play together consider themselves to be a band, [We Invented Paris](http://www.weinventedparis.com/) prefers the term "artist collective."
 
 It's not just semantics, you see, but a philosophy–a way of being. The project, which is the brainchild of Swiss singer Flavian Graber, is less about who and more about what. That's namely because the members are interchangeable, but also because music is more than just the people who play it, but also the behind-the-scenes individuals.
 

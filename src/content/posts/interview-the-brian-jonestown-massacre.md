@@ -1,6 +1,7 @@
 ---
 title: The Brian Jonestown Massacre
 date: '2014-04-04'
+author: Angus Gordon
 type: interview
 band: The Brian Jonestown Massacre
 tags:

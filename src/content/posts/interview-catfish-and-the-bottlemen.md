@@ -1,6 +1,7 @@
 ---
 title: Catfish and the Bottlemen
 date: '2014-11-24'
+author: K Hawthorne
 type: interview
 band: Catfish and the Bottlemen
 tags:

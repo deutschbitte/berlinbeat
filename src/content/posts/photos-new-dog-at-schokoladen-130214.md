@@ -1,6 +1,7 @@
 ---
 title: New Dog at Schokoladen 13/02/14
 date: '2014-02-19'
+author: klirrsjourney
 type: photos
 band: New Dog
 venue: Schokoladen

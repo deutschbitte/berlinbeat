@@ -1,6 +1,7 @@
 ---
 title: Lemuria
 date: '2011-08-17'
+author: natalye
 type: interview
 band: Lemuria
 tags:

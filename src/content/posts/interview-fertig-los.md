@@ -1,6 +1,7 @@
 ---
 title: Fertig, Los!
 date: '2011-10-13'
+author: natalye
 type: interview
 band: Fertig, Los!
 tags:

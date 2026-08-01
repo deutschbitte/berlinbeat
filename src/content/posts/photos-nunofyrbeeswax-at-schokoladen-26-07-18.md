@@ -1,6 +1,7 @@
 ---
 title: Nunofyrbeeswax at Schokoladen 26/07/18
 date: '2018-08-03'
+author: steventhirsty
 type: photos
 band: Nunofyrbeeswax
 venue: Schokoladen

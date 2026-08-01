@@ -1,6 +1,7 @@
 ---
 title: Phela at Privatclub 22/10/15
 date: '2015-10-31'
+author: berlinerbeat
 type: review
 reviewType: show
 band: Phela

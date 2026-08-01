@@ -1,6 +1,7 @@
 ---
 title: Mastodon and The Ocean at Lido 05/06/13
 date: '2013-06-17'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Mastodon and The Ocean

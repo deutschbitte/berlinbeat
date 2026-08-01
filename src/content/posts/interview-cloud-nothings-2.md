@@ -1,6 +1,7 @@
 ---
 title: Cloud Nothings
 date: '2014-09-01'
+author: K Hawthorne
 type: interview
 band: Cloud Nothings
 tags:

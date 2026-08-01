@@ -1,6 +1,7 @@
 ---
 title: Human Tetris
 date: '2012-02-04'
+author: natalye
 type: interview
 band: Human Tetris
 tags:

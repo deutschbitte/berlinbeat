@@ -1,6 +1,7 @@
 ---
 title: Against Me! at Lido 05/06/14
 date: '2014-07-02'
+author: natalye
 type: photos
 band: Against Me!
 venue: Lido

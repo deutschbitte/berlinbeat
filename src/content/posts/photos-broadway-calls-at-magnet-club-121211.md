@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Broadway Calls at Magnet Club 12/12/11
 date: '2012-02-06'
+author: natalye
 type: photos
 band: Broadway Calls
 venue: Magnet Club

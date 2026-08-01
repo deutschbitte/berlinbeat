@@ -1,6 +1,7 @@
 ---
 title: God Is An Astronaut
 date: '2012-07-04'
+author: natalye
 type: interview
 band: God Is An Astronaut
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-God Is An Astronaut - Photo by Derval FreemanExactly a decade ago, twin brothers Niels and Torsten Kinsella formed an instrumental rock band. Not wanting to succumb to the pressures of the music industry, they turned down offers from labels who liked the sound but insisted on the addition of vocals. Instead, they released their debut as [God Is An Astronaut](http://www.godisanastronaut.com) on a self-formed label, [Revive Records](http://superadmusic.com/). Ten years later, and the two haven't looked back.
+God Is An Astronaut - Photo by Derval Freeman
+
+Exactly a decade ago, twin brothers Niels and Torsten Kinsella formed an instrumental rock band. Not wanting to succumb to the pressures of the music industry, they turned down offers from labels who liked the sound but insisted on the addition of vocals. Instead, they released their debut as [God Is An Astronaut](http://www.godisanastronaut.com) on a self-formed label, [Revive Records](http://superadmusic.com/). Ten years later, and the two haven't looked back.
 
 That's not to say it has all been smooth-going for the group, as the decision to not give in to conventional ideas of what a band should sound like has made it so the four have had to fight for what they want.
 

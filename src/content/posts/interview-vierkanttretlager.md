@@ -1,6 +1,7 @@
 ---
 title: Vierkanttretlager
 date: '2015-05-24'
+author: natalye
 type: interview
 band: Vierkanttretlager
 tags:

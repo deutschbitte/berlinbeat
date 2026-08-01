@@ -1,6 +1,7 @@
 ---
 title: m0ck at Schokoladen 07/04/14
 date: '2014-04-14'
+author: klirrsjourney
 type: photos
 band: m0ck
 venue: Schokoladen

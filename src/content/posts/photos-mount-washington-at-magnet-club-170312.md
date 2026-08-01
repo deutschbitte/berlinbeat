@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Mount Washington at Magnet Club 17/03/12
 date: '2012-05-07'
+author: natalye
 type: photos
 band: Mount Washington
 venue: Magnet Club

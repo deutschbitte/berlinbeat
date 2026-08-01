@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: The Dropout Patrol at About Blank 07/03/12
 date: '2012-04-12'
+author: natalye
 type: photos
 band: The Dropout Patrol
 venue: About Blank

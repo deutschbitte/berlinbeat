@@ -1,6 +1,7 @@
 ---
 title: Clastic
 date: '2012-01-27'
+author: natalye
 type: interview
 band: Clastic
 tags:

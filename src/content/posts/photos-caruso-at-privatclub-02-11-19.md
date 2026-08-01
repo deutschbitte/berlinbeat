@@ -1,6 +1,7 @@
 ---
 title: Caruso at Privatclub 02/11/19
 date: '2019-11-22'
+author: klirrsjourney
 type: photos
 band: Caruso
 venue: Privatclub

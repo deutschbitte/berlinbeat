@@ -1,6 +1,7 @@
 ---
 title: Stars for the Banned
 date: '2011-10-03'
+author: natalye
 type: interview
 band: Stars for the Banned
 tags:

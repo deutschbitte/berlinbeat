@@ -1,6 +1,7 @@
 ---
 title: Worlds Dirtiest Sport at Schokoladen 26/07/18
 date: '2018-07-31'
+author: steventhirsty
 type: photos
 band: Worlds Dirtiest Sport
 venue: Schokoladen

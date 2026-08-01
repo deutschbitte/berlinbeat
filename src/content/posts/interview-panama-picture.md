@@ -1,6 +1,7 @@
 ---
 title: Panama Picture
 date: '2011-09-14'
+author: natalye
 type: interview
 band: Panama Picture
 tags:

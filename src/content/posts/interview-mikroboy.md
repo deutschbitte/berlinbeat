@@ -1,6 +1,7 @@
 ---
 title: Mikroboy
 date: '2011-06-23'
+author: natalye
 type: interview
 band: Mikroboy
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Xantene (5 Years Kitchen Leg Records) at Loophole 18/01/19
 date: '2019-01-30'
+author: klirrsjourney
 type: photos
 band: Xantene (5 Years Kitchen Leg Records)
 venue: Loophole

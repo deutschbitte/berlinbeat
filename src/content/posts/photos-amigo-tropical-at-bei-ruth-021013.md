@@ -1,6 +1,7 @@
 ---
 title: Amigo Tropical at Bei Ruth 02/10/13
 date: '2013-10-16'
+author: Heike
 type: photos
 band: Amigo Tropical
 venue: Bei Ruth

@@ -1,6 +1,7 @@
 ---
 title: Scams
 date: '2011-09-24'
+author: natalye
 type: interview
 band: Scams
 tags:

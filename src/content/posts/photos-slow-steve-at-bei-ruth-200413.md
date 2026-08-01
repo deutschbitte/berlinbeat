@@ -1,6 +1,7 @@
 ---
 title: Slow Steve at Bei Ruth 20/04/13
 date: '2013-09-03'
+author: natalye
 type: photos
 band: Slow Steve
 venue: Bei Ruth

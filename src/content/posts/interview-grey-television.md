@@ -1,6 +1,7 @@
 ---
 title: Grey Television
 date: '2012-03-27'
+author: natalye
 type: interview
 band: Grey Television
 tags:

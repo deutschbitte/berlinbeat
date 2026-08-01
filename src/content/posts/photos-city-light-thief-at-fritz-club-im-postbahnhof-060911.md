@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: City Light Thief at Fritz Club im Postbahnhof 06/09/11
 date: '2011-09-09'
+author: natalye
 type: photos
 band: City Light Thief
 venue: Fritz Club im Postbahnhof

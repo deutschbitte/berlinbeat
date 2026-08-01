@@ -1,6 +1,7 @@
 ---
 title: Total Heels
 date: '2014-10-23'
+author: natalye
 type: interview
 band: Total Heels
 tags:

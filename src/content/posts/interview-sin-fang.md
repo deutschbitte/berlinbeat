@@ -1,6 +1,7 @@
 ---
 title: Sin Fang
 date: '2011-09-14'
+author: natalye
 type: interview
 band: Sin Fang
 tags:

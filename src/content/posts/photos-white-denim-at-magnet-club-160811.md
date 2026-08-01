@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: White Denim at Magnet Club 16/08/11
 date: '2011-08-22'
+author: natalye
 type: photos
 band: White Denim
 venue: Magnet Club

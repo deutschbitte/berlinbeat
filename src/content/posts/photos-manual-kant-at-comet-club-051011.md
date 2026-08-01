@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Manual Kant at Comet Club 05/10/11
 date: '2011-10-24'
+author: natalye
 type: photos
 band: Manual Kant
 venue: Comet Club

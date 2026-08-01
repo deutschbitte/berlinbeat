@@ -1,6 +1,7 @@
 ---
 title: Kris Kelvin at Waschhaus 17/09/13
 date: '2013-09-26'
+author: Heike
 type: photos
 band: Kris Kelvin
 venue: Waschhaus

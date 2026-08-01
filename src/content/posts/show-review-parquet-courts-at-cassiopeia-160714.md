@@ -1,6 +1,7 @@
 ---
 title: Parquet Courts at Cassiopeia 16/07/14
 date: '2014-07-23'
+author: chloe_louise
 type: review
 reviewType: show
 band: Parquet Courts

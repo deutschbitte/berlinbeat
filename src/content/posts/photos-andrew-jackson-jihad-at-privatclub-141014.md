@@ -1,6 +1,7 @@
 ---
 title: Andrew Jackson Jihad at Privatclub 14/10/14
 date: '2015-02-04'
+author: natalye
 type: photos
 band: Andrew Jackson Jihad
 venue: Privatclub

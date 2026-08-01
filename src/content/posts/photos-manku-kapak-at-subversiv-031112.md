@@ -1,6 +1,7 @@
 ---
 title: Manku Kapak at Subversiv 03/11/12
 date: '2013-07-12'
+author: natalye
 type: photos
 band: Manku Kapak
 venue: Subversiv

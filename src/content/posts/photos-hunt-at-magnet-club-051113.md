@@ -1,6 +1,7 @@
 ---
 title: Hunt at Magnet Club 05/11/13
 date: '2013-11-10'
+author: natalye
 type: photos
 band: Hunt
 venue: Magnet Club

@@ -1,6 +1,7 @@
 ---
 title: Stars in Coma
 date: '2012-09-14'
+author: natalye
 type: interview
 band: Stars in Coma
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Stars in Coma - Photo courtesy of Stars in ComaThough there are countless indie pop bands coming out of Sweden, Malmö's [Stars in Coma](http://www.starsincoma.com) is, without a doubt, one of the most prolific of the lot. Case in point: since emerging on the scene in 2005, the band has released two singles, six EPs, and six albums, the most recent of which was 2011's "Midnight Puzzle."
+Stars in Coma - Photo courtesy of Stars in Coma
+
+Though there are countless indie pop bands coming out of Sweden, Malmö's [Stars in Coma](http://www.starsincoma.com) is, without a doubt, one of the most prolific of the lot. Case in point: since emerging on the scene in 2005, the band has released two singles, six EPs, and six albums, the most recent of which was 2011's "Midnight Puzzle."
 
 Of course, Stars in Coma wasn't always a band, in the true definition of the word. In fact, the humble origins date back to the childhood of André Brorsson, who knew from an early age what he wanted to do with his life.
 

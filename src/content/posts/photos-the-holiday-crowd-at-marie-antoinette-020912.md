@@ -1,6 +1,7 @@
 ---
 title: The Holiday Crowd at Marie Antoinette 02/09/12
 date: '2013-05-03'
+author: natalye
 type: photos
 band: The Holiday Crowd
 venue: Marie Antoinette

@@ -1,6 +1,7 @@
 ---
 title: I Like Ambulance at Cassiopeia 17/04/14
 date: '2014-05-07'
+author: Heike
 type: photos
 band: I Like Ambulance
 venue: Cassiopeia

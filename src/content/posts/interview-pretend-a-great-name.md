@@ -1,6 +1,7 @@
 ---
 title: Pretend a Great Name
 date: '2011-09-08'
+author: natalye
 type: interview
 band: Pretend a Great Name
 tags:

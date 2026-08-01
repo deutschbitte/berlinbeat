@@ -1,13 +1,14 @@
 ---
-title: Sebastian Block &amp; Band at Zosch 14/12/18
+title: Sebastian Block & Band at Zosch 14/12/18
 date: '2018-12-21'
+author: klirrsjourney
 type: photos
-band: Sebastian Block &amp; Band
+band: Sebastian Block & Band
 venue: Zosch
 tags:
   - German
   - Sebastian Block
-  - Sebastian Block &amp; Band
+  - Sebastian Block & Band
   - Zosch
 coverImage: https://farm5.staticflickr.com/4838/46300654112_64083a1225.jpg
 gallery:

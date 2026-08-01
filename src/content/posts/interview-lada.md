@@ -1,6 +1,7 @@
 ---
 title: LADA
 date: '2013-11-27'
+author: natalye
 type: interview
 band: LADA
 tags:

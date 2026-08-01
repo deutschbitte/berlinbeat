@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: The Blood Arm at Magnet Club 23/10/11
 date: '2011-12-20'
+author: natalye
 type: photos
 band: The Blood Arm
 venue: Magnet Club

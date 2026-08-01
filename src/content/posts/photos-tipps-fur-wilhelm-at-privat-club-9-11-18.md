@@ -1,6 +1,7 @@
 ---
 title: Tipps für Wilhelm at Privatclub 09/11/18
 date: '2018-11-20'
+author: klirrsjourney
 type: photos
 band: Tipps für Wilhelm
 venue: Privatclub

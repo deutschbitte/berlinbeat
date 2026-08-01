@@ -1,6 +1,7 @@
 ---
 title: Sky Histoire
 date: '2012-03-05'
+author: natalye
 type: interview
 band: Sky Histoire
 tags:

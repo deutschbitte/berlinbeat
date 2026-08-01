@@ -1,6 +1,7 @@
 ---
 title: Tess Wiley at Bi Nuu 03/02/15
 date: '2015-02-09'
+author: Heike
 type: photos
 band: Tess Wiley
 venue: Bi Nuu

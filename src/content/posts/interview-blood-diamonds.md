@@ -1,6 +1,7 @@
 ---
 title: Blood Diamonds
 date: '2012-11-14'
+author: natalye
 type: interview
 band: Blood Diamonds
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Blood Diamonds – Photo courtesy of Blood DiamondsWhen Mike Tucker speaks, his speech is full of valleys and peaks. When he talks about his experiences as a musician and what he is learned, he is calm, even-keeled. But when he gets excited, Tucker speeds up, his sentences peppered with abstract descriptions and plenty of "justs" and "likes."
+Blood Diamonds – Photo courtesy of Blood Diamonds
+
+When Mike Tucker speaks, his speech is full of valleys and peaks. When he talks about his experiences as a musician and what he is learned, he is calm, even-keeled. But when he gets excited, Tucker speeds up, his sentences peppered with abstract descriptions and plenty of "justs" and "likes."
 
 But Tucker, who is the man behind [4AD](http://4ad.com/)'s [Blood Diamonds](http://blooddiamondsmusic.com/), has a lot to be excited about. Born and raised in Kansas City, Missouri, and now calling Los Angeles a part-time home, it was during his time in Vancouver when he really began to garner a following, something that was spurred on by his unlikely friendship with Grimes' Claire Boucher.
 

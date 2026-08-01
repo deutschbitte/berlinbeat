@@ -1,6 +1,7 @@
 ---
 title: David Bazan
 date: '2013-08-28'
+author: natalye
 type: interview
 band: David Bazan
 tags:

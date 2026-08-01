@@ -1,8 +1,9 @@
 ---
-title: Tim Neuhaus &amp; the Cabinet
+title: Tim Neuhaus & the Cabinet
 date: '2011-05-31'
+author: natalye
 type: interview
-band: Tim Neuhaus &amp; the Cabinet
+band: Tim Neuhaus & the Cabinet
 tags:
   - Feature
   - German

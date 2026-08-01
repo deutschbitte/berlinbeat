@@ -1,6 +1,7 @@
 ---
 title: Captain Capa
 date: '2011-09-06'
+author: natalye
 type: interview
 band: Captain Capa
 tags:

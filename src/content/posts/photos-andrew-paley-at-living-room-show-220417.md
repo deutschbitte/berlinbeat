@@ -1,6 +1,7 @@
 ---
 title: Andrew Paley at Living Room Show 22/04/17
 date: '2017-05-15'
+author: natalye
 type: photos
 band: Andrew Paley
 venue: Living Room Show

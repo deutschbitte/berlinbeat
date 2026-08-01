@@ -1,6 +1,7 @@
 ---
 title: Atari Teenage Riot
 date: '2011-10-30'
+author: natalye
 type: interview
 band: Atari Teenage Riot
 tags:

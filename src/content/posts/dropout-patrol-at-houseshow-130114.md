@@ -1,6 +1,7 @@
 ---
 title: Dropout Patrol at Houseshow 13/01/14
 date: '2014-01-17'
+author: Heike
 type: photos
 band: Dropout Patrol
 venue: Houseshow

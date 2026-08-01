@@ -1,6 +1,7 @@
 ---
 title: The Field
 date: '2011-08-22'
+author: natalye
 type: interview
 band: The Field
 tags:

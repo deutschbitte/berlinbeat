@@ -14,6 +14,7 @@ export async function GET(context) {
       description: post.data.excerpt ?? typeLabel(post),
       link: postHref(post),
       categories: post.data.tags,
+      author: post.data.author,
     })),
   });
 }

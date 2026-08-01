@@ -1,6 +1,7 @@
 ---
 title: Parakeet at Bi Nuu 11/11/12
 date: '2013-08-02'
+author: natalye
 type: photos
 band: Parakeet
 venue: Bi Nuu

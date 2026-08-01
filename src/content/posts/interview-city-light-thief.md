@@ -1,6 +1,7 @@
 ---
 title: City Light Thief
 date: '2012-02-18'
+author: natalye
 type: interview
 band: City Light Thief
 tags:

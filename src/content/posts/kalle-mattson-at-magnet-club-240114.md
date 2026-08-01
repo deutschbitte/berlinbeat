@@ -1,6 +1,7 @@
 ---
 title: Kalle Mattson at Magnet Club 24/01/14
 date: '2014-01-28'
+author: Heike
 type: photos
 band: Kalle Mattson
 venue: Magnet Club

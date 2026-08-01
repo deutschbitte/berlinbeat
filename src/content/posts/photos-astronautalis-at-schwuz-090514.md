@@ -1,6 +1,7 @@
 ---
 title: Astronautalis at SchwuZ 09/05/14
 date: '2014-05-30'
+author: natalye
 type: photos
 band: Astronautalis
 venue: SchwuZ

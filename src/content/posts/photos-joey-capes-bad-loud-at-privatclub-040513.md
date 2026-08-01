@@ -1,6 +1,7 @@
 ---
 title: Joey Cape's Bad Loud at Privatclub 04/05/13
 date: '2014-09-23'
+author: natalye
 type: photos
 band: Joey Cape's Bad Loud
 venue: Privatclub

@@ -1,6 +1,7 @@
 ---
 title: The Spook School
 date: '2012-10-14'
+author: natalye
 type: interview
 band: The Spook School
 tags:

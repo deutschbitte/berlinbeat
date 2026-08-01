@@ -1,6 +1,7 @@
 ---
 title: Azure Blue at Marie Antoinette 31/08/12
 date: '2013-05-01'
+author: natalye
 type: photos
 band: Azure Blue
 venue: Marie Antoinette

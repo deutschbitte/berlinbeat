@@ -1,6 +1,7 @@
 ---
 title: The Blow
 date: '2018-04-07'
+author: natalye
 type: interview
 band: The Blow
 tags:

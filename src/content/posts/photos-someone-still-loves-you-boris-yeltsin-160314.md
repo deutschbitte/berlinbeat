@@ -1,6 +1,7 @@
 ---
 title: Someone Still Loves You Boris Yeltsin at Privatclub 16/03/14
 date: '2015-04-17'
+author: natalye
 type: photos
 band: Someone Still Loves You Boris Yeltsin
 venue: Privatclub

@@ -1,0 +1,57 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import { getAllPosts, slugify } from '../../lib/posts';
+
+// Internal bookkeeping tags from the WP migration, not real topics.
+const SYSTEM_TAGS = new Set(['needs-review', 'broken-images']);
+
+const posts = await getAllPosts();
+const counts = new Map<string, number>();
+for (const post of posts) {
+  for (const tag of post.data.tags) {
+    if (SYSTEM_TAGS.has(tag)) continue;
+    counts.set(tag, (counts.get(tag) ?? 0) + 1);
+  }
+}
+
+const tags = [...counts.entries()]
+  .map(([name, count]) => ({ name, count, slug: slugify(name) }))
+  .sort((a, b) => a.name.localeCompare(b.name));
+
+const maxCount = Math.max(...tags.map((t) => t.count), 1);
+
+function sizeClass(count: number): string {
+  const ratio = count / maxCount;
+  if (ratio > 0.5) return 'text-xl';
+  if (ratio > 0.2) return 'text-base';
+  if (ratio > 0.06) return 'text-sm';
+  return 'text-xs';
+}
+---
+
+<Layout title="Tags" description="Browse Berlin Beat by genre, scene, and recurring topic.">
+  <section class="mx-auto max-w-2xl px-5 py-8 sm:px-8 sm:py-10">
+    <h1 class="text-2xl font-medium sm:text-3xl">Tags</h1>
+
+    {tags.length > 0 ? (
+      <ul class="mt-6 flex flex-wrap items-baseline gap-x-4 gap-y-3">
+        {tags.map((tag) => (
+          <li>
+            <a
+              href={`/tags/${tag.slug}/`}
+              class:list={[
+                'text-[var(--fg-muted)] transition-colors hover:text-[var(--fg)] hover:underline',
+                sizeClass(tag.count),
+              ]}
+            >
+              {tag.name}
+              <span class="text-xs text-[var(--fg-muted)]"> ({tag.count})</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    ) : (
+      <p class="mt-6 text-[var(--fg-muted)]">No tags yet.</p>
+    )}
+  </section>
+</Layout>

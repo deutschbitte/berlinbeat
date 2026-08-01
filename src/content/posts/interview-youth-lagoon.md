@@ -1,6 +1,7 @@
 ---
 title: Youth Lagoon
 date: '2012-02-29'
+author: natalye
 type: interview
 band: Youth Lagoon
 tags:

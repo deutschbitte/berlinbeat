@@ -1,6 +1,7 @@
 ---
 title: Me and My Drummer
 date: '2011-09-15'
+author: natalye
 type: interview
 band: Me and My Drummer
 tags:

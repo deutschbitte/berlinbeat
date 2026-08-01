@@ -1,6 +1,7 @@
 ---
 title: Brabrabra at Schokoladen 16/01/2014
 date: '2014-01-21'
+author: klirrsjourney
 type: photos
 band: Brabrabra
 venue: Schokoladen

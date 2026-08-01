@@ -1,6 +1,7 @@
 ---
 title: Tegan and Sara
 date: '2013-06-17'
+author: natalye
 type: interview
 band: Tegan and Sara
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Tegan and Sara - Photo courtesy of Tegan and SaraAs is the case with many bands, long-time, overzealous and somewhat overprotective fans of [Tegan and Sara](http://www.teganandsara.com/) can accuse the group of being too mainstream these days, but they certainly can’t claim that the Canadian duo – made up of twin sisters Tegan and Sara Quin – hasn’t matured over the 18 years since its founding.
+Tegan and Sara - Photo courtesy of Tegan and Sara
+
+As is the case with many bands, long-time, overzealous and somewhat overprotective fans of [Tegan and Sara](http://www.teganandsara.com/) can accuse the group of being too mainstream these days, but they certainly can’t claim that the Canadian duo – made up of twin sisters Tegan and Sara Quin – hasn’t matured over the 18 years since its founding.
 
 And with the release of the pair’s seventh studio full-length and first in four years, “Heartthrob,” Tegan and Sara did what they are so good at, which is moving the music forward while staying true to their roots.
 

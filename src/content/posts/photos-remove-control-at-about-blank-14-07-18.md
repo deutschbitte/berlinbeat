@@ -1,6 +1,7 @@
 ---
 title: Remove Control at ://about blank 14/07/18
 date: '2018-07-20'
+author: steventhirsty
 type: photos
 band: Remove Control
 venue: ://about blank

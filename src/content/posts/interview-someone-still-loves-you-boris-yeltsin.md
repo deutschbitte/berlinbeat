@@ -1,6 +1,7 @@
 ---
 title: Someone Still Loves You Boris Yeltsin
 date: '2014-03-24'
+author: natalye
 type: interview
 band: Someone Still Loves You Boris Yeltsin
 tags:

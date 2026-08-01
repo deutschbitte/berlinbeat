@@ -1,6 +1,7 @@
 ---
 title: Kristallin
 date: '2011-08-29'
+author: natalye
 type: interview
 band: Kristallin
 tags:

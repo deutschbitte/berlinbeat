@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: WATERS at Huxley's Neue Welt 26/02/12
 date: '2012-03-16'
+author: natalye
 type: photos
 band: WATERS
 venue: Huxley's Neue Welt

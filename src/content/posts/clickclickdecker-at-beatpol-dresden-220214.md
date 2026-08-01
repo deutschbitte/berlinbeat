@@ -1,6 +1,7 @@
 ---
 title: Clickclickdecker at Beatpol Dresden 22/02/14
 date: '2014-03-13'
+author: Heike
 type: photos
 band: Clickclickdecker
 venue: Beatpol Dresden

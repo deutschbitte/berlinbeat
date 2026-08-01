@@ -1,6 +1,7 @@
 ---
 title: Mister Heavenly
 date: '2011-12-08'
+author: natalye
 type: interview
 band: Mister Heavenly
 tags:

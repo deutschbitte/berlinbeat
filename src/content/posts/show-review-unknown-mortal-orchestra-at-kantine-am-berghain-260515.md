@@ -1,6 +1,7 @@
 ---
 title: Unknown Mortal Orchestra at Kantine am Berghain 26/05/15
 date: '2015-06-08'
+author: Malte Grotendorst
 type: review
 reviewType: show
 band: Unknown Mortal Orchestra

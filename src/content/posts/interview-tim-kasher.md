@@ -1,6 +1,7 @@
 ---
 title: Tim Kasher
 date: '2014-07-29'
+author: natalye
 type: interview
 band: Tim Kasher
 tags:

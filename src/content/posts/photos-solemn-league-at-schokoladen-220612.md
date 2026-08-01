@@ -1,6 +1,7 @@
 ---
 title: Solemn League at Schokoladen 22/06/12
 date: '2012-09-27'
+author: natalye
 type: photos
 band: Solemn League
 venue: Schokoladen

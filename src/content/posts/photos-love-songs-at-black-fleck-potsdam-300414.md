@@ -1,6 +1,7 @@
 ---
 title: Love-Songs at Black Fleck Potsdam 30/04/14
 date: '2014-05-13'
+author: Heike
 type: photos
 band: Love-Songs
 venue: Black Fleck Potsdam

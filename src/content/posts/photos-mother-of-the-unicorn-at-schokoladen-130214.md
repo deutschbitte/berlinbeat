@@ -1,6 +1,7 @@
 ---
 title: Mother of the Unicorn at Schokoladen 13/02/14
 date: '2014-02-18'
+author: klirrsjourney
 type: photos
 band: Mother of the Unicorn
 venue: Schokoladen

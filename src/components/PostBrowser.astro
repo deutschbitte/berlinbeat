@@ -16,17 +16,30 @@ const counts = {
 ---
 
 <div>
-  <div class="mb-5 flex items-center gap-2">
+  <div class="mb-6 flex items-center gap-2">
     <label for="type-filter" class="text-sm text-[var(--fg-muted)]">Show</label>
-    <select
-      id="type-filter"
-      class="rounded-md border border-[var(--border)] bg-[var(--bg)] px-2 py-1 text-sm text-[var(--fg)]"
-    >
-      <option value="all">All ({posts.length})</option>
-      <option value="interview">Interviews ({counts.interview})</option>
-      <option value="review">Reviews ({counts.review})</option>
-      <option value="photos">Photos ({counts.photos})</option>
-    </select>
+    <div class="relative">
+      <select
+        id="type-filter"
+        class="appearance-none rounded-full border border-[var(--border)] bg-[var(--bg)] py-1.5 pl-3 pr-8 text-sm text-[var(--fg)] transition-colors hover:border-[var(--fg-muted)] focus:border-[var(--fg-muted)] focus:outline-none"
+      >
+        <option value="all">All ({posts.length})</option>
+        <option value="interview">Interviews ({counts.interview})</option>
+        <option value="review">Reviews ({counts.review})</option>
+        <option value="photos">Photos ({counts.photos})</option>
+      </select>
+      <svg
+        class="pointer-events-none absolute right-2.5 top-1/2 size-3 -translate-y-1/2 text-[var(--fg-muted)]"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+        stroke-linecap="round"
+        stroke-linejoin="round"
+      >
+        <path d="m6 9 6 6 6-6"></path>
+      </svg>
+    </div>
   </div>
 
   <PostGrid posts={posts} />

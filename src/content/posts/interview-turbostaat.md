@@ -1,6 +1,7 @@
 ---
 title: Turbostaat
 date: '2014-02-08'
+author: natalye
 type: interview
 band: Turbostaat
 tags:

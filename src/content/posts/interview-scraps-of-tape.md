@@ -1,6 +1,7 @@
 ---
 title: Scraps of Tape
 date: '2012-04-07'
+author: natalye
 type: interview
 band: Scraps of Tape
 tags:

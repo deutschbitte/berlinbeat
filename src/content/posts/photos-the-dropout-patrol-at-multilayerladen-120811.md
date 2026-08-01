@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: The Dropout Patrol at Multilayerladen 12/08/11
 date: '2011-08-12'
+author: natalye
 type: photos
 band: The Dropout Patrol
 venue: Multilayerladen

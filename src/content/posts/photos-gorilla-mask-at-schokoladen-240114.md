@@ -1,6 +1,7 @@
 ---
 title: Gorilla Mask at Schokoladen 24/01/14
 date: '2014-01-27'
+author: klirrsjourney
 type: photos
 band: Gorilla Mask
 venue: Schokoladen

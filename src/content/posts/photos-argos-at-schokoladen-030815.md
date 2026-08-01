@@ -1,6 +1,7 @@
 ---
 title: argos at Schokoladen 03/08/15
 date: '2015-08-31'
+author: Heike
 type: photos
 band: argos
 venue: Schokoladen

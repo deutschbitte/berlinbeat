@@ -1,6 +1,7 @@
 ---
 title: Ter Haar
 date: '2012-04-15'
+author: natalye
 type: interview
 band: Ter Haar
 tags:

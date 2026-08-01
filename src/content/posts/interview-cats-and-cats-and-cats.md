@@ -1,6 +1,7 @@
 ---
 title: Cats and Cats and Cats
 date: '2012-02-16'
+author: natalye
 type: interview
 band: Cats and Cats and Cats
 tags:

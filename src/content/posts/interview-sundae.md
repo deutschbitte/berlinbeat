@@ -1,6 +1,7 @@
 ---
 title: Sundae
 date: '2011-08-28'
+author: natalye
 type: interview
 band: Sundae
 tags:

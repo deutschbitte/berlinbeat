@@ -10,6 +10,7 @@ const posts = defineCollection({
       .object({
         title: z.string(),
         date: z.coerce.date(),
+        author: z.string().optional(),
         type: z.enum(['interview', 'review', 'photos']),
         reviewType: z.enum(['album', 'show']).optional(),
         band: z.string().optional(),

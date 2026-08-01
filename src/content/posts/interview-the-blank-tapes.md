@@ -1,6 +1,7 @@
 ---
 title: The Blank Tapes
 date: '2012-05-25'
+author: natalye
 type: interview
 band: The Blank Tapes
 tags:
@@ -12,7 +13,8 @@ gallery: []
 draft: false
 ---
 
-The Blank Tapes - Photo courtesy of The Blank Tapes  
+The Blank Tapes - Photo courtesy of The Blank Tapes
+
 [The Blank Tapes](http://www.theblanktapes.com/) is both a person and a band. The person is 31-year-old Matt Adams. The band is whoever happens to be playing with him on any given night.
 
 A Southern California native and currently a Los Angeles resident, Adams was in need of a change of pace when he moved to the Bay Area in the mid 2000s.

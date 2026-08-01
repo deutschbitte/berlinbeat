@@ -1,6 +1,7 @@
 ---
 title: Turbostaat at Waschhaus Potsdam 03/10/14
 date: '2015-02-03'
+author: Heike
 type: photos
 band: Turbostaat
 venue: Waschhaus Potsdam

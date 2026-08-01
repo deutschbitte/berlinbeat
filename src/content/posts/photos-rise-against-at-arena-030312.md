@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Rise Against at Arena 03/03/12
 date: '2012-04-11'
+author: natalye
 type: photos
 band: Rise Against
 venue: Arena

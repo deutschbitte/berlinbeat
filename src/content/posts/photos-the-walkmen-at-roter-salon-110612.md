@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: The Walkmen at Roter Salon 11/06/12
 date: '2012-07-30'
+author: natalye
 type: photos
 band: The Walkmen
 venue: Roter Salon

@@ -1,6 +1,7 @@
 ---
 title: Tim Kasher at Schokoladen 12/05/14
 date: '2014-05-16'
+author: natalye
 type: photos
 band: Tim Kasher
 venue: Schokoladen

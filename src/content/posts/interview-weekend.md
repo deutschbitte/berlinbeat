@@ -1,6 +1,7 @@
 ---
 title: Weekend
 date: '2011-06-26'
+author: natalye
 type: interview
 band: Weekend
 tags:

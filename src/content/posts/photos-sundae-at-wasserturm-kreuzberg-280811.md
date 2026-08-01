@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Sundae at Wasserturm Kreuzberg 28/08/11
 date: '2011-08-30'
+author: natalye
 type: photos
 band: Sundae
 venue: Wasserturm Kreuzberg

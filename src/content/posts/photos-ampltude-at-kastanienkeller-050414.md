@@ -1,6 +1,7 @@
 ---
 title: Ampl:tude at Kastanienkeller 05/04/14
 date: '2014-04-29'
+author: Heike
 type: photos
 band: Ampl:tude
 venue: Kastanienkeller

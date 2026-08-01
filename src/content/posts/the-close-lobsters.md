@@ -1,6 +1,7 @@
 ---
 title: The Close Lobsters
 date: '2012-07-30'
+author: natalye
 type: interview
 band: The Close Lobsters
 tags:

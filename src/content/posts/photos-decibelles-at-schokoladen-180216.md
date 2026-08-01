@@ -1,6 +1,7 @@
 ---
 title: Decibelles at Schokoladen 18/02/16
 date: '2016-02-26'
+author: klirrsjourney
 type: photos
 band: Decibelles
 venue: Schokoladen

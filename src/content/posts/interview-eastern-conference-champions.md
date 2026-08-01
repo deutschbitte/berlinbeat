@@ -1,6 +1,7 @@
 ---
 title: Eastern Conference Champions
 date: '2011-10-02'
+author: natalye
 type: interview
 band: Eastern Conference Champions
 tags:

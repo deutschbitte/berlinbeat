@@ -1,6 +1,7 @@
 ---
 title: Petethepiratesquid at Bei Ruth 02/10/13
 date: '2013-10-17'
+author: Heike
 type: photos
 band: Petethepiratesquid
 venue: Bei Ruth

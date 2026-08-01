@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: Immergut Festival 31/05/14
 date: '2014-07-31'
+author: Heike
 type: photos
 tags:
   - Immergut Festival

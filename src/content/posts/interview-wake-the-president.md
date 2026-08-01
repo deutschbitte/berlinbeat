@@ -1,6 +1,7 @@
 ---
 title: Wake the President
 date: '2011-08-26'
+author: natalye
 type: interview
 band: Wake the President
 tags:

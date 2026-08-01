@@ -1,6 +1,7 @@
 ---
 title: Humans of Feel Festival 2014
 date: '2014-07-17'
+author: berlinerbeat
 type: interview
 band: Humans of Feel Festival 2014
 tags:

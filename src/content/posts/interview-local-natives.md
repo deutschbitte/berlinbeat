@@ -1,6 +1,7 @@
 ---
 title: Local Natives
 date: '2013-02-25'
+author: natalye
 type: interview
 band: Local Natives
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Local Natives - Photo by Bryan SheffieldFor many bands, the idea of taking on a producer after never having one before can be a scary reality. But that was not the case with the [Local Natives](http://www.thelocalnatives.com/). For its second full-length album, this year's "Hummingbird," the Los Angeles-based indie rock band collaborated with The National's Aaron Dessner, and due to the already collaborative nature of the group, bringing in another personality was less of a challenge and more of a welcome experience.
+Local Natives - Photo by Bryan Sheffield
+
+For many bands, the idea of taking on a producer after never having one before can be a scary reality. But that was not the case with the [Local Natives](http://www.thelocalnatives.com/). For its second full-length album, this year's "Hummingbird," the Los Angeles-based indie rock band collaborated with The National's Aaron Dessner, and due to the already collaborative nature of the group, bringing in another personality was less of a challenge and more of a welcome experience.
 
 "It was interesting \[as\] we'd never really done that before, had like someone creatively be involved," guitarist Ryan Hahn said of the experience. "\[But\] it was kind of nice to have someone else to bounce ideas off of, and we got to the point where he kind of became like an older brother."
 

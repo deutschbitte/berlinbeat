@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Television Keeps Us Apart at Wasserturm Kreuzberg 26/08/11
 date: '2011-08-29'
+author: natalye
 type: photos
 band: Television Keeps Us Apart
 venue: Wasserturm Kreuzberg

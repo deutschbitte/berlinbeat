@@ -1,6 +1,7 @@
 ---
 title: Tennis Bafra at Schokoladen 19/09/13
 date: '2013-09-30'
+author: Heike
 type: photos
 band: Tennis Bafra
 venue: Schokoladen

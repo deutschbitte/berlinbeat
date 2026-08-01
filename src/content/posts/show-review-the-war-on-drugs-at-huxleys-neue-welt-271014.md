@@ -1,6 +1,7 @@
 ---
 title: The War on Drugs at Huxleys Neue Welt 27/10/14
 date: '2014-11-07'
+author: chloe_louise
 type: review
 reviewType: show
 band: The War on Drugs

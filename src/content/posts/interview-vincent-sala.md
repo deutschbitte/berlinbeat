@@ -1,6 +1,7 @@
 ---
 title: Vincent Sala
 date: '2016-06-05'
+author: berlinerbeat
 type: interview
 band: Vincent Sala
 tags:

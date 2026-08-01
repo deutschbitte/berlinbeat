@@ -1,6 +1,7 @@
 ---
 title: '206'
 date: '2012-01-12'
+author: natalye
 type: interview
 band: '206'
 tags:

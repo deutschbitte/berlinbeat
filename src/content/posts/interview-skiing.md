@@ -1,6 +1,7 @@
 ---
 title: Skiing
 date: '2011-10-21'
+author: natalye
 type: interview
 band: Skiing
 tags:

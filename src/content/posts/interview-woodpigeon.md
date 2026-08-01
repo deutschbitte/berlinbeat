@@ -1,6 +1,7 @@
 ---
 title: Woodpigeon
 date: '2011-08-23'
+author: natalye
 type: interview
 band: Woodpigeon
 tags:

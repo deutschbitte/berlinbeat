@@ -1,6 +1,7 @@
 ---
 title: Faye at Bi Nuu 05/09/12
 date: '2013-06-23'
+author: natalye
 type: photos
 band: Faye
 venue: Bi Nuu

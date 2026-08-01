@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Sondre Lerche at Privatclub 10/10/11
 date: '2011-11-04'
+author: natalye
 type: photos
 band: Sondre Lerche
 venue: Privatclub

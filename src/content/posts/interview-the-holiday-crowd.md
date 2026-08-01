@@ -1,6 +1,7 @@
 ---
 title: The Holiday Crowd
 date: '2012-09-01'
+author: natalye
 type: interview
 band: The Holiday Crowd
 tags:

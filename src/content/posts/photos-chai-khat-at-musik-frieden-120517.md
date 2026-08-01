@@ -1,9 +1,10 @@
 ---
-title: Chai Khat at Musik &amp; Frieden 12/05/17
+title: Chai Khat at Musik & Frieden 12/05/17
 date: '2017-05-18'
+author: natalye
 type: photos
 band: Chai Khat
-venue: Musik &amp; Frieden
+venue: Musik & Frieden
 tags:
   - Chai Khat
   - German

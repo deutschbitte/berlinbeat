@@ -1,6 +1,7 @@
 ---
 title: Luke Sital-Singh
 date: '2014-09-22'
+author: K Hawthorne
 type: interview
 band: Luke Sital-Singh
 tags:

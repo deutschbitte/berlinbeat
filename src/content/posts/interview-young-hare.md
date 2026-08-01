@@ -1,6 +1,7 @@
 ---
 title: Young Hare
 date: '2013-01-05'
+author: natalye
 type: interview
 band: Young Hare
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Young Hare - Photo courtesy of Young Hare[Young Hare](http://young-hare.tumblr.com/) is a band that just can't be satisfied.
+Young Hare - Photo courtesy of Young Hare
+
+[Young Hare](http://young-hare.tumblr.com/) is a band that just can't be satisfied.
 
 The two-piece band out of Frankfurt, consisting of members Marc Krause und Phil Pfanzer, has been described as playing tropical dreampop, but the guys themselves aren't quite certain about how to label the music, nor what the ultimate goal in playing their music is.
 

@@ -1,6 +1,7 @@
 ---
 title: Fulhäst
 date: '2012-08-30'
+author: natalye
 type: interview
 band: Fulhäst
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Fulhäst – Photo by flickr user orqwithFor those whose Swedish isn't quite up to par and who may be scratching their heads, the literal translation of [Fulhäst](http://fulhast.tumblr.com/) is "uglyhorse," although it's not quite a real word. Fulhäst is, however, the name of solo artist Niklas Vestberg, who plays a particular brand of Nintendo Game Boy-powered pop music.
+Fulhäst – Photo by flickr user orqwith
+
+For those whose Swedish isn't quite up to par and who may be scratching their heads, the literal translation of [Fulhäst](http://fulhast.tumblr.com/) is "uglyhorse," although it's not quite a real word. Fulhäst is, however, the name of solo artist Niklas Vestberg, who plays a particular brand of Nintendo Game Boy-powered pop music.
 
 Vestberg, 33, is Swedish by birth, but has been living abroad for 16 years and currently considers London his home. He is also best known as one-half of former casiopop outfit [Moustache of Insanity](http://www.moustacheofinsanity.com/)\--what he refers to as his first "proper band."
 

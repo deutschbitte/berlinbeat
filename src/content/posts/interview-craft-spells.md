@@ -1,6 +1,7 @@
 ---
 title: Craft Spells
 date: '2012-03-14'
+author: natalye
 type: interview
 band: Craft Spells
 tags:

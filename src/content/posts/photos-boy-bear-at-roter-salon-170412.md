@@ -1,13 +1,14 @@
 ---
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
-title: Boy &amp; Bear at Roter Salon 17/04/12
+title: Boy & Bear at Roter Salon 17/04/12
 date: '2012-06-19'
+author: natalye
 type: photos
-band: Boy &amp; Bear
+band: Boy & Bear
 venue: Roter Salon
 tags:
   - Australian
-  - Boy &amp; Bear
+  - Boy & Bear
   - Roter Salon
   - broken-images
 coverImage: https://lh4.googleusercontent.com/-1NTcRngfTPs/T-CMCPrLC0I/AAAAAAAAEbM/GcdHp7dIdK8/s800/7395688568_78998b6585.jpeg

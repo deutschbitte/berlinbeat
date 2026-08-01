@@ -1,6 +1,7 @@
 ---
 title: mOck at Schokoladen 16/12/13
 date: '2013-12-29'
+author: Heike
 type: photos
 band: mOck
 venue: Schokoladen

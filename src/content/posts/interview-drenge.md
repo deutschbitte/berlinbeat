@@ -1,6 +1,7 @@
 ---
 title: Drenge
 date: '2014-04-18'
+author: K Hawthorne
 type: interview
 band: Drenge
 tags:

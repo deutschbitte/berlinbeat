@@ -1,6 +1,7 @@
 ---
 title: Me Succeeds
 date: '2012-06-03'
+author: natalye
 type: interview
 band: Me Succeeds
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Me Succeeds - Photo by Maximilian BartschIt has been a decade since [Me Succeeds](http://www.mesucceeds.de/), a minimalistic indie-pop group based in Hamburg, first began to piece itself together. In that time, the trio - which consists of Lorin Strohm, Sebastian Kokus and Mona Steinwidder - has released four albums and built up a substantial following for itself in Germany. And it is that following that has, by and large, kept the band going, particularly when the members themselves were doubting the future of Me Succeeds.
+Me Succeeds - Photo by Maximilian Bartsch
+
+It has been a decade since [Me Succeeds](http://www.mesucceeds.de/), a minimalistic indie-pop group based in Hamburg, first began to piece itself together. In that time, the trio - which consists of Lorin Strohm, Sebastian Kokus and Mona Steinwidder - has released four albums and built up a substantial following for itself in Germany. And it is that following that has, by and large, kept the band going, particularly when the members themselves were doubting the future of Me Succeeds.
 
 The origins of the band actually date back to the childhood of Kokus and Strohm, who grew up in the suburbs of Munich and have known one another since elementary school. As the two grew older, they naturally began playing music together, which resulted in several groups, all of which inevitably broke up as they aged and their musical sensibilities developed.
 

@@ -1,6 +1,7 @@
 ---
 title: Kid Ikarus at Acker Stadt Palast 29/09/13
 date: '2013-10-09'
+author: Heike
 type: photos
 band: Kid Ikarus
 venue: Acker Stadt Palast

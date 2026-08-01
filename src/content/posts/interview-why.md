@@ -1,6 +1,7 @@
 ---
 title: WHY?
 date: '2017-06-20'
+author: natalye
 type: interview
 band: WHY?
 tags:

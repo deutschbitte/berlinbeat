@@ -1,6 +1,7 @@
 ---
 title: Soft Grid
 date: '2016-11-25'
+author: natalye
 type: interview
 band: Soft Grid
 tags:

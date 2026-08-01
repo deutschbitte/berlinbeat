@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Ja, Panik at Festsaal Kreuzberg 04/11/11
 date: '2012-01-12'
+author: natalye
 type: photos
 band: Ja, Panik
 venue: Festsaal Kreuzberg

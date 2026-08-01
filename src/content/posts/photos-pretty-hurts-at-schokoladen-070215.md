@@ -1,6 +1,7 @@
 ---
 title: Pretty Hurts at Schokoladen 07/02/15
 date: '2015-03-03'
+author: Heike
 type: photos
 band: Pretty Hurts
 venue: Schokoladen

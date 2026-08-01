@@ -1,6 +1,7 @@
 ---
 title: Warner Drive at Wild at Heart 20/08/14
 date: '2014-09-10'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Warner Drive

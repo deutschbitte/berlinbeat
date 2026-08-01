@@ -1,6 +1,7 @@
 ---
 title: Fulhäst at Marie Antoinette 31/08/12
 date: '2013-03-05'
+author: natalye
 type: photos
 band: Fulhäst
 venue: Marie Antoinette

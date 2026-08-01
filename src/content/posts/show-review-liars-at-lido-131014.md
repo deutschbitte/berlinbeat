@@ -1,6 +1,7 @@
 ---
 title: Liars at Lido 13/10/14
 date: '2014-10-17'
+author: chloe_louise
 type: review
 reviewType: show
 band: Liars

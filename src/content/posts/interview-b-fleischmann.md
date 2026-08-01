@@ -1,6 +1,7 @@
 ---
 title: B. Fleischmann
 date: '2012-03-15'
+author: natalye
 type: interview
 band: B. Fleischmann
 tags:

@@ -1,6 +1,7 @@
 ---
 title: The Adolescents at SO36 12/07/13
 date: '2013-08-30'
+author: punkrockdoll
 type: review
 reviewType: show
 band: The Adolescents

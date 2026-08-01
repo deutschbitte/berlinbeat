@@ -1,8 +1,9 @@
 ---
-title: Tonia Reeh &amp; Rudi Fischerlehner at Roter Salon 18/10/14
+title: Tonia Reeh & Rudi Fischerlehner at Roter Salon 18/10/14
 date: '2014-11-06'
+author: klirrsjourney
 type: photos
-band: Tonia Reeh &amp; Rudi Fischerlehner
+band: Tonia Reeh & Rudi Fischerlehner
 venue: Roter Salon
 tags:
   - Austrian

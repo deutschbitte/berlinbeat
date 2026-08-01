@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Look Mexico at Lovelite 21/11/11
 date: '2012-02-01'
+author: natalye
 type: photos
 band: Look Mexico
 venue: Lovelite

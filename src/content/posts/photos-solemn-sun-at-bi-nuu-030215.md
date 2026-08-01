@@ -1,6 +1,7 @@
 ---
 title: Solemn Sun at Bi Nuu 03/02/15
 date: '2015-02-10'
+author: Heike
 type: photos
 band: Solemn Sun
 venue: Bi Nuu

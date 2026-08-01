@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Holiday Shores at Kantine/Berghain 29/10/11
 date: '2012-01-05'
+author: natalye
 type: photos
 band: Holiday Shores
 venue: Kantine/Berghain

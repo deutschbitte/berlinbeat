@@ -1,6 +1,7 @@
 ---
 title: Emperor X
 date: '2012-07-02'
+author: natalye
 type: interview
 band: Emperor X
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Emperor X - Photo courtesy of Emperor XThe world that exists inside of C.R. Matheny's lyrics is nothing short of fantastical, which is why the process from intangible inspiration to substantial song is so fascinating. Somehow, the things he deals with are so firmly rooted in reality, but along the way, are transformed - sublimated even - until the end result hardly resembles its often mundane starting point.
+Emperor X - Photo courtesy of Emperor X
+
+The world that exists inside of C.R. Matheny's lyrics is nothing short of fantastical, which is why the process from intangible inspiration to substantial song is so fascinating. Somehow, the things he deals with are so firmly rooted in reality, but along the way, are transformed - sublimated even - until the end result hardly resembles its often mundane starting point.
 
 "Almost everything I write starts with a free association," he said, speaking directly to the surrealistic take on the quotidian that is prominent in so many of his lyrics. "I obsessively think about things and...that's how \[that\] sort of commonplace domestic imagery gets lodged into songs."
 

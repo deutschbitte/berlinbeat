@@ -1,6 +1,7 @@
 ---
 title: Sleeping Policemen
 date: '2012-09-02'
+author: natalye
 type: interview
 band: Sleeping Policemen
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Sleeping Policemen - Photo by Thomas BurischIf asked, the members of Hamburg indie pop band [Sleeping Policemen](https://www.facebook.com/sleepingpolicemen) might be inclined to describe their story as a bit of a happy coincidence. Even before the band came to be, the five members had been friends, something which may or may not be responsible for how swimmingly things have progressed for the quintet.
+Sleeping Policemen - Photo by Thomas Burisch
+
+If asked, the members of Hamburg indie pop band [Sleeping Policemen](https://www.facebook.com/sleepingpolicemen) might be inclined to describe their story as a bit of a happy coincidence. Even before the band came to be, the five members had been friends, something which may or may not be responsible for how swimmingly things have progressed for the quintet.
 
 "Pretty much everything just seems to fall into place by itself," member Sonja Müller said, referring both to how the band was formed and how it functions as a unit. "All of us work on songs together, so most of the time one of us comes up with an idea and whilst playing around with it the song unfolds...when it comes to who wrote what song we can never tell as well. We just dwell on things collectively, and all of a sudden they're there."
 

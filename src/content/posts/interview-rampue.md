@@ -1,6 +1,7 @@
 ---
 title: Rampue
 date: '2013-05-18'
+author: natalye
 type: interview
 band: Rampue
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Grabbel and The Final Cut
 date: '2012-07-28'
+author: natalye
 type: interview
 band: Grabbel and The Final Cut
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Grabbel and The Final Cut - Photo by Andreas TammeThere's something interesting to be said about the music industry today when broken-up bands of decades past are getting back together and going on reunion tours. Even more interesting is when former 80s and 90s bands that never achieved any level of fame are being "discovered" for what feels like the first time.
+Grabbel and The Final Cut - Photo by Andreas Tamme
+
+There's something interesting to be said about the music industry today when broken-up bands of decades past are getting back together and going on reunion tours. Even more interesting is when former 80s and 90s bands that never achieved any level of fame are being "discovered" for what feels like the first time.
 
 One such band is [Grabbel and The Final Cut](http://www.facebook.com/GrabbelAndTheFinalCut), a shoegaze group from the strangest of places: Germany.
 

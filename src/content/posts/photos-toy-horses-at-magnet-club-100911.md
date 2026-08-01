@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Toy Horses at Magnet Club 10/09/11
 date: '2011-09-24'
+author: natalye
 type: photos
 band: Toy Horses
 venue: Magnet Club

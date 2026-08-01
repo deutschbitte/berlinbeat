@@ -1,6 +1,7 @@
 ---
 title: Hit Gib (5 Years Kitchen Leg Records) at Loophole 18/01/19
 date: '2019-02-08'
+author: klirrsjourney
 type: photos
 band: Hit Gib (5 Years Kitchen Leg Records)
 venue: Loophole

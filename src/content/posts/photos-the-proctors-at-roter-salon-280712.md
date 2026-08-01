@@ -1,6 +1,7 @@
 ---
 title: The Proctors at Roter Salon 28/07/12
 date: '2012-10-18'
+author: natalye
 type: photos
 band: The Proctors
 venue: Roter Salon

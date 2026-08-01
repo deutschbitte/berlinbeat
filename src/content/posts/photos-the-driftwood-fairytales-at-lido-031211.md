@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: The Driftwood Fairytales at Lido 03/12/11
 date: '2012-02-02'
+author: natalye
 type: photos
 band: The Driftwood Fairytales
 venue: Lido

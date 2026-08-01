@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: How How at Lovelite 13/08/11
 date: '2011-08-15'
+author: natalye
 type: photos
 band: How How
 venue: Lovelite

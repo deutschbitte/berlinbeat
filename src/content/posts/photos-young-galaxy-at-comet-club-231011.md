@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Young Galaxy at Comet Club 23/10/11
 date: '2011-12-16'
+author: natalye
 type: photos
 band: Young Galaxy
 venue: Comet Club

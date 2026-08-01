@@ -1,6 +1,7 @@
 ---
 title: Grande Roses
 date: '2012-01-03'
+author: natalye
 type: interview
 band: Grande Roses
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Freizeit 98 at Zosch 03/05/14
 date: '2014-06-02'
+author: Heike
 type: photos
 band: Freizeit 98
 venue: Zosch

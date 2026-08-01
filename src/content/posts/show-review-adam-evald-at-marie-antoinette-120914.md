@@ -1,6 +1,7 @@
 ---
 title: Adam Evald at Marie Antoinette 12/09/14
 date: '2014-09-16'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Adam Evald

@@ -1,14 +1,15 @@
 ---
-title: Reverend Christian Dabeler &amp; Frau Kraushaar + Glassberg &amp; The Disasters at ://about blank 14/07/18
+title: Reverend Christian Dabeler & Frau Kraushaar + Glassberg & The Disasters at ://about blank 14/07/18
 date: '2018-07-19'
+author: steventhirsty
 type: photos
-band: Reverend Christian Dabeler &amp; Frau Kraushaar + Glassberg &amp; The Disasters
+band: Reverend Christian Dabeler & Frau Kraushaar + Glassberg & The Disasters
 venue: ://about blank
 tags:
   - ://About Blank
   - Down By The River Festival
   - Frau Kraushaar
-  - Glassberg &amp; The Disasters
+  - Glassberg & The Disasters
   - Reverend Christian Dabeler
 coverImage: https://farm1.staticflickr.com/843/28603845377_2ff08f4dab.jpg
 gallery:

@@ -1,6 +1,7 @@
 ---
 title: Future Islands
 date: '2012-08-09'
+author: natalye
 type: interview
 band: Future Islands
 tags:

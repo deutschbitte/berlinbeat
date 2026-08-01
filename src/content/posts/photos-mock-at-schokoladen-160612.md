@@ -1,6 +1,7 @@
 ---
 title: mOck at Schokoladen 16/06/12
 date: '2012-09-08'
+author: natalye
 type: photos
 band: mOck
 venue: Schokoladen

@@ -1,6 +1,7 @@
 ---
 title: Oh, Napoleon
 date: '2011-09-10'
+author: natalye
 type: interview
 band: Oh, Napoleon
 tags:

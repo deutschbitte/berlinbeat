@@ -1,6 +1,7 @@
 ---
 title: Battles
 date: '2011-12-07'
+author: natalye
 type: interview
 band: Battles
 tags:

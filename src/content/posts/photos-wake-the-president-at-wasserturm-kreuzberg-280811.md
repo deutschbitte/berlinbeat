@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Wake the President at Wasserturm Kreuzberg 28/08/11
 date: '2011-09-03'
+author: natalye
 type: photos
 band: Wake the President
 venue: Wasserturm Kreuzberg

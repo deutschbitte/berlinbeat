@@ -1,6 +1,7 @@
 ---
 title: The Felt Tips
 date: '2013-10-12'
+author: natalye
 type: interview
 band: The Felt Tips
 tags:

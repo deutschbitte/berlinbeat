@@ -1,6 +1,7 @@
 ---
 title: Into It. Over It.
 date: '2011-12-24'
+author: natalye
 type: interview
 band: Into It. Over It.
 tags:

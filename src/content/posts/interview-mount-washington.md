@@ -1,6 +1,7 @@
 ---
 title: Mount Washington
 date: '2012-03-17'
+author: natalye
 type: interview
 band: Mount Washington
 tags:

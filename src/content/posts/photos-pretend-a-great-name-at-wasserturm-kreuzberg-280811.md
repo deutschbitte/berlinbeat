@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Pretend a Great Name at Wasserturm Kreuzberg 28/08/11
 date: '2011-09-02'
+author: natalye
 type: photos
 band: Pretend a Great Name
 venue: Wasserturm Kreuzberg

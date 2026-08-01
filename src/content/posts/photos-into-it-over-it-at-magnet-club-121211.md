@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Into It. Over It. at Magnet Club 12/12/11
 date: '2012-02-03'
+author: natalye
 type: photos
 band: Into It. Over It.
 venue: Magnet Club

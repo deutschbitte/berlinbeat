@@ -1,6 +1,7 @@
 ---
 title: The Wedding Present
 date: '2013-09-22'
+author: natalye
 type: interview
 band: The Wedding Present
 tags:

@@ -1,12 +1,13 @@
 ---
-title: Paula &amp; Karol
+title: Paula & Karol
 date: '2012-01-10'
+author: natalye
 type: interview
-band: Paula &amp; Karol
+band: Paula & Karol
 tags:
   - Canadian
   - Feature
-  - Paula &amp; Karol
+  - Paula & Karol
   - Polish
 coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/pik-fotcredit-annarowinska.jpg?w=300
 gallery: []

@@ -1,6 +1,7 @@
 ---
 title: The Pains of Being Pure at Heart at Bi Nuu 06/11/12
 date: '2013-07-28'
+author: natalye
 type: photos
 band: The Pains of Being Pure
 venue: Heart at Bi Nuu

@@ -1,6 +1,7 @@
 ---
 title: The Lawrence Arms at Astra 06/05/14
 date: '2014-08-04'
+author: natalye
 type: photos
 band: The Lawrence Arms
 venue: Astra

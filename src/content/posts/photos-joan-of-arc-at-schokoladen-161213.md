@@ -1,6 +1,7 @@
 ---
 title: Joan of Arc at Schokoladen 16/12/13
 date: '2014-01-04'
+author: Heike
 type: photos
 band: Joan of Arc
 venue: Schokoladen

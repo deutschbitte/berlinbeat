@@ -1,6 +1,7 @@
 ---
 title: Sorry Gilberto
 date: '2011-08-27'
+author: natalye
 type: interview
 band: Sorry Gilberto
 tags:

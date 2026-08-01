@@ -1,6 +1,7 @@
 ---
 title: Sissters
 date: '2011-12-06'
+author: natalye
 type: interview
 band: Sissters
 tags: []

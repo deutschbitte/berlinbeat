@@ -1,6 +1,7 @@
 ---
 title: Azure Blue
 date: '2012-10-05'
+author: natalye
 type: interview
 band: Azure Blue
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Azure Blue – Photo courtesy of Azure BlueWhile plenty of alternative musicians are quick to identify with the "indie" sound, Tobias Isaksson of [Azure Blue](http://azureblue.se/) is a bit of an exception to the rule.
+Azure Blue – Photo courtesy of Azure Blue
+
+While plenty of alternative musicians are quick to identify with the "indie" sound, Tobias Isaksson of [Azure Blue](http://azureblue.se/) is a bit of an exception to the rule.
 
 "I'd rather just be labeled pop and skip the indie," he said in regards to the genre restrictions placed upon his music.
 

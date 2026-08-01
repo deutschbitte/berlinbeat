@@ -1,6 +1,7 @@
 ---
 title: Amida
 date: '2011-09-07'
+author: natalye
 type: interview
 band: Amida
 tags:

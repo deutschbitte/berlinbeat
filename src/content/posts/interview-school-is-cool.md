@@ -1,6 +1,7 @@
 ---
 title: School is Cool
 date: '2012-07-31'
+author: natalye
 type: interview
 band: School is Cool
 tags:
@@ -15,7 +16,9 @@ gallery: []
 draft: false
 ---
 
-School is Cool - Photo by Jimmy KetsThe country of Belgium is going through somewhat of an identity crisis. Divided into three main regions, Belgium consists of the Brussels capital region, Flanders in the north and Wallonia in the south. Aligned with the latter two of those areas are the language and customs of two neighboring countries, with the people of Flanders speaking Dutch, while those in Wallonia orient with the French.
+School is Cool - Photo by Jimmy Kets
+
+The country of Belgium is going through somewhat of an identity crisis. Divided into three main regions, Belgium consists of the Brussels capital region, Flanders in the north and Wallonia in the south. Aligned with the latter two of those areas are the language and customs of two neighboring countries, with the people of Flanders speaking Dutch, while those in Wallonia orient with the French.
 
 Of course, this is nothing new to a country that has been experiencing cultural, linguistic, and political conflicts for years and years. But what's interesting is also the effect it has on each successive generation and the ways in which they formulate their sense of identity.
 

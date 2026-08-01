@@ -1,6 +1,7 @@
 ---
 title: Fire Island Pines
 date: '2014-01-15'
+author: natalye
 type: interview
 band: Fire Island Pines
 tags:

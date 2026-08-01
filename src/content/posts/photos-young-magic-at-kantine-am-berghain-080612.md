@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Young Magic at Kantine am Berghain 08/06/12
 date: '2012-07-26'
+author: natalye
 type: interview
 band: Young Magic at Kantine am Berghain 08/06/12
 tags:

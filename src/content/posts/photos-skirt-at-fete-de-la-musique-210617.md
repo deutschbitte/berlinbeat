@@ -1,6 +1,7 @@
 ---
 title: skirt at Fête de la Musique 21/06/17
 date: '2017-06-23'
+author: steventhirsty
 type: photos
 band: skirt
 venue: Fête de la Musique

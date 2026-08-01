@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Twin Sister at Kantine/Berghain 29/10/11
 date: '2012-01-10'
+author: natalye
 type: photos
 band: Twin Sister
 venue: Kantine/Berghain

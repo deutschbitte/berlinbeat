@@ -1,6 +1,7 @@
 ---
 title: James Holden
 date: '2018-02-19'
+author: berlinerbeat
 type: interview
 band: James Holden
 tags:

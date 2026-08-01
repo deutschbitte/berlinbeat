@@ -1,6 +1,7 @@
 ---
 title: Fotos
 date: '2011-06-15'
+author: natalye
 type: interview
 band: Fotos
 tags:

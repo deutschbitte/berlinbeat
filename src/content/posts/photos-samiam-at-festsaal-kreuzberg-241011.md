@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Samiam at Festsaal Kreuzberg 24/10/11
 date: '2011-12-27'
+author: natalye
 type: photos
 band: Samiam
 venue: Festsaal Kreuzberg

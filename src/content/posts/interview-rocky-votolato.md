@@ -1,6 +1,7 @@
 ---
 title: Rocky Votolato
 date: '2012-03-20'
+author: natalye
 type: interview
 band: Rocky Votolato
 tags:

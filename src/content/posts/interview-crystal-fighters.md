@@ -1,6 +1,7 @@
 ---
 title: Crystal Fighters
 date: '2013-06-11'
+author: natalye
 type: interview
 band: Crystal Fighters
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Grabbel and the Final Cut at Roter Salon 28/07/12
 date: '2012-10-20'
+author: natalye
 type: photos
 band: Grabbel and the Final Cut
 venue: Roter Salon

@@ -1,6 +1,7 @@
 ---
 title: Seapony at Monarch 02/06/13
 date: '2013-11-03'
+author: natalye
 type: photos
 band: Seapony
 venue: Monarch

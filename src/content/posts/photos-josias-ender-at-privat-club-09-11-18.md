@@ -1,6 +1,7 @@
 ---
 title: Josias Ender at Privatclub 09/11/18
 date: '2018-11-19'
+author: klirrsjourney
 type: photos
 band: Josias Ender
 venue: Privatclub

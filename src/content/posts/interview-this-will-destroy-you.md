@@ -1,6 +1,7 @@
 ---
 title: This Will Destroy You
 date: '2011-07-11'
+author: natalye
 type: interview
 band: This Will Destroy You
 tags:

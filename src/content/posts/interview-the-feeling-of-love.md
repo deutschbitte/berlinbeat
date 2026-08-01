@@ -1,6 +1,7 @@
 ---
 title: The Feeling of Love
 date: '2011-10-06'
+author: natalye
 type: interview
 band: The Feeling of Love
 tags:

@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Lymbyc Systym at Cassiopeia 15/03/12
 date: '2012-04-27'
+author: natalye
 type: photos
 band: Lymbyc Systym
 venue: Cassiopeia

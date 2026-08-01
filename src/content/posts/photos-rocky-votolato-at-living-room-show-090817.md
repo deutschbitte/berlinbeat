@@ -1,6 +1,7 @@
 ---
 title: Rocky Votolato at Living Room Show 09/08/17
 date: '2017-08-21'
+author: natalye
 type: photos
 band: Rocky Votolato
 venue: Living Room Show

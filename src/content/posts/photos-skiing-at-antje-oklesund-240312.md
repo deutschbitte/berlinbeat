@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Skiing at Antje Øklesund 24/03/12
 date: '2012-05-25'
+author: natalye
 type: photos
 band: Skiing
 venue: Antje Øklesund

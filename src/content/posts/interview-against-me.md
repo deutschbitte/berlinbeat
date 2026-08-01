@@ -1,6 +1,7 @@
 ---
 title: Against Me!
 date: '2014-08-20'
+author: natalye
 type: interview
 band: Against Me!
 tags:

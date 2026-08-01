@@ -1,6 +1,7 @@
 ---
 title: The Chevin
 date: '2012-10-13'
+author: natalye
 type: interview
 band: The Chevin
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-The Chevin - Photo courtesy of The ChevinThe last year has been one hell of a ride for [The Chevin](http://www.the-chevin.com/). The Leeds-based band, which consists of Coyle Girelli (lead vocals and guitars), Mat Steel (guitars and keyboards), Jon Langford (bass guitar) and Mal Taylor (drums), formed from four childhood friends who grew up together in the borough of Otley. Despite the long-standing friendship, the group has only been together since 2010, but has already been traveling the world, opening for legendary famous bands, appearing on television, playing sold out shows, and now, releasing its first full-length.
+The Chevin - Photo courtesy of The Chevin
+
+The last year has been one hell of a ride for [The Chevin](http://www.the-chevin.com/). The Leeds-based band, which consists of Coyle Girelli (lead vocals and guitars), Mat Steel (guitars and keyboards), Jon Langford (bass guitar) and Mal Taylor (drums), formed from four childhood friends who grew up together in the borough of Otley. Despite the long-standing friendship, the group has only been together since 2010, but has already been traveling the world, opening for legendary famous bands, appearing on television, playing sold out shows, and now, releasing its first full-length.
 
 The album, "Borderland," came out in the United States in September, almost a year after the release of 2011's "Champion EP." Its UK and Germany release dates were this month, however, so to celebrate and promote the release, the band played a show in Berlin last night–its second-ever live appearance in the city–at [Rosi's](http://www.rosis-berlin.de/).
 

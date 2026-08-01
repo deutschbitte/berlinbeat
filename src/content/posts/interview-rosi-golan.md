@@ -1,6 +1,7 @@
 ---
 title: Rosi Golan
 date: '2011-11-29'
+author: natalye
 type: interview
 band: Rosi Golan
 tags:

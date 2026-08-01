@@ -1,6 +1,7 @@
 ---
 title: The Odd Couple at Bassy Club 22/06/13
 date: '2013-06-26'
+author: punkrockdoll
 type: review
 reviewType: show
 band: The Odd Couple

@@ -1,6 +1,7 @@
 ---
 title: PTTRNS
 date: '2013-05-09'
+author: natalye
 type: interview
 band: PTTRNS
 tags:

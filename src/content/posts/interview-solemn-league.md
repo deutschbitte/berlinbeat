@@ -1,6 +1,7 @@
 ---
 title: Solemn League
 date: '2013-10-18'
+author: natalye
 type: interview
 band: Solemn League
 tags:

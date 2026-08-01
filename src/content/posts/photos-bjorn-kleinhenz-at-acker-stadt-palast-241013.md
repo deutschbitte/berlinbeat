@@ -1,6 +1,7 @@
 ---
 title: Björn Kleinhenz at Acker Stadt Palast 24/10/13
 date: '2013-10-26'
+author: Heike
 type: photos
 band: Björn Kleinhenz
 venue: Acker Stadt Palast

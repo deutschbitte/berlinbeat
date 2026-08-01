@@ -1,6 +1,7 @@
 ---
 title: The Bouncing Souls
 date: '2013-09-15'
+author: natalye
 type: interview
 band: The Bouncing Souls
 tags:

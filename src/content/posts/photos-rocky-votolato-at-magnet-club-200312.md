@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Rocky Votolato at Magnet Club 20/03/12
 date: '2012-05-12'
+author: natalye
 type: photos
 band: Rocky Votolato
 venue: Magnet Club

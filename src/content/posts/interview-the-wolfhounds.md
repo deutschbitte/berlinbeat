@@ -1,6 +1,7 @@
 ---
 title: The Wolfhounds
 date: '2013-10-04'
+author: natalye
 type: interview
 band: The Wolfhounds
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Rue Royale at Heimathafen 07/11/13
 date: '2013-11-13'
+author: Heike
 type: photos
 band: Rue Royale
 venue: Heimathafen

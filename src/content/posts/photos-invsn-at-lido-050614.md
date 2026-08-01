@@ -1,6 +1,7 @@
 ---
 title: INVSN at Lido 05/06/14
 date: '2014-06-18'
+author: natalye
 type: photos
 band: INVSN
 venue: Lido

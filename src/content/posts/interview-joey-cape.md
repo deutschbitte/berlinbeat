@@ -1,6 +1,7 @@
 ---
 title: Joey Cape
 date: '2011-11-18'
+author: natalye
 type: interview
 band: Joey Cape
 tags:

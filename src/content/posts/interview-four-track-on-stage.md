@@ -1,6 +1,7 @@
 ---
 title: Four Track on Stage
 date: '2011-09-05'
+author: natalye
 type: interview
 band: Four Track on Stage
 tags:

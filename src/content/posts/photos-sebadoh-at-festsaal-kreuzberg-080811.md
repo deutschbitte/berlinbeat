@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Sebadoh at Festsaal Kreuzberg 08/08/11
 date: '2011-08-10'
+author: natalye
 type: photos
 band: Sebadoh
 venue: Festsaal Kreuzberg

@@ -76,7 +76,7 @@ async function main() {
     ignoreAttributes: false,
     attributeNamePrefix: '@_',
     textNodeName: '#text',
-    isArray: (tagName) => ['item', 'category', 'wp:postmeta'].includes(tagName),
+    isArray: (tagName) => ['item', 'category', 'wp:postmeta', 'wp:author'].includes(tagName),
   });
 
   const doc = parser.parse(xml);
@@ -84,6 +84,7 @@ async function main() {
   stats.total = items.length;
 
   const attachmentUrls = buildAttachmentMap(items);
+  const authorNames = buildAuthorMap(doc);
   const usedSlugs = new Set();
 
   for (const item of items) {
@@ -96,7 +97,7 @@ async function main() {
       continue;
     }
 
-    const post = buildPost(item, attachmentUrls);
+    const post = buildPost(item, attachmentUrls, authorNames);
     const slug = uniqueSlug(post.slug, usedSlugs);
     const outputPath = path.join(OUTPUT_DIR, `${slug}.md`);
 
@@ -127,13 +128,27 @@ function buildAttachmentMap(items) {
   return map;
 }
 
-function buildPost(item, attachmentUrls) {
-  const rawTitle = textOf(item.title) ?? 'Untitled';
+// Maps a WP author login (what <dc:creator> contains) to their display
+// name, from the <wp:author> blocks in the channel header.
+function buildAuthorMap(doc) {
+  const authors = toArray(doc?.rss?.channel?.['wp:author']);
+  const map = new Map();
+  for (const author of authors) {
+    const login = textOf(author['wp:author_login']);
+    if (!login) continue;
+    const displayName = decodeHtmlEntities(textOf(author['wp:author_display_name']));
+    map.set(login, displayName || login);
+  }
+  return map;
+}
+
+function buildPost(item, attachmentUrls, authorNames) {
+  const rawTitle = decodeHtmlEntities(textOf(item.title)) ?? 'Untitled';
   const title = rawTitle.replace(TITLE_PREFIX, '').trim() || rawTitle;
 
   const categories = toArray(item.category).map((c) => ({
     domain: c?.['@_domain'],
-    text: textOf(c),
+    text: decodeHtmlEntities(textOf(c)),
   }));
 
   const { type, reviewType, needsReview: typeNeedsReview } = classifyType(categories, title);
@@ -167,9 +182,11 @@ function buildPost(item, attachmentUrls) {
   const body = convertedBody || (isPhotoPost ? '' : '_(no content)_');
 
   const excerptHtml = textOf(item['excerpt:encoded']);
-  const excerpt = excerptHtml ? stripHtml(excerptHtml).slice(0, 220).trim() : undefined;
+  const excerpt = excerptHtml ? decodeHtmlEntities(stripHtml(excerptHtml)).slice(0, 220).trim() : undefined;
 
   const date = parseWpDate(item['wp:post_date']) ?? new Date();
+  const creatorLogin = decodeHtmlEntities(textOf(item['dc:creator']));
+  const author = creatorLogin ? authorNames.get(creatorLogin) ?? creatorLogin : undefined;
 
   const needsReview = typeNeedsReview || titleNeedsReview;
   if (needsReview) tags.push('needs-review');
@@ -185,6 +202,7 @@ function buildPost(item, attachmentUrls) {
     frontmatter: {
       title,
       date: date.toISOString().slice(0, 10),
+      ...(author ? { author } : {}),
       type,
       ...(reviewType ? { reviewType } : {}),
       ...(band ? { band } : {}),
@@ -251,8 +269,18 @@ function extractFromTitle(title, type) {
 
 function stripWpArtifacts(html) {
   return html
-    .replace(/\[caption[^\]]*\]/gi, '')
-    .replace(/\[\/caption\]/gi, '')
+    // Real WordPress treats [caption]...[/caption] as a protected
+    // block-level unit before wpautop paragraph-wraps everything else —
+    // that's why the caption text (often trailing after the <img>, e.g.
+    // "[caption]<img/> Band Name - Photo courtesy of Band Name[/caption]")
+    // can sit with zero whitespace before the next paragraph in the raw
+    // export and still render correctly on the live site. Our simplified
+    // wpAutop() below has no such special-casing, so without inserting
+    // paragraph breaks at the shortcode boundaries here, that caption text
+    // ends up glued directly onto the start of the following paragraph
+    // (e.g. "...Band NameAlthough life on the road...", no space at all).
+    .replace(/\[caption[^\]]*\]/gi, '\n\n')
+    .replace(/\[\/caption\]/gi, '\n\n')
     .replace(/<!--\s*more\s*-->/gi, '');
 }
 
@@ -363,6 +391,25 @@ function toArray(value) {
 
 function stripHtml(html) {
   return html.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim();
+}
+
+const NAMED_ENTITIES = { amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", nbsp: ' ' };
+
+// WordPress's exporter double-escapes some plain-text fields (title,
+// category/tag names) — the literal string "Boy &amp; Bear" ends up stored
+// inside the CDATA block instead of the raw "Boy & Bear", which an XML
+// parser correctly leaves untouched (CDATA content isn't entity-processed
+// by design). Only applied to plain-text fields, never to content:encoded
+// — that's real HTML and turndown's own HTML parser already decodes
+// entities correctly as part of normal parsing; decoding &lt;/&gt; in raw
+// HTML source before it's parsed could turn literal text into what looks
+// like a stray tag.
+function decodeHtmlEntities(text) {
+  if (!text) return text;
+  return text
+    .replace(/&#x([0-9a-f]+);/gi, (_, hex) => String.fromCodePoint(parseInt(hex, 16)))
+    .replace(/&#(\d+);/g, (_, dec) => String.fromCodePoint(parseInt(dec, 10)))
+    .replace(/&(amp|lt|gt|quot|apos|nbsp);/gi, (_, name) => NAMED_ENTITIES[name.toLowerCase()]);
 }
 
 function renderMarkdownFile(post) {

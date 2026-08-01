@@ -1,6 +1,7 @@
 ---
 title: Blonde Redhead at Frannz Club 17/09/14
 date: '2014-09-29'
+author: chloe_louise
 type: review
 reviewType: show
 band: Blonde Redhead

@@ -1,6 +1,7 @@
 ---
 title: The Black Atlantic at Acker Stadt Palast 24/10/13
 date: '2013-10-27'
+author: Heike
 type: photos
 band: The Black Atlantic
 venue: Acker Stadt Palast

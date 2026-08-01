@@ -1,6 +1,7 @@
 ---
 title: Cults
 date: '2011-08-18'
+author: natalye
 type: interview
 band: Cults
 tags:

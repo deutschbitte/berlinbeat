@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Cloudberry at Magnet Club 15/10/12
 date: '2011-11-11'
+author: natalye
 type: photos
 band: Cloudberry
 venue: Magnet Club

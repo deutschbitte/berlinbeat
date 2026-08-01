@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Uh Huh Her at Magnet Club 16/04/12
 date: '2012-06-18'
+author: natalye
 type: photos
 band: Uh Huh Her
 venue: Magnet Club

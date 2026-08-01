@@ -1,6 +1,7 @@
 ---
 title: Sondre Lerche
 date: '2012-01-16'
+author: natalye
 type: interview
 band: Sondre Lerche
 tags:

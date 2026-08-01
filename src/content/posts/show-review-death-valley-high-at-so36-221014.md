@@ -1,6 +1,7 @@
 ---
 title: Death Valley High at SO36 22/10/14
 date: '2014-11-04'
+author: punkrockdoll
 type: review
 reviewType: show
 band: Death Valley High

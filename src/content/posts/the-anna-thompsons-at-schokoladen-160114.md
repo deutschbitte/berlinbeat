@@ -1,6 +1,7 @@
 ---
 title: The Anna Thompsons at Schokoladen 16/01/14
 date: '2014-01-22'
+author: klirrsjourney
 type: photos
 band: The Anna Thompsons
 venue: Schokoladen

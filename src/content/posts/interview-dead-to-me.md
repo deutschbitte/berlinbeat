@@ -1,6 +1,7 @@
 ---
 title: Dead to Me
 date: '2012-02-18'
+author: natalye
 type: interview
 band: Dead to Me
 tags:

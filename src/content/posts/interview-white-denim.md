@@ -1,6 +1,7 @@
 ---
 title: White Denim
 date: '2011-08-22'
+author: natalye
 type: interview
 band: White Denim
 tags:

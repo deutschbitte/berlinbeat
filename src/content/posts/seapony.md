@@ -1,6 +1,7 @@
 ---
 title: Seapony
 date: '2013-06-08'
+author: natalye
 type: interview
 band: Seapony
 tags:

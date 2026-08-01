@@ -1,6 +1,7 @@
 ---
 title: INVSN
 date: '2014-09-19'
+author: natalye
 type: interview
 band: INVSN
 tags:

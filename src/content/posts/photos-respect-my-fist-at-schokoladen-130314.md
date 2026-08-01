@@ -1,6 +1,7 @@
 ---
 title: Respect My Fist at Schokoladen 13/03/14
 date: '2014-03-20'
+author: klirrsjourney
 type: photos
 band: Respect My Fist
 venue: Schokoladen

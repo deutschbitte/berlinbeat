@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Wild Palms at White Trash Fast Food 16/09/11
 date: '2011-10-12'
+author: natalye
 type: photos
 band: Wild Palms
 venue: White Trash Fast Food

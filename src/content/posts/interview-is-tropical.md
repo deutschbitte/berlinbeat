@@ -1,6 +1,7 @@
 ---
 title: Is Tropical
 date: '2012-01-24'
+author: natalye
 type: interview
 band: Is Tropical
 tags:

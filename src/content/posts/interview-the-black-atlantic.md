@@ -1,6 +1,7 @@
 ---
 title: The Black Atlantic
 date: '2013-10-23'
+author: natalye
 type: interview
 band: The Black Atlantic
 tags:

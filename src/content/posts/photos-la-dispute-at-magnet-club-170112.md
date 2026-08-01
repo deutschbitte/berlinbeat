@@ -2,6 +2,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: La Dispute at Magnet Club 17/01/12
 date: '2012-02-16'
+author: natalye
 type: photos
 band: La Dispute
 venue: Magnet Club

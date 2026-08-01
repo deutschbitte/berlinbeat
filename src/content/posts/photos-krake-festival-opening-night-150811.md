@@ -3,6 +3,7 @@
 # TODO: this post links image(s) hosted on Picasa Web Albums, which Google shut down — those images are dead. Replace coverImage/gallery/inline images.
 title: Krake Festival Opening Night 15/08/11
 date: '2011-08-19'
+author: natalye
 type: photos
 tags:
   - Alexander Spree

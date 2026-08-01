@@ -1,6 +1,7 @@
 ---
 title: Hannes Rasmus
 date: '2013-06-25'
+author: natalye
 type: interview
 band: Hannes Rasmus
 tags:
@@ -12,7 +13,9 @@ gallery: []
 draft: false
 ---
 
-Hannes Rasmus - Photo by Desiré van den Berg[Hannes Rasmus](https://www.facebook.com/hannesrasmus) - a self-professed former indie kid - first became interested in making electronic music in a somewhat atypical way.
+Hannes Rasmus - Photo by Desiré van den Berg
+
+[Hannes Rasmus](https://www.facebook.com/hannesrasmus) - a self-professed former indie kid - first became interested in making electronic music in a somewhat atypical way.
 
 "I wanted to have a punk band when I was younger, but \[all the good musicians\] had bands already," he explained. "So I \[started\] looping drums and stuff and playing guitars to that."
 

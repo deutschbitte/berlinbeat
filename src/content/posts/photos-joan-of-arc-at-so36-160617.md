@@ -1,6 +1,7 @@
 ---
 title: Joan of Arc at SO36 16/06/17
 date: '2017-09-19'
+author: natalye
 type: photos
 band: Joan of Arc
 venue: SO36

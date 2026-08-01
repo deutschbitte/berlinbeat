@@ -2,6 +2,7 @@
 # TODO: could not confidently classify this post from its WP category/title — check type, reviewType, band, venue, album.
 title: Torstraßen Festival 30/08/14
 date: '2014-09-03'
+author: natalye
 type: photos
 tags:
   - Torstraße

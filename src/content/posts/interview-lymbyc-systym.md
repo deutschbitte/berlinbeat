@@ -1,6 +1,7 @@
 ---
 title: Lymbyc Systym
 date: '2013-11-13'
+author: natalye
 type: interview
 band: Lymbyc Systym
 tags:

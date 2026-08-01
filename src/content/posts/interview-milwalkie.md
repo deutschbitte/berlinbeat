@@ -1,6 +1,7 @@
 ---
 title: Milwalkie
 date: '2014-09-08'
+author: natalye
 type: interview
 band: Milwalkie
 tags:

@@ -1,6 +1,7 @@
 ---
 title: Converge
 date: '2013-06-22'
+author: natalye
 type: interview
 band: Converge
 tags:

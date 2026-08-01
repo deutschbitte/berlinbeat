@@ -1,6 +1,7 @@
 ---
 title: Klaxons at Lido 12/11/14
 date: '2014-11-20'
+author: chloe_louise
 type: review
 reviewType: show
 band: Klaxons

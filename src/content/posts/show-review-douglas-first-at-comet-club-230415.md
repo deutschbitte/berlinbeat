@@ -1,6 +1,7 @@
 ---
 title: Douglas First at Comet Club 23/04/15
 date: '2015-04-29'
+author: Malte Grotendorst
 type: review
 reviewType: show
 band: Douglas First

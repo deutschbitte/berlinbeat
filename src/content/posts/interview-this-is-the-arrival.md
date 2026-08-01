@@ -1,6 +1,7 @@
 ---
 title: This is the Arrival
 date: '2012-05-04'
+author: natalye
 type: interview
 band: This is the Arrival
 tags:

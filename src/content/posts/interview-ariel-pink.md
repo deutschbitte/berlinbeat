@@ -1,6 +1,7 @@
 ---
 title: Ariel Pink
 date: '2012-11-25'
+author: natalye
 type: interview
 band: Ariel Pink
 tags:
@@ -13,7 +14,9 @@ gallery: []
 draft: false
 ---
 
-Ariel Pink's Haunted Graffiti - Photo courtesy of Ariel Pink's Haunted GraffitiHe has been called a creative genius and exalted by indie blogs and media outlets as the poster child for lo-fi noise rock, yet Ariel Marcus Rosenberg insists he’s anything but. In fact, he thinks the whole famous musician thing is more than slightly overrated.
+Ariel Pink's Haunted Graffiti - Photo courtesy of Ariel Pink's Haunted Graffiti
+
+He has been called a creative genius and exalted by indie blogs and media outlets as the poster child for lo-fi noise rock, yet Ariel Marcus Rosenberg insists he’s anything but. In fact, he thinks the whole famous musician thing is more than slightly overrated.
 
 “I’m horrible at posing for photos. I’m horrible at just kind of offering up my two cents. I’m just extremely argumentative,” he shared, explaining how he doesn't know how to deal with being in the spotlight.
 
