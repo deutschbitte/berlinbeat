@@ -26,6 +26,8 @@ const { images, alt } = Astro.props;
               src={img}
               alt={`${alt} — photo ${i + 1}`}
               class="size-full object-contain"
+              loading={i === 0 ? 'eager' : 'lazy'}
+              fetchpriority={i === 0 ? 'high' : 'auto'}
             />
           </button>
         ))}
