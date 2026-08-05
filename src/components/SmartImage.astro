@@ -9,11 +9,9 @@ interface Props {
   class?: string;
   widths?: number[];
   sizes?: string;
-  loading?: 'lazy' | 'eager';
-  fetchpriority?: 'high' | 'low' | 'auto';
 }
 
-const { src, alt, class: className, sizes, widths, loading = 'lazy', fetchpriority = 'auto' } = Astro.props;
+const { src, alt, class: className, sizes, widths } = Astro.props;
 const isRemote = typeof src === 'string';
 ---
 
@@ -25,14 +23,7 @@ const isRemote = typeof src === 'string';
   // already constrains the image to a fixed-aspect-ratio container with
   // object-cover, so intrinsic size doesn't affect layout — a plain <img>
   // (no build-time fetch) is the safer choice for these.
-  <img
-    src={upgradeImageQuality(src)}
-    alt={alt}
-    class={className}
-    loading={loading}
-    fetchpriority={fetchpriority}
-    decoding="async"
-  />
+  <img src={upgradeImageQuality(src)} alt={alt} class={className} loading="lazy" decoding="async" />
 ) : (
-  <Image src={src} alt={alt} class={className} widths={widths} sizes={sizes} loading={loading} fetchpriority={fetchpriority} />
+  <Image src={src} alt={alt} class={className} widths={widths} sizes={sizes} />
 )}
