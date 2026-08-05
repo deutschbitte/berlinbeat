@@ -67,6 +67,25 @@ const { images, alt } = Astro.props;
         Open full size ↗
       </a>
     </div>
+
+    {images.length > 1 && (
+      <div class="mt-3 flex gap-2 overflow-x-auto pb-1">
+        {images.map((img, i) => (
+          <button
+            type="button"
+            data-thumb
+            data-index={i}
+            aria-label={`Go to photo ${i + 1}`}
+            class:list={[
+              'thumb-btn size-16 shrink-0 overflow-hidden rounded-md border transition-colors',
+              i === 0 ? 'border-[var(--fg)]' : 'border-[var(--border)] hover:border-[var(--fg-muted)]',
+            ]}
+          >
+            <SmartImage src={img} alt="" class="size-full object-cover" />
+          </button>
+        ))}
+      </div>
+    )}
   </div>
 )}
 
@@ -94,11 +113,16 @@ const { images, alt } = Astro.props;
       const fullSizeLink = root.querySelector('[data-full-size]');
       const prevBtn = root.querySelector('[data-prev]');
       const nextBtn = root.querySelector('[data-next-btn]');
+      const thumbs = Array.from(root.querySelectorAll('[data-thumb]'));
       let index = 0;
 
       function show(i) {
         index = (i + slides.length) % slides.length;
         slides.forEach((slide, si) => slide.classList.toggle('is-active', si === index));
+        thumbs.forEach((thumb, ti) => {
+          thumb.classList.toggle('border-[var(--fg)]', ti === index);
+          thumb.classList.toggle('border-[var(--border)]', ti !== index);
+        });
         if (counter) counter.textContent = String(index + 1);
         if (fullSizeLink && fullSizeLinks[index]) fullSizeLink.setAttribute('href', fullSizeLinks[index]);
       }
@@ -106,6 +130,7 @@ const { images, alt } = Astro.props;
       prevBtn?.addEventListener('click', () => show(index - 1));
       nextBtn?.addEventListener('click', () => show(index + 1));
       slides.forEach((slide) => slide.addEventListener('click', () => show(index + 1)));
+      thumbs.forEach((thumb) => thumb.addEventListener('click', () => show(Number(thumb.dataset.index))));
 
       // Listening on the document (rather than requiring the slideshow to
       // be focused first) so arrow keys work as soon as the page loads —
