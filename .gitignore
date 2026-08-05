@@ -25,3 +25,4 @@ pnpm-debug.log*
 
 # WordPress export used for content migration
 scripts/wp-export.xml
+.vercel
