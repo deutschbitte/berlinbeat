@@ -13,7 +13,11 @@ const POOL_SIZE = 120;
 const VISIBLE_COUNT = 12;
 
 const allPosts = await getAllPosts();
-const pool = [...allPosts].sort(() => Math.random() - 0.5).slice(0, POOL_SIZE);
+// Excludes posts tagged `broken-images` (dead Picasa-hosted photos, see
+// PROJECT_HISTORY.md) until they're manually fixed — no point surfacing a
+// photo post whose photos don't load.
+const eligiblePosts = allPosts.filter((post) => !post.data.tags?.includes('broken-images'));
+const pool = [...eligiblePosts].sort(() => Math.random() - 0.5).slice(0, POOL_SIZE);
 ---
 
 <Layout title="Berlin Beat">
