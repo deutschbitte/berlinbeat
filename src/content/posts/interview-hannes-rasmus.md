@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Hannes Rasmus
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/06/mid-res-hannes_rasmus_by_desirc3a9_van_den_berg_img_2952.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/06/mid-res-hannes_rasmus_by_desirc3a9_van_den_berg_img_2952.jpg?w=300
 gallery: []
 draft: false
 ---

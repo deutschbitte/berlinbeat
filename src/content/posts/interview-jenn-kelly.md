@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Jenn Kelly
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/06/1385303_669705019713781_1615799179_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/06/1385303_669705019713781_1615799179_n.jpg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - English
   - Feature
   - Happy Accidents
-coverImage: https://berlinbeat.org/wp-content/uploads/2018/10/ha1.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2018/10/ha1.jpg?w=300
 gallery: []
 draft: false
 ---

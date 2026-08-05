@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - The Unkindness of Ravens
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/10/viruspromo2-colour-hires.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/viruspromo2-colour-hires.jpeg?w=300
 gallery: []
 draft: false
 ---

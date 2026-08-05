@@ -12,7 +12,7 @@ tags:
   - Columbiahalle
   - Deer Tick
   - The Gaslight Anthem
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/01/flyer_image-default-1.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/01/flyer_image-default-1.jpg
 gallery: []
 draft: false
 ---

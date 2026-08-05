@@ -8,7 +8,7 @@ tags:
   - Bear's Den
   - British
   - Feature
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/10/224031_494232517275106_1253168211_n.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/10/224031_494232517275106_1253168211_n.jpg?w=300
 gallery: []
 draft: false
 ---

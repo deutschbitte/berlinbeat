@@ -8,7 +8,7 @@ tags:
   - Feature
   - Swedish
   - The Fast Forwards
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/305149_10150341639398160_6600643159_8273071_284789815_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/305149_10150341639398160_6600643159_8273071_284789815_n.jpeg?w=300
 gallery: []
 draft: false
 ---

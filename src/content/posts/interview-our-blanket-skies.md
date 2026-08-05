@@ -9,7 +9,7 @@ tags:
   - German
   - Indie Pop Days
   - Our Blanket Skies
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/215019_261340817215444_151641091518751_1269086_630597_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/215019_261340817215444_151641091518751_1269086_630597_n.jpeg?w=300
 gallery: []
 draft: false
 ---

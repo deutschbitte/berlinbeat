@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - mOck
-coverImage: https://berlinbeat.org/wp-content/uploads/2017/07/bandpic_lowres.jpg?w=600
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2017/07/bandpic_lowres.jpg?w=600
 gallery: []
 draft: false
 ---
@@ -111,5 +111,5 @@ And as an outsider, it's clear to see the camaraderie between the three of them.
 
 _mOck is currently on tour with AG Form. The dates are listed below._
 
-_![19467832\_10154592865587483\_3844660085344596042\_o](https://berlinbeat.org/wp-content/uploads/2017/07/19467832_10154592865587483_3844660085344596042_o.jpg)  
+_![19467832\_10154592865587483\_3844660085344596042\_o](https://berlinbeat.wordpress.com/wp-content/uploads/2017/07/19467832_10154592865587483_3844660085344596042_o.jpg)  
 _

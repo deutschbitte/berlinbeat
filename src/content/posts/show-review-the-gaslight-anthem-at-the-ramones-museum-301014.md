@@ -10,7 +10,7 @@ tags:
   - American
   - Ramones Museum
   - The Gaslight Anthem
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/11/the-gaslight-anthem-image.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/11/the-gaslight-anthem-image.jpg?w=300
 gallery: []
 draft: false
 ---

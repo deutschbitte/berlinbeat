@@ -8,7 +8,7 @@ tags:
   - Feature
   - Magnetic Poetry
   - Russian
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/02/374299_298004743576398_181588321884708_856338_287892355_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/374299_298004743576398_181588321884708_856338_287892355_n.jpeg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Me Succeeds
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/06/251955_10150864048268845_1649820753_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/06/251955_10150864048268845_1649820753_n.jpeg?w=300
 gallery: []
 draft: false
 ---

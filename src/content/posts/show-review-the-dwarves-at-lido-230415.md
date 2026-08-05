@@ -10,7 +10,7 @@ tags:
   - American
   - Lido
   - The Dwarves
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/05/11165004_1827201610837668_3348905280709052192_n.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/05/11165004_1827201610837668_3348905280709052192_n.jpg?w=300
 gallery: []
 draft: false
 ---

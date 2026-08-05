@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - The Walkmen
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/09/photo24_22-small.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/09/photo24_22-small.jpeg?w=300
 gallery: []
 draft: false
 ---

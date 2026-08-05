@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - Public Service Broadcasting
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/04/publicservicebroadcasting0.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/04/publicservicebroadcasting0.jpg?w=300
 gallery: []
 draft: false
 ---

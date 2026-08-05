@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Young Man
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/11/320448_10151181638272760_2093229584_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/11/320448_10151181638272760_2093229584_n.jpeg?w=300
 gallery: []
 draft: false
 ---

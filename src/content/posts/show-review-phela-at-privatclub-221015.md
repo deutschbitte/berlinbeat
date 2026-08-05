@@ -10,7 +10,7 @@ tags:
   - German
   - Phela
   - Privatclub
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/10/phela.jpg?w=232
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/10/phela.jpg?w=232
 gallery: []
 draft: false
 ---

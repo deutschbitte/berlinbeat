@@ -11,7 +11,7 @@ tags:
   - Bell Witch
   - Køpi
   - samothrace
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/05/549063_470225516379463_347871840_n.jpg?w=171
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/05/549063_470225516379463_347871840_n.jpg?w=171
 gallery: []
 draft: false
 ---

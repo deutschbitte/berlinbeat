@@ -8,7 +8,7 @@ tags:
   - Feature
   - Mount Washington
   - Norwegian
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/03/310922_209349569141013_200297950046175_492433_782658731_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/310922_209349569141013_200297950046175_492433_782658731_n.jpeg?w=300
 gallery: []
 draft: false
 ---

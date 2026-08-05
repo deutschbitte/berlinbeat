@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Tim Neuhaus
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/05/tn-261.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/05/tn-261.jpg?w=300
 gallery: []
 excerpt: 'Tim Neuhaus may be known in German indie rock circles as the solo artist type: a soft-spoken singer-songwriter who pens insightful, delicately nuanced pop songs. But the reality of the situation is that guitar is not his'
 draft: false

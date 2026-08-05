@@ -9,7 +9,7 @@ album: Verlustgeschäft
 tags:
   - German
   - syn*error
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/07/verlustgeschc3a4ft-cover-art.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/07/verlustgeschc3a4ft-cover-art.jpeg?w=300
 gallery: []
 draft: false
 ---

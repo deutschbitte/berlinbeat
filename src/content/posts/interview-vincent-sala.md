@@ -8,7 +8,7 @@ tags:
   - Feature
   - French
   - Vincent Sala
-coverImage: https://berlinbeat.org/wp-content/uploads/2016/06/vincent-sala.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2016/06/vincent-sala.jpg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - American
   - Dinosaur Jr.
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/02/7370088874_3b73482a37_b.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/02/7370088874_3b73482a37_b.jpg?w=300
 gallery: []
 draft: false
 ---

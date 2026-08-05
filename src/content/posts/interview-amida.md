@@ -10,7 +10,7 @@ tags:
   - British
   - Feature
   - Indie Pop Days
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/amida.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/amida.jpeg?w=300
 gallery: []
 draft: false
 ---

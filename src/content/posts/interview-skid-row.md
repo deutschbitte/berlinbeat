@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Skid Row
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/01/skid-row-b_w-2013-1024x647.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/01/skid-row-b_w-2013-1024x647.jpg?w=300
 gallery: []
 draft: false
 ---

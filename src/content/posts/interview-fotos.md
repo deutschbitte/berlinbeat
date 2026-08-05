@@ -8,7 +8,7 @@ tags:
   - Feature
   - Fotos
   - German
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/06/9d3279dbd6b808980f129049f3d7c0ae.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/06/9d3279dbd6b808980f129049f3d7c0ae.jpeg?w=300
 gallery: []
 draft: false
 ---

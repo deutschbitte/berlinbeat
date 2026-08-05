@@ -10,7 +10,7 @@ tags:
   - German
   - Haunted House
   - Schokoladen
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/03/13080904453_26ea49ab69.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/03/13080904453_26ea49ab69.jpg
 gallery:
   - https://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - https://farm8.staticflickr.com/7418/13081104614_dfde49cecf.jpg

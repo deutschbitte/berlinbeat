@@ -8,7 +8,7 @@ tags:
   - Feature
   - Summer Heart
   - Swedish
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/378866_241231342597826_161322560588705_585026_109125676_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/378866_241231342597826_161322560588705_585026_109125676_n.jpeg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - S ND Y P RL RS
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/sndyprlrs.jpeg?w=218
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/sndyprlrs.jpeg?w=218
 gallery: []
 draft: false
 ---

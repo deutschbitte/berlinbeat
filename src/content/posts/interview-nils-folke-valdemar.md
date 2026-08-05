@@ -9,7 +9,7 @@ tags:
   - Indie Pop Days
   - Nils Folke Valdemar
   - Swedish
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/59949_434580764155_83621014155_5365214_2100222_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/59949_434580764155_83621014155_5365214_2100222_n.jpeg?w=300
 gallery: []
 draft: false
 ---

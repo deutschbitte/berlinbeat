@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Yeasayer
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/11/2012_yeasayer_annapalma_large.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/11/2012_yeasayer_annapalma_large.jpg?w=300
 gallery: []
 draft: true
 ---

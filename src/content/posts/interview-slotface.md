@@ -8,7 +8,7 @@ tags:
   - Feature
   - Norwegian
   - Sløtface
-coverImage: https://berlinbeat.org/wp-content/uploads/2017/09/slotface-may-2017.jpg?w=600
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2017/09/slotface-may-2017.jpg?w=600
 gallery: []
 draft: false
 ---

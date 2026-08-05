@@ -9,7 +9,7 @@ tags:
   - Brangelina
   - Cassiopeia
   - German
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/05/14107164915_e915c738b4.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/05/14107164915_e915c738b4.jpg
 gallery:
   - https://farm8.staticflickr.com/7445/14084023476_27bd0b8e64.jpg
   - https://farm8.staticflickr.com/7347/14084022826_31f16940aa.jpg

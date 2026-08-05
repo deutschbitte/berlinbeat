@@ -10,7 +10,7 @@ tags:
   - American
   - Festsaal Kreuzberg
   - mudhoney
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/05/480968_615196865165059_1960435643_n.jpg?w=214
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/05/480968_615196865165059_1960435643_n.jpg?w=214
 gallery: []
 draft: false
 ---

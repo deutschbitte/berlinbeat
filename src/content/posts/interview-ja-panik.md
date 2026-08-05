@@ -8,7 +8,7 @@ tags:
   - Austrian
   - Feature
   - Ja Panik
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/04/197159_10150437377890018_78923165017_17330056_388092_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/197159_10150437377890018_78923165017_17330056_388092_n.jpeg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Atom Tree
   - Feature
   - Scottish
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/11/atom-tree-press.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/11/atom-tree-press.jpg?w=300
 gallery: []
 draft: false
 ---

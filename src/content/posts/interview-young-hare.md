@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Young Hare
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/01/younghare_press2.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/01/younghare_press2.jpeg?w=300
 gallery: []
 draft: false
 ---

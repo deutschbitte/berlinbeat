@@ -8,7 +8,7 @@ tags:
   - Feature
   - Fertig Los!
   - German
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/10/111fertigloserbil.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/111fertigloserbil.jpg?w=300
 gallery: []
 draft: false
 ---

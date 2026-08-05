@@ -8,7 +8,7 @@ tags:
   - Canadian
   - Feature
   - Young Galaxy
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/10/000006280006.jpeg?w=298
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/000006280006.jpeg?w=298
 gallery: []
 draft: false
 ---

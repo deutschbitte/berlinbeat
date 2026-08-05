@@ -8,7 +8,7 @@ tags:
   - Element of Crime
   - Feature
   - German
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/08/f75ac14caeefac15c8f0b8498d95abc5.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/f75ac14caeefac15c8f0b8498d95abc5.jpeg?w=300
 gallery: []
 draft: false
 ---

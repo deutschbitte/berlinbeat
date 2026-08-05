@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Washed Out
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/11/168254_10151656485597631_2129627010_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/11/168254_10151656485597631_2129627010_n.jpg?w=300
 gallery: []
 draft: false
 ---

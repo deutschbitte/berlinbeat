@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Panama Picture
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/189391_10150160899492526_343254712525_8357174_8167586_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/189391_10150160899492526_343254712525_8357174_8167586_n.jpeg?w=300
 gallery: []
 draft: false
 ---

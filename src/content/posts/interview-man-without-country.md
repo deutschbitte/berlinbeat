@@ -8,7 +8,7 @@ tags:
   - Feature
   - Man Without Country
   - South Wales
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/07/mwc_shot2-094-web.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/mwc_shot2-094-web.jpg?w=300
 gallery: []
 draft: false
 ---

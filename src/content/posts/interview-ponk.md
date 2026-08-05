@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - pOnk
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/mg_8411.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/mg_8411.jpg?w=300
 gallery: []
 draft: false
 ---

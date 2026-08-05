@@ -10,7 +10,7 @@ tags:
   - German
   - Gorilla Mask
   - Schokoladen
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/01/12137337323_ba83200ff6.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/01/12137337323_ba83200ff6.jpg
 gallery:
   - http://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - http://farm6.staticflickr.com/5486/12137337323_ba83200ff6.jpg

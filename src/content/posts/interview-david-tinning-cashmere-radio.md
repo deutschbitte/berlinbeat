@@ -10,7 +10,7 @@ tags:
   - David Tinning
   - Feature
   - German
-coverImage: https://berlinbeat.org/wp-content/uploads/2016/07/1655685_10152183679460686_5952934466829823160_o.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2016/07/1655685_10152183679460686_5952934466829823160_o.jpg?w=300
 gallery: []
 draft: false
 ---

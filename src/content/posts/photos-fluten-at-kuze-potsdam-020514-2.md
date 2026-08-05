@@ -9,7 +9,7 @@ tags:
   - Fluten
   - German
   - Kuze
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/05/14205639992_3c78f26a0d.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/05/14205639992_3c78f26a0d.jpg
 gallery:
   - https://farm3.staticflickr.com/2934/14205648922_96a73aecb1.jpg
   - https://farm6.staticflickr.com/5274/14228278043_7525449f83.jpg

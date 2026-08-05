@@ -9,7 +9,7 @@ tags:
   - Brendan Kelly
   - Brendan Kelly and the Wandering Birds
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/07/388937_109141885873918_1947910768_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/388937_109141885873918_1947910768_n.jpeg?w=300
 gallery: []
 draft: false
 ---

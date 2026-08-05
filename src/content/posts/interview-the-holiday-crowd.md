@@ -9,7 +9,7 @@ tags:
   - Feature
   - Indie Pop Days
   - The Holiday Crowd
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/09/149235_115959845134825_7096871_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/09/149235_115959845134825_7096871_n.jpeg?w=300
 gallery: []
 draft: false
 ---

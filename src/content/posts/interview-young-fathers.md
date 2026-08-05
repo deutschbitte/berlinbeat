@@ -10,7 +10,7 @@ tags:
   - Nigerian
   - Scottish
   - Young Fathers
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/02/298257_10150277143856523_4502995_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/02/298257_10150277143856523_4502995_n.jpg?w=300
 gallery: []
 draft: false
 ---

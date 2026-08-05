@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Olli Schulz
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/06/5aa00d0e114f76baf4a0e27f93a97775.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/06/5aa00d0e114f76baf4a0e27f93a97775.jpeg?w=300
 gallery: []
 draft: false
 ---

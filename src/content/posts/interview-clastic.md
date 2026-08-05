@@ -8,7 +8,7 @@ tags:
   - Clastic
   - Feature
   - German
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/gut1.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/gut1.jpg?w=300
 gallery: []
 draft: false
 ---

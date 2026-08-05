@@ -8,7 +8,7 @@ tags:
   - American
   - Crocodiles
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/05/40585_419421116910_53843146910_5386571_6098760_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/05/40585_419421116910_53843146910_5386571_6098760_n.jpeg?w=300
 gallery: []
 draft: false
 ---

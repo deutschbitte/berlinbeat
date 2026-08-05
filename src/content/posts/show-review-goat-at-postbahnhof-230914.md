@@ -10,7 +10,7 @@ tags:
   - Goat
   - Postbahnhof
   - Swedish
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/10/1908081_739532999435293_1872727927009869001_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/10/1908081_739532999435293_1872727927009869001_n.jpg?w=300
 gallery: []
 draft: false
 ---

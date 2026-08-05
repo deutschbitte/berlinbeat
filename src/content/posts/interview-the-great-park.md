@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - The Great Park
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/08/photo7.jpeg?w=297
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo7.jpeg?w=297
 gallery: []
 draft: false
 ---

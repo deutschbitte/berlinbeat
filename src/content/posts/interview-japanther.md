@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Japanther
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/07/6a00d8341c526553ef01156fb3b2bd970c-800wi.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/6a00d8341c526553ef01156fb3b2bd970c-800wi.jpeg?w=300
 gallery: []
 draft: false
 ---

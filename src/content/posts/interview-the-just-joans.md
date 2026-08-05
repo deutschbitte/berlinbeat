@@ -9,7 +9,7 @@ tags:
   - Indie Pop Days
   - Scottish
   - The Just Joans
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/07/559467_10150806670738714_1655477389_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/559467_10150806670738714_1655477389_n.jpeg?w=300
 gallery: []
 draft: false
 ---

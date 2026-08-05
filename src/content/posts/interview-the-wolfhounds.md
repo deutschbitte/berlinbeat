@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - The Wolfhounds
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/10/wolfhounds-sepia-2013.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/10/wolfhounds-sepia-2013.jpg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Danish
   - Feature
   - Obstacles
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/02/167068_190652740947080_156936820985339_731318_1026888_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/167068_190652740947080_156936820985339_731318_1026888_n.jpeg?w=300
 gallery: []
 draft: false
 ---

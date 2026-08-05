@@ -9,7 +9,7 @@ tags:
   - Scottish
   - Spanish
   - The Felt Tips
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/10/tft.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/10/tft.jpg?w=300
 gallery: []
 draft: false
 ---

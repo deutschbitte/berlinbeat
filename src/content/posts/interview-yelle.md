@@ -8,7 +8,7 @@ tags:
   - French
   - Kantine am Berghain
   - Yelle
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/12/yelle-2014.jpeg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/12/yelle-2014.jpeg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - American
   - Cursive
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/05/426033_10150770882772678_20915032677_12491892_890257888_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/05/426033_10150770882772678_20915032677_12491892_890257888_n.jpeg?w=300
 gallery: []
 draft: false
 ---

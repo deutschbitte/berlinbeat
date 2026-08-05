@@ -9,7 +9,7 @@ tags:
   - Ariel Pink
   - Ariel Pink's Haunted Graffiti
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/11/261243_10150276663846291_1074360_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/11/261243_10150276663846291_1074360_n.jpeg?w=300
 gallery: []
 draft: false
 ---

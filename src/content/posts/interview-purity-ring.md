@@ -8,7 +8,7 @@ tags:
   - Canadian
   - Feature
   - Purity Ring
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/06/556182_400981836600210_1694138737_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/06/556182_400981836600210_1694138737_n.jpg?w=300
 gallery: []
 draft: false
 ---

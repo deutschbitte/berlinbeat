@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Into It. Over It.
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/12/185330_10150347559514402_102825839401_9903150_7667557_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/185330_10150347559514402_102825839401_9903150_7667557_n.jpeg?w=300
 gallery: []
 draft: false
 ---

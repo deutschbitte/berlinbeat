@@ -10,7 +10,7 @@ tags:
   - British
   - L//nes
   - Liines
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/03/13456222254_1ef931afc2.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/03/13456222254_1ef931afc2.jpg
 gallery:
   - https://farm9.staticflickr.com/8041/7901433812_848f7b9ee5.jpg
   - https://farm3.staticflickr.com/2856/13456214474_edf47bb7ae.jpg

@@ -9,7 +9,7 @@ tags:
   - Indie Pop Days
   - Norwegian
   - Soda Fountain Rag
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/08/l.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/l.jpeg?w=300
 gallery: []
 draft: false
 ---

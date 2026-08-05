@@ -8,7 +8,7 @@ tags:
   - Feature
   - Icelandic
   - Sin Fang
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/sindri-promo3.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/sindri-promo3.jpg?w=300
 gallery: []
 draft: false
 ---

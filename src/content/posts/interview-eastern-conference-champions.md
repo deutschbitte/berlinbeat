@@ -8,7 +8,7 @@ tags:
   - American
   - Eastern Conference Champions
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/10/38354_423394877080_19954672080_4624331_5728282_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/38354_423394877080_19954672080_4624331_5728282_n.jpeg?w=300
 gallery: []
 draft: false
 ---

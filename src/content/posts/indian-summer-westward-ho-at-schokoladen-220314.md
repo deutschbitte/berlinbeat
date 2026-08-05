@@ -9,7 +9,7 @@ tags:
   - German
   - Indian Summer Westward HO
   - Schokoladen
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/04/13624118165_6edf198d6a.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/04/13624118165_6edf198d6a.jpg
 gallery:
   - https://farm4.staticflickr.com/3705/13624466354_5048c19f8c.jpg
   - https://farm3.staticflickr.com/2867/13624111395_4f294479ba.jpg

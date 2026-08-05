@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Locas in Love
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/10/263736_222001524497443_142020612495535_751074_2936305_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/263736_222001524497443_142020612495535_751074_2936305_n.jpeg?w=300
 gallery: []
 draft: false
 ---

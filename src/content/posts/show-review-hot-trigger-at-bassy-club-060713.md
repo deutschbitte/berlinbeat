@@ -10,7 +10,7 @@ tags:
   - Bassy Club
   - German
   - Hot Trigger
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/07/968928_611142342231889_1218027028_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/07/968928_611142342231889_1218027028_n.jpg?w=300
 gallery: []
 draft: false
 ---

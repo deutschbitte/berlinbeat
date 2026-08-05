@@ -8,7 +8,7 @@ tags:
   - British
   - Drenge
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/04/drenge.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/04/drenge.jpg?w=300
 gallery: []
 draft: false
 ---

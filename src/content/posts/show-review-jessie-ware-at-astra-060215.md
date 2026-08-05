@@ -10,7 +10,7 @@ tags:
   - Astra
   - English
   - Jessie Ware
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/03/jessieware.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/03/jessieware.jpg?w=300
 gallery: []
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
   - German
   - Kuze
   - Van Urst
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/05/14021509760_22577c8807.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/05/14021509760_22577c8807.jpg
 gallery:
   - https://farm6.staticflickr.com/5591/14205674372_404662b069.jpg
   - https://farm6.staticflickr.com/5234/14205672992_07ffe288a7.jpg

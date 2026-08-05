@@ -11,7 +11,7 @@ tags:
   - Australian
   - Liars
   - Lido
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/10/10610867_714267111960283_8452268822968838930_n.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/10/10610867_714267111960283_8452268822968838930_n.jpg?w=300
 gallery: []
 draft: false
 ---

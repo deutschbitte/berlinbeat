@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Local Natives
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/02/local_natives-_bryan_sheffield1.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/02/local_natives-_bryan_sheffield1.jpg?w=300
 gallery: []
 draft: false
 ---

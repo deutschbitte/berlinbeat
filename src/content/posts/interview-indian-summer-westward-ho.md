@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Indian Summer Westward HO
-coverImage: https://berlinbeat.org/wp-content/uploads/2017/02/14370380_1097150443738303_8156930470720346470_n.jpg?w=600
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2017/02/14370380_1097150443738303_8156930470720346470_n.jpg?w=600
 gallery: []
 draft: false
 ---

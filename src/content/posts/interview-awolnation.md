@@ -8,7 +8,7 @@ tags:
   - American
   - AWOLNATION
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/200159_10150121820013692_86152828691_6641157_6919106_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/200159_10150121820013692_86152828691_6641157_6919106_n.jpeg?w=300
 gallery: []
 draft: false
 ---

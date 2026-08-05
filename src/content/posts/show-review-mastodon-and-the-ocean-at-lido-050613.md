@@ -12,7 +12,7 @@ tags:
   - Lido
   - mastodon
   - the ocean
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/06/mastodonoceanberlin2013.jpg?w=212
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/06/mastodonoceanberlin2013.jpg?w=212
 gallery: []
 draft: false
 ---

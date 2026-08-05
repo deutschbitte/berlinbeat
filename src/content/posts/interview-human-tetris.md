@@ -8,7 +8,7 @@ tags:
   - Feature
   - Human Tetris
   - Russian
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/02/252581_153936174677210_132302626840565_315510_7560657_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/252581_153936174677210_132302626840565_315510_7560657_n.jpeg?w=300
 gallery: []
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
   - German
   - Respect My Fist
   - Schokoladen
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/03/13247468655_c216a4be5e.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/03/13247468655_c216a4be5e.jpg
 gallery:
   - https://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - https://farm8.staticflickr.com/7050/13247473665_99fa7c8b25.jpg

@@ -11,7 +11,7 @@ tags:
   - Furry Dream
   - German
   - Gurr
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/05/a2585355658_16.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/05/a2585355658_16.jpg?w=300
 gallery: []
 draft: false
 ---

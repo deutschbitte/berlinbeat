@@ -10,7 +10,7 @@ tags:
   - American
   - Berghain
   - tUnE-yArDs
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/06/img_2084.jpg?w=224
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/06/img_2084.jpg?w=224
 gallery: []
 draft: false
 ---

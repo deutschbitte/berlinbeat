@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - The Dropout Patrol
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/04/5221237626_2b0dcdb387_b.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/5221237626_2b0dcdb387_b.jpeg?w=300
 gallery: []
 draft: false
 ---

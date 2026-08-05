@@ -8,7 +8,7 @@ tags:
   - Feature
   - Scraps of Tape
   - Swedish
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/04/sot_sept_20101.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/sot_sept_20101.jpeg?w=300
 gallery: []
 draft: false
 ---

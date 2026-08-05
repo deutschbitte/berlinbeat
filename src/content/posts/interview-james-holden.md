@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - James Holden
-coverImage: https://berlinbeat.org/wp-content/uploads/2018/02/berlin-beat-footprints-1.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2018/02/berlin-beat-footprints-1.jpg?w=300
 gallery: []
 draft: false
 ---

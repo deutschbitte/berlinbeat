@@ -8,7 +8,7 @@ tags:
   - British
   - Cats and Cats and Cats
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/02/224256_10150165767678725_6680078724_6899851_7630559_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/224256_10150165767678725_6680078724_6899851_7630559_n.jpeg?w=300
 gallery: []
 draft: false
 ---

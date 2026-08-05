@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Hello Gravity
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/02/www-dienje.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/www-dienje.jpeg?w=300
 gallery: []
 draft: false
 ---

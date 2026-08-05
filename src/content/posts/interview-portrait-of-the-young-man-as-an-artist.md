@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Portrait of the Young Man as an Artist
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/potymaaachess.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/potymaaachess.jpg?w=300
 gallery: []
 draft: false
 ---

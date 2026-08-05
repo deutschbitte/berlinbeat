@@ -8,7 +8,7 @@ tags:
   - American
   - Craft Spells
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/03/429581_10150686658216055_343690566054_11624381_2129090338_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/429581_10150686658216055_343690566054_11624381_2129090338_n.jpeg?w=300
 gallery: []
 draft: false
 ---

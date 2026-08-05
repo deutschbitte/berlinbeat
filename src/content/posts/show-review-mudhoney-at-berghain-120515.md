@@ -11,7 +11,7 @@ tags:
   - Berghain
   - mudhoney
   - Show Review
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/05/b5qb7rpcqaejqr.jpg?w=250
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/05/b5qb7rpcqaejqr.jpg?w=250
 gallery: []
 draft: false
 ---

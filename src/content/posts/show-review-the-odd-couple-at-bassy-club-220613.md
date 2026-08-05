@@ -10,7 +10,7 @@ tags:
   - Bassy Club
   - German
   - the odd couple
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/06/safe_image.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/06/safe_image.jpeg?w=300
 gallery: []
 draft: false
 ---

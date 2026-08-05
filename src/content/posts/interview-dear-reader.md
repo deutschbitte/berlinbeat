@@ -8,7 +8,7 @@ tags:
   - Dear Reader
   - Feature
   - South African
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/02/dr_marcus_maschwitz_3676.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/dr_marcus_maschwitz_3676.jpeg?w=300
 gallery: []
 draft: false
 ---

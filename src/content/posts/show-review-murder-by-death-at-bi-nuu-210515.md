@@ -10,7 +10,7 @@ tags:
   - American
   - Bi Nuu
   - Murder By Death
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/06/murder_by_death_2015_greg_whitaker.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/06/murder_by_death_2015_greg_whitaker.jpg?w=300
 gallery: []
 draft: false
 ---

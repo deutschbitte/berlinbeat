@@ -9,7 +9,7 @@ tags:
   - German
   - Indie Pop Days
   - Kristallin
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/08/l-1.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/l-1.jpeg?w=300
 gallery: []
 draft: false
 ---

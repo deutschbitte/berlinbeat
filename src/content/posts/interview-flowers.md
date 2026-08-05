@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - Flowers
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/10/flowers.jpg?w=242
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/10/flowers.jpg?w=242
 gallery: []
 draft: false
 ---

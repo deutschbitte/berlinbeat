@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Samiam
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/04/39098_103918406333500_160011_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/04/39098_103918406333500_160011_n.jpg?w=300
 gallery: []
 draft: false
 ---

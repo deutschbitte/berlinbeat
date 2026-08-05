@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Russ Rankin
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/06/rr.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/06/rr.jpg?w=300
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Canadian
   - Feature
   - Shotgun Jimmie
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/05/shotgunjimmie_faces.jpeg
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/05/shotgunjimmie_faces.jpeg
 gallery: []
 draft: false
 ---

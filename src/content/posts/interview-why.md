@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - WHY?
-coverImage: https://berlinbeat.org/wp-content/uploads/2017/06/why_moh-lhean_press3.jpg?w=600
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2017/06/why_moh-lhean_press3.jpg?w=600
 gallery: []
 draft: false
 ---

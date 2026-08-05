@@ -11,7 +11,7 @@ tags:
   - Flanders is a Festival
   - Gentse Feesten
   - School is Cool
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/07/6510794043_97c5109b2a_b.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/6510794043_97c5109b2a_b.jpeg?w=300
 gallery: []
 draft: false
 ---

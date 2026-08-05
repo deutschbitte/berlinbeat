@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Rocky Votolato
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/03/l.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/l.jpeg?w=300
 gallery: []
 draft: false
 ---

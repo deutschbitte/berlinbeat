@@ -9,7 +9,7 @@ tags:
   - German
   - Gurr
   - Schokoladen
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/03/13247471585_dbe852b409.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/03/13247471585_dbe852b409.jpg
 gallery:
   - https://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - https://farm4.staticflickr.com/3733/13247618113_31e9b7b575.jpg

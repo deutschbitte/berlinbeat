@@ -8,7 +8,7 @@ tags:
   - American
   - Battles
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/12/267283_10150287300724441_20029064440_7375225_983990_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/267283_10150287300724441_20029064440_7375225_983990_n.jpeg?w=300
 gallery: []
 draft: false
 ---

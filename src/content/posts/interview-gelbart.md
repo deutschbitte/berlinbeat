@@ -8,7 +8,7 @@ tags:
   - Feature
   - Gelbart
   - Israeli
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/08/523712_10150777319770861_2124134210_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/08/523712_10150777319770861_2124134210_n.jpg?w=300
 gallery: []
 draft: false
 ---

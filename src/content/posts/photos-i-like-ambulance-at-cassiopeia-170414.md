@@ -9,7 +9,7 @@ tags:
   - Cassiopeia
   - German
   - I Like Ambulance
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/05/14107159845_bcb33de967.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/05/14107159845_bcb33de967.jpg
 gallery:
   - https://farm6.staticflickr.com/5025/13920524788_68bf5170e2.jpg
   - https://farm6.staticflickr.com/5474/14103920581_ec4fa510ce.jpg

@@ -12,7 +12,7 @@ tags:
   - French
   - The Bar Sinister
   - Transit FM
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/04/11102734_633021416831724_2389862153758703247_n.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/04/11102734_633021416831724_2389862153758703247_n.jpg?w=300
 gallery: []
 draft: false
 ---

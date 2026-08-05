@@ -8,7 +8,7 @@ tags:
   - American
   - Black Fag
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/02/16878_279343153047_279319208047_3343293_124065_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/16878_279343153047_279319208047_3343293_124065_n.jpeg?w=300
 gallery: []
 draft: false
 ---

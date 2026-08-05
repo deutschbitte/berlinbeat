@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Weekend
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/06/weekend_01-1.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/06/weekend_01-1.jpeg?w=300
 gallery: []
 draft: false
 ---

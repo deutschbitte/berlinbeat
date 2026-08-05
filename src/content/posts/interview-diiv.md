@@ -8,7 +8,7 @@ tags:
   - American
   - DIIV
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/01/319975_10150443167776000_28015075999_11380973_1098103264_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/01/319975_10150443167776000_28015075999_11380973_1098103264_n.jpeg?w=300
 gallery: []
 draft: false
 ---

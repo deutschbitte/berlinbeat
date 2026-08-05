@@ -8,7 +8,7 @@ tags:
   - '206'
   - Feature
   - German
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/206306_10150197489677889_102211402888_8357989_4939366_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/206306_10150197489677889_102211402888_8357989_4939366_n.jpeg?w=300
 gallery: []
 draft: false
 ---

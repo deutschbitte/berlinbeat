@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - The Blow
-coverImage: https://berlinbeat.org/wp-content/uploads/2018/04/blowjamportrait.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2018/04/blowjamportrait.jpg?w=300
 gallery: []
 draft: false
 ---

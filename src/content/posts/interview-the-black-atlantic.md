@@ -8,7 +8,7 @@ tags:
   - Dutch
   - Feature
   - The Black Atlantic
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/10/the_black_atlantic_solo_photo_2013_lo-res_vertical.jpg?w=200
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/10/the_black_atlantic_solo_photo_2013_lo-res_vertical.jpg?w=200
 gallery: []
 draft: false
 ---

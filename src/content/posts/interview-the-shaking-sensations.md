@@ -8,7 +8,7 @@ tags:
   - Danish
   - Feature
   - The Shaking Sensations
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/09/264772_10150252508333505_46023668504_7643345_3137602_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/264772_10150252508333505_46023668504_7643345_3137602_n.jpeg?w=300
 gallery: []
 draft: false
 ---

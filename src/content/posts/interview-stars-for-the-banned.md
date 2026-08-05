@@ -8,7 +8,7 @@ tags:
   - Austrian
   - Feature
   - Stars for the Banned
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/10/l.png?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/l.png?w=300
 gallery: []
 draft: false
 ---

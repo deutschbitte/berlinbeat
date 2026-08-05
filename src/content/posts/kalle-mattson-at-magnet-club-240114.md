@@ -9,7 +9,7 @@ tags:
   - Canadian
   - Kalle Mattson
   - Magnet Club
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/01/12179264384_4637f2cc10.jpg
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/01/12179264384_4637f2cc10.jpg
 gallery:
   - http://farm3.staticflickr.com/2859/12179476426_17e8a1861d.jpg
   - http://farm4.staticflickr.com/3681/12179264384_4637f2cc10.jpg

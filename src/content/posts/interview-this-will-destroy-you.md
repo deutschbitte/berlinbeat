@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - This Will Destroy You
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/07/248073ab2d6f3dd7791455b9646e00ac.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/07/248073ab2d6f3dd7791455b9646e00ac.jpeg?w=300
 gallery: []
 draft: false
 ---

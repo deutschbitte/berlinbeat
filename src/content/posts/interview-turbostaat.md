@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Turbostaat
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/02/turbostaat-2013-2.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/02/turbostaat-2013-2.jpg?w=300
 gallery: []
 draft: false
 ---

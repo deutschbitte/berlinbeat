@@ -8,7 +8,7 @@ tags:
   - Feature
   - Irish
   - Sky Histoire
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/01/386103_219881794746769_219881068080175_518922_1666233833_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/386103_219881794746769_219881068080175_518922_1666233833_n.jpeg?w=300
 gallery: []
 draft: false
 ---

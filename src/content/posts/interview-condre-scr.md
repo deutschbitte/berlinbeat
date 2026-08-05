@@ -8,7 +8,7 @@ tags:
   - Condre Scr
   - Feature
   - German
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/04/tumblr_m2f5yfvcgv1r1yqhpo1_1280.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/04/tumblr_m2f5yfvcgv1r1yqhpo1_1280.jpg?w=300
 gallery: []
 draft: false
 ---

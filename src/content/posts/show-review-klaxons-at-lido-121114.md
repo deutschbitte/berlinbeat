@@ -10,7 +10,7 @@ tags:
   - British
   - Klaxons
   - Lido
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/11/klaxons_2014.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/11/klaxons_2014.jpg?w=300
 gallery: []
 draft: false
 ---

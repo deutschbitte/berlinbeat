@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Son Lux
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/01/img-son-lux_172330703155.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/01/img-son-lux_172330703155.jpg?w=300
 gallery: []
 draft: false
 ---

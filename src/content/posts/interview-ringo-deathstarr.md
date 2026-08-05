@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Ringo Deathstarr
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/08/photo-3.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo-3.jpeg?w=300
 gallery: []
 draft: false
 ---

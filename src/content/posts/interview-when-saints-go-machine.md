@@ -11,7 +11,7 @@ tags:
   - Flanders is a Festival
   - Gentse Feesten
   - When Saints Go Machine
-coverImage: http://berlinbeat.org/wp-content/uploads/2012/09/wsgm.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/09/wsgm.jpg?w=300
 gallery: []
 draft: false
 ---

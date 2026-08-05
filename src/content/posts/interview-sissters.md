@@ -5,7 +5,7 @@ author: natalye
 type: interview
 band: Sissters
 tags: []
-coverImage: http://berlinbeat.org/wp-content/uploads/2011/12/297346_286508488037205_135283873159668_1023719_1463706567_n.jpeg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/297346_286508488037205_135283873159668_1023719_1463706567_n.jpeg?w=300
 gallery: []
 draft: false
 ---

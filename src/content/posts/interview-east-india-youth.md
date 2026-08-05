@@ -8,7 +8,7 @@ tags:
   - British
   - East India Youth
   - Feature
-coverImage: http://berlinbeat.org/wp-content/uploads/2014/05/101072_large.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/05/101072_large.jpg?w=300
 gallery: []
 draft: false
 ---

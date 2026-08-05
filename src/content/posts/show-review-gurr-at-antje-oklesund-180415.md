@@ -10,7 +10,7 @@ tags:
   - Antje Øklesund
   - German
   - Gurr
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/04/11182267_796428250455277_915512769996220072_n.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/04/11182267_796428250455277_915512769996220072_n.jpg?w=300
 gallery: []
 draft: false
 ---
@@ -29,7 +29,7 @@ Then GURR took the stage, fusing the sweetness of a '60s girl group and the gri
 
 Casablanca and drummer Laura Lee's voices congenially explored every musical dimension between those extremes, combining coaxing and jeering, whispering and shouting. They even managed to include Pussycat Dolls’ "Don’t Cha" without engaging in pointless pop cultural mimicry namedropping.
 
-[![Photo by Max Kersting](https://berlinbeat.org/wp-content/uploads/2015/04/11149298_796428383788597_7363571197572312772_n.jpg?w=300)](https://berlinbeat.org/wp-content/uploads/2015/04/11149298_796428383788597_7363571197572312772_n.jpg) Photo by Max Kersting
+[![Photo by Max Kersting](https://berlinbeat.wordpress.com/wp-content/uploads/2015/04/11149298_796428383788597_7363571197572312772_n.jpg?w=300)](https://berlinbeat.wordpress.com/wp-content/uploads/2015/04/11149298_796428383788597_7363571197572312772_n.jpg) Photo by Max Kersting
 
 GURR is a band that's eclectic and, yes, postmodern in the best way: the group takes what it needs from pop culture and redefines and reassigns it in any way it wants, until every stereotype is challenged and every confining label removed. And while the audience members obviously enjoyed themselves, and especially the band, at times they still did not seem so sure where they were or what they were looking at.
 

@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - The Wedding Present
-coverImage: http://berlinbeat.org/wp-content/uploads/2013/09/430530_10150542730196935_995404284_n.jpg?w=300
+coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/09/430530_10150542730196935_995404284_n.jpg?w=300
 gallery: []
 draft: false
 ---

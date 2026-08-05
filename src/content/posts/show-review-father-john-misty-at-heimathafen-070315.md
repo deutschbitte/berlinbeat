@@ -10,7 +10,7 @@ tags:
   - American
   - Father John Misty
   - Heimathafen
-coverImage: https://berlinbeat.org/wp-content/uploads/2015/04/720x405-00010018.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/04/720x405-00010018.jpg?w=300
 gallery: []
 draft: false
 ---

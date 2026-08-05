@@ -10,7 +10,7 @@ tags:
   - American
   - Death Valley High
   - SO36
-coverImage: https://berlinbeat.org/wp-content/uploads/2014/11/10153127_870824622935721_4662388366490144674_n.jpg?w=300
+coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/11/10153127_870824622935721_4662388366490144674_n.jpg?w=300
 gallery: []
 draft: false
 ---
