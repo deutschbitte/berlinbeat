@@ -1,7 +1,7 @@
 ---
 title: New Wonders at Laika 24/06/18
 date: '2018-07-05'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: New Wonders
 venue: Laika

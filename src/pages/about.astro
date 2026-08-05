@@ -1,38 +1,44 @@
 ---
 import Layout from '../layouts/Layout.astro';
+import { authorHref } from '../lib/posts';
 
 const contributors = [
   {
     name: 'Natalye',
     bioHtml:
       '<a href="http://www.natalye.com" target="_blank" rel="noopener">Natalye</a> started Berlin Beat in 2011. She has a BA in journalism and music and an MA in English. When she’s not interviewing bands or going to shows, Natalye works as a copy editor and copywriter. Her first book, <a href="http://static.microcosmpublishing.com/uploads/aftermath-pr.pdf" target="_blank" rel="noopener">The Aftermath of Forever: How I Loved and Lost and Found Myself</a>, was released by <a href="http://microcosmpublishing.com/" target="_blank" rel="noopener">Microcosm Publishing</a> in summer 2014.',
-    archiveUrl: 'https://berlinbeat.org/author/natalye/',
+    archiveUrl: authorHref('natalye'),
   },
   {
     name: 'Lauren',
     bioHtml:
       'Lauren is a freelance music journalist. She finds inspiration in blown speakers, venues with palpable energy, and disarrayed collections of ticket stubs. She doesn’t just experience music from one side of the stage; she is a songwriter, guitarist, and cellist. When not at shows or writing, her free time is spent with her cat, Samo.',
-    archiveUrl: 'https://berlinbeat.org/author/punkrockdoll/',
+    archiveUrl: authorHref('punkrockdoll'),
   },
   {
     name: 'Katie',
     bioHtml:
       'Katie is a music-loving pen to hire who’s had her enthusiasm for angsty rock’n’roll hijacked by Berlin’s electronic offerings. She studied Literature, makes an unwieldy amount of playlists, and loves a good semicolon.',
-    archiveUrl: 'https://berlinbeat.org/author/1khawthorne/',
+    archiveUrl: authorHref('K Hawthorne'),
   },
   {
     name: 'Chloe Mayne',
     archiveName: 'Chloe',
     bioHtml:
       'Chloe Mayne is a writer from Tasmania, Australia. She holds a BA in Philosophy and Literature. When her fondness for poetry intertangles with her excessive passion for music, she becomes a music writer. She enjoys people-watching on public transport, the hum of photocopiers, and reading books about watermelon sugar.',
-    archiveUrl: 'https://berlinbeat.org/author/chloeloum/',
+    archiveUrl: authorHref('chloe_louise'),
   },
   {
     name: 'René',
     bioHtml:
       'René holds a German diploma in social sciences. For 20 years, he has loved taking concert photos at small venues and doing band photography.',
-    archiveUrl: 'https://berlinbeat.org/author/klirrsjourney/',
+    archiveUrl: authorHref('klirrsjourney'),
   },
+  { name: 'Heike', archiveUrl: authorHref('Heike') },
+  { name: 'Malte Grotendorst', archiveUrl: authorHref('Malte Grotendorst') },
+  { name: 'Joy C. Mitchell', archiveUrl: authorHref('Joy C. Mitchell') },
+  { name: 'Angus Gordon', archiveUrl: authorHref('Angus Gordon') },
+  { name: 'berlinerbeat', archiveUrl: authorHref('berlinerbeat') },
 ];
 ---
 
@@ -53,18 +59,15 @@ const contributors = [
       {contributors.map((person) => (
         <li class="pt-5 first:pt-0">
           <p class="font-medium text-[var(--fg)]">{person.name}</p>
-          <p
-            class="mt-1 text-sm text-[var(--fg-muted)] [&_a]:text-[var(--fg-muted)] [&_a]:underline [&_a]:hover:text-[var(--fg)]"
-            set:html={person.bioHtml}
-          />
+          {person.bioHtml && (
+            <p
+              class="mt-1 text-sm text-[var(--fg-muted)] [&_a]:text-[var(--link)] [&_a]:underline [&_a]:hover:text-[var(--link-hover)]"
+              set:html={person.bioHtml}
+            />
+          )}
           <p class="mt-3 text-sm text-[var(--fg-muted)]">
             See all posts by {person.archiveName ?? person.name}{' '}
-            <a
-              href={person.archiveUrl}
-              class="underline hover:text-[var(--fg)]"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
+            <a href={person.archiveUrl} class="text-[var(--link)] underline hover:text-[var(--link-hover)]">
               here
             </a>.
           </p>

@@ -1,7 +1,7 @@
 ---
 title: Erring Soda at Bei Ruth 04/05/17
 date: '2017-05-11'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Erring Soda
 venue: Bei Ruth

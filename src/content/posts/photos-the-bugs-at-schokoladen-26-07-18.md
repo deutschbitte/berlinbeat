@@ -1,7 +1,7 @@
 ---
 title: The Bugs at Schokoladen 26/07/18
 date: '2018-11-16'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: The Bugs
 venue: Schokoladen

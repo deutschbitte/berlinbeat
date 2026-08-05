@@ -22,6 +22,8 @@
   --border: var(--color-neutral-700);
   --fg: var(--color-neutral-100);
   --fg-muted: var(--color-neutral-400);
+  --link: #4a9b8e;
+  --link-hover: #63b3a6;
 }
 
 :root.light {
@@ -31,6 +33,8 @@
   --border: var(--color-neutral-200);
   --fg: #111111;
   --fg-muted: var(--color-neutral-500);
+  --link: #2f7d70;
+  --link-hover: #256459;
 }
 
 @layer base {
@@ -88,7 +92,7 @@
   --tw-prose-body: var(--fg);
   --tw-prose-headings: var(--fg);
   --tw-prose-lead: var(--fg-muted);
-  --tw-prose-links: var(--fg);
+  --tw-prose-links: var(--link);
   --tw-prose-bold: var(--fg);
   --tw-prose-counters: var(--fg-muted);
   --tw-prose-bullets: var(--fg-muted);
@@ -102,7 +106,12 @@
 }
 
 .prose a {
+  color: var(--link);
   text-decoration: underline;
+}
+
+.prose a:hover {
+  color: var(--link-hover);
 }
 
 .prose p {

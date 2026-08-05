@@ -1,7 +1,7 @@
 ---
 title: Brabrabra at West Germany 19/05/18
 date: '2018-06-11'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Brabrabra
 venue: West Germany

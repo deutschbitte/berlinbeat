@@ -1,7 +1,7 @@
 ---
 title: Onom Agemo & The Discojumpers Feat. Ahmed Ag Kaedy + Odd Couple + Hekla Magnúsdóttir at ://about blank 14/07/18
 date: '2018-07-23'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Onom Agemo & The Discojumpers Feat. Ahmed Ag Kaedy + Odd Couple + Hekla Magnúsdóttir
 venue: ://about blank

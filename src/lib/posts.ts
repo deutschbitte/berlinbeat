@@ -38,3 +38,23 @@ export function uniqueTags(posts: Post[]): string[] {
   const tags = posts.flatMap((p) => p.data.tags);
   return [...new Set(tags)].sort((a, b) => a.localeCompare(b));
 }
+
+// Some authors' `author` frontmatter is a raw WordPress login rather than a
+// display name (no display name was ever set for that WP.com account) —
+// mapped here to the friendlier names used elsewhere on the site (e.g. the
+// /about/ contributor bios), same as scripts/migrate-wp.mjs's own login →
+// display-name resolution at migration time.
+const AUTHOR_DISPLAY_NAMES: Record<string, string> = {
+  natalye: 'Natalye',
+  punkrockdoll: 'Lauren',
+  chloe_louise: 'Chloe Mayne',
+  klirrsjourney: 'René',
+};
+
+export function authorDisplayName(author: string): string {
+  return AUTHOR_DISPLAY_NAMES[author] ?? author;
+}
+
+export function authorHref(author: string): string {
+  return `/authors/${slugify(author)}/`;
+}

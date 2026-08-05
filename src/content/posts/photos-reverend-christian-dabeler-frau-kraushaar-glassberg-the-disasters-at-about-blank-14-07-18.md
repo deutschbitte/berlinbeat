@@ -1,7 +1,7 @@
 ---
 title: Reverend Christian Dabeler & Frau Kraushaar + Glassberg & The Disasters at ://about blank 14/07/18
 date: '2018-07-19'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Reverend Christian Dabeler & Frau Kraushaar + Glassberg & The Disasters
 venue: ://about blank

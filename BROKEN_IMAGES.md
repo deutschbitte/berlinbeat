@@ -2,6 +2,13 @@
 
 113 photo posts tagged `broken-images` in frontmatter — dead Picasa-hosted photos (Google shut down Picasa Web Albums; those URLs now redirect to a login wall). See `PROJECT_HISTORY.md` for background. These are currently excluded from the homepage's random rotation pool (`src/pages/index.astro`) but still reachable directly and still listed on `/photos/`.
 
+Plus 2 more added later, dead for unrelated reasons (third-party host, not Picasa):
+
+114. Temples and Crystal Antlers at Bi Nuu 18/02/14 — cover image was hosted on `introducing.de`, which no longer responds at all (HTTP or HTTPS).
+115. Of Montreal (interview) — cover image was hosted on `kampnagel.de`; the venue's site is alive but redesigned, this old image path now 404s.
+
+Checked both against the Wayback Machine — archive.org was rate-limiting requests at the time, worth a manual re-check later.
+
 1. A Giraffe at Lovelite 13/08/11
 2. Ape Up! at Schokoladen 01/06/12
 3. Amida at Wasserturm Kreuzberg 28/08/11

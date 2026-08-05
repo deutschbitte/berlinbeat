@@ -1,7 +1,7 @@
 ---
 title: Scraps of Tape at Schokoladen 24/03/18
 date: '2018-03-29'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Scraps of Tape
 venue: Schokoladen

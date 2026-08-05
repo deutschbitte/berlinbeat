@@ -1,7 +1,7 @@
 ---
 title: Ilgen-Nur + John Moods at ://about blank 14/07/18
 date: '2018-07-24'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Ilgen-Nur + John Moods
 venue: ://about blank

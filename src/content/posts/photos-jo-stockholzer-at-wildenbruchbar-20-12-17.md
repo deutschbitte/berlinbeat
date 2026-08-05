@@ -1,7 +1,7 @@
 ---
 title: Jo Stöckholzer at Wildenbruch Bar 20/12/17
 date: '2017-12-27'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Jo Stöckholzer
 venue: Wildenbruch Bar

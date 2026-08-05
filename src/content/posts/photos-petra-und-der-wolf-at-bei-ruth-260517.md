@@ -1,7 +1,7 @@
 ---
 title: Petra und der Wolf at Bei Ruth 26/05/17
 date: '2017-06-01'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: Petra und der Wolf
 venue: Bei Ruth

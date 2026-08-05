@@ -1,0 +1,22 @@
+---
+import { getAllPosts, slugify, authorDisplayName } from '../../../lib/posts';
+import BrowsePage from '../../../components/BrowsePage.astro';
+
+export async function getStaticPaths() {
+  const posts = await getAllPosts();
+  const authors = [...new Set(posts.map((p) => p.data.author).filter((a): a is string => !!a))];
+
+  return authors.map((author) => {
+    const authorSlug = slugify(author);
+    const authorPosts = posts.filter((p) => p.data.author === author);
+    return {
+      params: { author: authorSlug },
+      props: { authorName: authorDisplayName(author), posts: authorPosts },
+    };
+  });
+}
+
+const { authorName, posts } = Astro.props;
+---
+
+<BrowsePage title={authorName} description={`Posts by ${authorName}.`} posts={posts} />

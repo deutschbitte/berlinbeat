@@ -1,7 +1,7 @@
 ---
 title: nunofyrbeeswax at ://about blank 14/07/18
 date: '2018-07-19'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: nunofyrbeeswax
 venue: ://about blank

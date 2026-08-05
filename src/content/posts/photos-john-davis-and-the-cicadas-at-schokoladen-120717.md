@@ -1,7 +1,7 @@
 ---
 title: John Davis and the Cicadas at Schokoladen 12/07/17
 date: '2017-07-25'
-author: steventhirsty
+author: klirrsjourney
 type: photos
 band: John Davis and the Cicadas
 venue: Schokoladen

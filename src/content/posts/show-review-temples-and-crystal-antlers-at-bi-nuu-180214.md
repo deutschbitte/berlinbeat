@@ -12,6 +12,7 @@ tags:
   - Intro
   - Introducing
   - Temples
+  - broken-images
 coverImage: http://introducing.de/images/articleImages//images/1/2/4/0/8/2/TEMPLES_S3_010__select_6CB9cropped_large.jpg
 gallery: []
 draft: false
