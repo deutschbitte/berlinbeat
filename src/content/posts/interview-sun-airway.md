@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Sun Airway
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/n39916327520_771657_1390.jpeg?w=300
+coverImage: /wp-content/uploads/2011/10/n39916327520_771657_1390.jpeg
 gallery: []
 draft: false
 ---

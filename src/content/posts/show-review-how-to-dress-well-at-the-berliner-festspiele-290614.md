@@ -11,7 +11,7 @@ tags:
   - Berliner Festspiele
   - Brendan Fernandes
   - How to Dress Well
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/07/foreign_affairs.jpg?w=224
+coverImage: /wp-content/uploads/2014/07/foreign_affairs.jpg
 gallery: []
 draft: false
 ---

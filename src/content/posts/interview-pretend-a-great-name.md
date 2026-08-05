@@ -9,7 +9,7 @@ tags:
   - German
   - Indie Pop Days
   - Pretend a Great Name
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/301382_278385038854650_148628015163687_1166845_6728729_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/301382_278385038854650_148628015163687_1166845_6728729_n.jpeg
 gallery: []
 draft: false
 ---

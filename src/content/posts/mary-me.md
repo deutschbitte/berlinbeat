@@ -8,7 +8,7 @@ tags:
   - Belgian
   - Feature
   - Mary & Me
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/10/530366_10150693144709088_1301290223_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/10/530366_10150693144709088_1301290223_n.jpeg
 gallery: []
 draft: true
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - Scottish
   - The Close Lobsters
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/closelobstersclose_lobsters_postcard.jpeg?w=300
+coverImage: /wp-content/uploads/2012/07/closelobstersclose_lobsters_postcard.jpeg
 gallery: []
 draft: true
 ---

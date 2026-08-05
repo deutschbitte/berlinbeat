@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Youth Lagoon
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/403659_259844190744800_109745505754670_730060_1591286979_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/02/403659_259844190744800_109745505754670_730060_1591286979_n.jpeg
 gallery: []
 draft: false
 ---

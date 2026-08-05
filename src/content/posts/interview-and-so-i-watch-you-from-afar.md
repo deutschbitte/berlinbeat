@@ -9,7 +9,7 @@ tags:
   - Feature
   - Interview
   - Irish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/44499075.jpeg?w=300
+coverImage: /wp-content/uploads/2012/03/44499075.jpeg
 gallery: []
 draft: false
 ---

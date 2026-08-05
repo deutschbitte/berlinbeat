@@ -10,7 +10,7 @@ tags:
   - Amen Dunes
   - American
   - Monarch
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/12/sbr113-amen-dunes-love_df3a4200-d444-49ac-be5d-0e4df18f7a89.jpeg?w=300
+coverImage: /wp-content/uploads/2014/12/sbr113-amen-dunes-love_df3a4200-d444-49ac-be5d-0e4df18f7a89.jpeg
 gallery: []
 draft: false
 ---

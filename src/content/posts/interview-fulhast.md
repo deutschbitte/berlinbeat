@@ -9,7 +9,7 @@ tags:
   - Fulhäst
   - Indie Pop Days
   - Swedish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/08/fulhc3a4st.jpg?w=300
+coverImage: /wp-content/uploads/2012/08/fulhc3a4st.jpg
 gallery: []
 draft: false
 ---

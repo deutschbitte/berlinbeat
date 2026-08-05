@@ -9,7 +9,7 @@ tags:
   - German
   - Indie Pop Days
   - Sorry Gilberto
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/sorry-gilberto-foto2.jpg?w=300
+coverImage: /wp-content/uploads/2011/08/sorry-gilberto-foto2.jpg
 gallery: []
 draft: false
 ---

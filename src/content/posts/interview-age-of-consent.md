@@ -8,7 +8,7 @@ tags:
   - Age of Consent
   - British
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/06/562242_10150814892270958_700717802_n.jpg?w=300
+coverImage: /wp-content/uploads/2012/06/562242_10150814892270958_700717802_n.jpg
 gallery: []
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
   - Canadian
   - Feature
   - Mister Heavenly
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/9493.jpeg?w=300
+coverImage: /wp-content/uploads/2011/12/9493.jpeg
 gallery: []
 draft: false
 ---

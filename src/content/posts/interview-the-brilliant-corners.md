@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - The Brilliant Corners
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/09/67931_596153643735318_1453528834_n.jpg?w=300
+coverImage: /wp-content/uploads/2013/09/67931_596153643735318_1453528834_n.jpg
 gallery: []
 draft: false
 ---

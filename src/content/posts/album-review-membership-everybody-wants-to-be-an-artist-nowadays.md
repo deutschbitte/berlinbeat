@@ -9,7 +9,7 @@ album: Everybody Wants To Be An Artist Nowadays
 tags:
   - German
   - Membership
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/06/everybody-wants-to-be-an-artist-nowadays-cover-art.jpeg?w=300
+coverImage: /wp-content/uploads/2011/06/everybody-wants-to-be-an-artist-nowadays-cover-art.jpeg
 gallery: []
 draft: false
 ---

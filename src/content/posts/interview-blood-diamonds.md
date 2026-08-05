@@ -8,7 +8,7 @@ tags:
   - American
   - Blood Diamonds
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/11/224484_438181209556932_272854390_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/11/224484_438181209556932_272854390_n.jpeg
 gallery: []
 draft: false
 ---

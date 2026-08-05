@@ -8,7 +8,7 @@ tags:
   - Feature
   - Four Track on Stage
   - German
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/fourtrack_bus_montage1zeigen2.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/fourtrack_bus_montage1zeigen2.jpeg
 gallery: []
 draft: false
 ---

@@ -3,8 +3,13 @@ import { glob } from 'astro/loaders';
 
 const posts = defineCollection({
   loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/posts' }),
-  schema: ({ image }) => {
-    const localOrRemoteImage = z.union([image(), z.string().url()]);
+  schema: () => {
+    // No post ever uses a genuine local (co-located) image import, so this
+    // is a plain string covering both remote URLs (Flickr etc.) and
+    // root-relative paths into public/ — not image(), which makes Astro's
+    // build-time asset pipeline try (and fail) to resolve every value here
+    // as a local file relative to the content file.
+    const localOrRemoteImage = z.string();
 
     return z
       .object({

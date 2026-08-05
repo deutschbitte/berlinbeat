@@ -12,7 +12,7 @@ tags:
   - German
   - Idle Class
   - Magnet Club
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/07/antiflag-20th-anniversary-night-2-50.jpeg?w=300
+coverImage: /wp-content/uploads/2013/07/antiflag-20th-anniversary-night-2-50.jpeg
 gallery: []
 draft: false
 ---

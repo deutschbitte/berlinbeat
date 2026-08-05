@@ -8,7 +8,7 @@ tags:
   - American
   - Deap Vally
   - Magnet Club
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/11/deapvally.jpg?w=300
+coverImage: /wp-content/uploads/2013/11/deapvally.jpg
 gallery: []
 draft: false
 ---

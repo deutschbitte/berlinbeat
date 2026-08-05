@@ -8,7 +8,7 @@ tags:
   - Active Child
   - American
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/156338_476258746939_168415536939_5627309_3872827_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/03/156338_476258746939_168415536939_5627309_3872827_n.jpeg
 gallery: []
 draft: false
 ---

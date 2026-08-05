@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Urlaub in Polen
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/l1.jpeg?w=285
+coverImage: /wp-content/uploads/2011/09/l1.jpeg
 gallery: []
 draft: false
 ---

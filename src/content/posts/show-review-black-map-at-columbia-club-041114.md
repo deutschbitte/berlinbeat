@@ -10,7 +10,7 @@ tags:
   - American
   - Black Map
   - Columbia Club
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/11/10623870_331110740399686_4822297855067949975_o.jpg?w=212
+coverImage: /wp-content/uploads/2014/11/10623870_331110740399686_4822297855067949975_o.jpg
 gallery: []
 draft: false
 ---

@@ -10,7 +10,7 @@ tags:
   - Adam Evald
   - Marie-Antoinette
   - Swedish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/09/10629876_10204950330942195_5848980186412751032_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/09/10629876_10204950330942195_5848980186412751032_n.jpg
 gallery: []
 draft: false
 ---

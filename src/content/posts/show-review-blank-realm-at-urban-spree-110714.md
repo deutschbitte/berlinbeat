@@ -10,7 +10,7 @@ tags:
   - Australian
   - Blank Realm
   - Urban Spree
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/07/10409590_10152462601455619_7346262550130518375_n.jpg?w=208
+coverImage: /wp-content/uploads/2014/07/10409590_10152462601455619_7346262550130518375_n.jpg
 gallery: []
 draft: false
 ---

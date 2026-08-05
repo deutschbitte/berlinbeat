@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Northern Lite
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/05/1466236_10151791445388244_916862603_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/05/1466236_10151791445388244_916862603_n.jpg
 gallery: []
 draft: false
 ---

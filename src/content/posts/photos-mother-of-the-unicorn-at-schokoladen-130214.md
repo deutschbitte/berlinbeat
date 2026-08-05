@@ -9,7 +9,7 @@ tags:
   - British
   - Mother of the Unicorn
   - Schokoladen
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/02/12583227265_8a2ffd78cd.jpg
+coverImage: /wp-content/uploads/2014/02/12583227265_8a2ffd78cd.jpg
 gallery:
   - https://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - https://farm3.staticflickr.com/2879/12583682984_068226a61c.jpg

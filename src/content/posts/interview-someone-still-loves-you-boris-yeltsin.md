@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Someone Still Loves You Boris Yeltsin
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/03/00573_sslyby-aaron-1-4000-600x400.jpg?w=300
+coverImage: /wp-content/uploads/2014/03/00573_sslyby-aaron-1-4000-600x400.jpg
 gallery: []
 draft: false
 ---

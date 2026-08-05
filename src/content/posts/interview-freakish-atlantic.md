@@ -8,7 +8,7 @@ tags:
   - Feature
   - Freakish Atlantic
   - German
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/freakish-atlantic-promo-pic-1-hr.jpg?w=300
+coverImage: /wp-content/uploads/2012/07/freakish-atlantic-promo-pic-1-hr.jpg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - ZSK
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/zsk_2011b.jpg?w=300
+coverImage: /wp-content/uploads/2012/01/zsk_2011b.jpg
 gallery: []
 draft: false
 ---

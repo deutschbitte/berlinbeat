@@ -10,7 +10,7 @@ tags:
   - American
   - Cassiopeia
   - Parquet Courts
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/07/parquet-courts-pic-1-04ef80a214.jpg?w=300
+coverImage: /wp-content/uploads/2014/07/parquet-courts-pic-1-04ef80a214.jpg
 gallery: []
 draft: false
 ---

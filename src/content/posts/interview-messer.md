@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Messer
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/10/971939_567039123356911_742025951_n.jpg?w=300
+coverImage: /wp-content/uploads/2013/10/971939_567039123356911_742025951_n.jpg
 gallery: []
 draft: false
 ---

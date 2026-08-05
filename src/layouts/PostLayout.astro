@@ -19,7 +19,7 @@ const { data } = post;
 <Layout
   title={data.title}
   description={data.excerpt}
-  image={typeof data.coverImage === 'string' ? upgradeImageQuality(data.coverImage) : data.coverImage?.src}
+  image={data.coverImage ? upgradeImageQuality(data.coverImage) : undefined}
 >
   <article class="mx-auto max-w-3xl px-5 py-8 sm:px-8 sm:py-10">
     <p class="text-xs text-[var(--fg-muted)]">

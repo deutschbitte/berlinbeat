@@ -10,7 +10,7 @@ tags:
   - American
   - Berghain
   - thee oh sees
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/08/1970545_862447867099045_9070823331394006055_n.jpg?w=215
+coverImage: /wp-content/uploads/2014/08/1970545_862447867099045_9070823331394006055_n.jpg
 gallery: []
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
   - Schokoladen
   - Scraps of Tape
   - Swedish
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/04/13624119613_26e76c6232.jpg
+coverImage: /wp-content/uploads/2014/04/13624119613_26e76c6232.jpg
 gallery:
   - https://farm8.staticflickr.com/7409/13624119355_497b47cecd.jpg
   - https://farm4.staticflickr.com/3671/13624120065_0075bd1ff7.jpg

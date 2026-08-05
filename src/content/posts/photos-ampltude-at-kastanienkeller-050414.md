@@ -10,7 +10,7 @@ tags:
   - Amplitude
   - German
   - Kastanienkeller
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/04/13917458966_85c4101e23.jpg
+coverImage: /wp-content/uploads/2014/04/13917458966_85c4101e23.jpg
 gallery:
   - https://farm4.staticflickr.com/3667/13917472181_47188d473f.jpg
   - https://farm3.staticflickr.com/2902/13940584415_3838a5fac5.jpg

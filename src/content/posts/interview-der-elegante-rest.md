@@ -9,7 +9,7 @@ tags:
   - Feature
   - German
   - Indie Pop Days
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo5.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/photo5.jpeg
 gallery: []
 draft: false
 ---

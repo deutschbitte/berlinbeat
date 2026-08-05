@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - Luke Sital-Singh
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/09/musik-luke-sital-singh-zwischen-pathos-und-ballade_image_630_420f.jpg?w=300
+coverImage: /wp-content/uploads/2014/09/musik-luke-sital-singh-zwischen-pathos-und-ballade_image_630_420f.jpg
 gallery: []
 draft: false
 ---

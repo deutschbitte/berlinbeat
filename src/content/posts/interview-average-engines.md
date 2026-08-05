@@ -8,7 +8,7 @@ tags:
   - Average Engines
   - Feature
   - German
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/216657_10150257540791953_69421561952_7884492_7612075_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/216657_10150257540791953_69421561952_7884492_7612075_n.jpeg
 gallery: []
 draft: false
 ---

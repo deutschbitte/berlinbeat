@@ -12,7 +12,7 @@ tags:
   - Flemish
   - Gentse Feesten
   - Love Like Birds
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/12/llb.jpg?w=300
+coverImage: /wp-content/uploads/2012/12/llb.jpg
 gallery: []
 draft: false
 ---

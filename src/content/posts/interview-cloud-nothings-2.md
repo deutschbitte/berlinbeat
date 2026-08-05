@@ -8,7 +8,7 @@ tags:
   - American
   - Cloud Nothings
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/08/1488967_10151711397687126_314171172_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/08/1488967_10151711397687126_314171172_n.jpg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - The Lawrence Arms
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/05/lawrencearms.jpg?w=300
+coverImage: /wp-content/uploads/2014/05/lawrencearms.jpg
 gallery: []
 draft: false
 ---

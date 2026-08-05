@@ -9,7 +9,7 @@ tags:
   - German
   - Grabbel and The Final Cut
   - Popfest Berlin
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/394832_142757189170068_124771259_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/07/394832_142757189170068_124771259_n.jpeg
 gallery: []
 draft: false
 ---

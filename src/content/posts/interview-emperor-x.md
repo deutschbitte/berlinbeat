@@ -8,7 +8,7 @@ tags:
   - American
   - Emperor X
   - Features
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/ex_press_pic_101.jpeg?w=300
+coverImage: /wp-content/uploads/2012/07/ex_press_pic_101.jpeg
 gallery: []
 draft: false
 ---

@@ -13,7 +13,7 @@ tags:
   - Kate Boy
   - Son Lux
   - Youth Kills
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/01/4cd3c53e6d4fe7b19510f17d849caa97671bcddf.jpg?w=211
+coverImage: /wp-content/uploads/2014/01/4cd3c53e6d4fe7b19510f17d849caa97671bcddf.jpg
 gallery: []
 draft: false
 ---

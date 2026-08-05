@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Lymbyc S
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/11/558019_10151049383463886_399929064_n.jpg?w=300
+coverImage: /wp-content/uploads/2013/11/558019_10151049383463886_399929064_n.jpg
 gallery: []
 draft: false
 ---

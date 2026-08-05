@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Future Islands
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/08/24903_334975441568_401558_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/08/24903_334975441568_401558_n.jpeg
 gallery: []
 draft: true
 ---

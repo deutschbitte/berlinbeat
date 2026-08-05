@@ -8,7 +8,7 @@ tags:
   - Catfish and the Bottlemen
   - Feature
   - Welsh
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/11/catb_hires.jpg?w=300
+coverImage: /wp-content/uploads/2014/11/catb_hires.jpg
 gallery: []
 draft: false
 ---

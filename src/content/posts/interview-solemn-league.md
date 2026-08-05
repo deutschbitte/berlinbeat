@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Solemn League
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/10/12-03-09-nexus_-solemn-league-380x252.jpg
+coverImage: /wp-content/uploads/2013/10/12-03-09-nexus_-solemn-league-380x252.jpg
 gallery: []
 draft: false
 ---

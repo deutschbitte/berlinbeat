@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - PTTRNS
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/05/pttrns01.jpg?w=300
+coverImage: /wp-content/uploads/2013/05/pttrns01.jpg
 gallery: []
 draft: false
 ---

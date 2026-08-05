@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Vierkanttretlager
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/05/dsc_6336bea.jpg?w=300
+coverImage: /wp-content/uploads/2015/05/dsc_6336bea.jpg
 gallery: []
 draft: false
 ---

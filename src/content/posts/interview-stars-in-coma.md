@@ -9,7 +9,7 @@ tags:
   - Indie Pop Days
   - Stars in Coma
   - Swedish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/08/3354_78565554029_4829160_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/08/3354_78565554029_4829160_n.jpeg
 gallery: []
 draft: false
 ---

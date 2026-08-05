@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Herrenmagazin
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/05/459905_10150703099462042_168286512041_9344373_1349405369_o.jpeg?w=300
+coverImage: /wp-content/uploads/2012/05/459905_10150703099462042_168286512041_9344373_1349405369_o.jpeg
 gallery: []
 draft: false
 ---

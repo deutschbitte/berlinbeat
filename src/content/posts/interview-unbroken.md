@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Unbroken
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/unbroken2.jpeg?w=300
+coverImage: /wp-content/uploads/2012/04/unbroken2.jpeg
 gallery: []
 draft: false
 ---

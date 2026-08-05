@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Mikroboy
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/06/photo.jpeg?w=300
+coverImage: /wp-content/uploads/2011/06/photo.jpeg
 gallery: []
 draft: false
 ---

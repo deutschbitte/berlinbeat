@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - This is the Arrival
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/tita_2012_press.jpg?w=300
+coverImage: /wp-content/uploads/2012/02/tita_2012_press.jpg
 gallery: []
 draft: false
 ---

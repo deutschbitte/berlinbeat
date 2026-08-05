@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Ter Haar
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/407896_10150512641232739_710252738_8851609_1430049671_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/04/407896_10150512641232739_710252738_8851609_1430049671_n.jpeg
 gallery: []
 draft: true
 ---

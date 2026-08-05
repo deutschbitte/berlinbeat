@@ -9,7 +9,7 @@ tags:
   - Feature
   - Popfest Berlin
   - The Proctors
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/dsc_1066.jpg?w=300
+coverImage: /wp-content/uploads/2012/07/dsc_1066.jpg
 gallery: []
 draft: false
 ---

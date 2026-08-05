@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Grey Television
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/75394_474246469126_171271959126_5637064_509551_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/03/75394_474246469126_171271959126_5637064_509551_n.jpeg
 gallery: []
 draft: false
 ---

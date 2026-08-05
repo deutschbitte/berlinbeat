@@ -8,7 +8,7 @@ tags:
   - Feature
   - Norwegian
   - Sondre Lerche
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/73084_463575153648_25586568648_5549124_2650511_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/01/73084_463575153648_25586568648_5549124_2650511_n.jpeg
 gallery: []
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
   - Dan Andriano
   - Dan Andriano in the Emergency Room
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/378045_255315224535219_1936868950_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/07/378045_255315224535219_1936868950_n.jpeg
 gallery: []
 draft: true
 ---

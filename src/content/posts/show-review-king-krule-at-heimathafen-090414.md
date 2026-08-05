@@ -10,7 +10,7 @@ tags:
   - British
   - Heimathafen
   - King Krule
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/04/tour.jpg?w=211
+coverImage: /wp-content/uploads/2014/04/tour.jpg
 gallery: []
 draft: false
 ---

@@ -9,7 +9,7 @@ tags:
   - Flink Festival
   - German
   - Vomit Heat
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/41375551.jpeg
+coverImage: /wp-content/uploads/2011/08/41375551.jpeg
 gallery: []
 draft: false
 ---

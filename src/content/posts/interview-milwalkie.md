@@ -8,7 +8,7 @@ tags:
   - Feature
   - Milwalkie
   - Scottish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/09/10150629_725887057474034_1601301280329493770_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/09/10150629_725887057474034_1601301280329493770_n.jpg
 gallery: []
 draft: false
 ---

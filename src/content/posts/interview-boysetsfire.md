@@ -9,7 +9,7 @@ tags:
   - BoySetsFire
   - Feature
   - German
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/10/10014946_690045394385495_6554475708647156137_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/10/10014946_690045394385495_6554475708647156137_n.jpg
 gallery: []
 draft: false
 ---

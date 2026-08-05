@@ -9,7 +9,7 @@ tags:
   - Feature
   - Popfest Berlin
   - Spanish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/05/39695_413327717468_48582217468_4756621_1247422_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/05/39695_413327717468_48582217468_4756621_1247422_n.jpeg
 gallery: []
 draft: false
 ---

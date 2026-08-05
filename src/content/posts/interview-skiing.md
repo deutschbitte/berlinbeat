@@ -11,7 +11,7 @@ tags:
   - Feature
   - Italian
   - Skiing
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/300984_218609941531741_218609561531779_587022_1450693230_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/10/300984_218609941531741_218609561531779_587022_1450693230_n.jpeg
 gallery: []
 draft: false
 ---

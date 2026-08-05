@@ -9,7 +9,7 @@ tags:
   - Feature
   - Indie Pop Days
   - Swedish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/10/395304_470183409668928_42639972_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/10/395304_470183409668928_42639972_n.jpeg
 gallery: []
 draft: false
 ---

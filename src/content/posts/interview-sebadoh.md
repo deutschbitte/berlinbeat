@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Sebadoh
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/sebadoh2011_caswell.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/sebadoh2011_caswell.jpeg
 gallery: []
 draft: false
 ---

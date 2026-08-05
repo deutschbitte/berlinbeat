@@ -10,7 +10,7 @@ tags:
   - American
   - Blonde Redhead
   - Frannz Club
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/09/10447754_10152143378016034_2585984624143085704_n.png?w=230
+coverImage: /wp-content/uploads/2014/09/10447754_10152143378016034_2585984624143085704_n.png
 gallery: []
 draft: false
 ---

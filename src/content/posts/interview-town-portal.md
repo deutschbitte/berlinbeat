@@ -9,7 +9,7 @@ tags:
   - Feature
   - Town Portal
   - x
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/384290_10150403710853153_384979268152_8680572_1046272940_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/02/384290_10150403710853153_384979268152_8680572_1046272940_n.jpeg
 gallery: []
 draft: false
 ---

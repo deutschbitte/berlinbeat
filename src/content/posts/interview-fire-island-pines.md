@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - Fire Island Pines
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/01/1379320_744580582224988_1363796852_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/01/1379320_744580582224988_1363796852_n.jpg
 gallery: []
 draft: false
 ---

@@ -10,7 +10,7 @@ tags:
   - Feature
   - German
   - Japanese
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/e7b1369e2a893b783cef1c5539613ea3.jpeg?w=300
+coverImage: /wp-content/uploads/2011/10/e7b1369e2a893b783cef1c5539613ea3.jpeg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - La Dispute
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/53213087.jpeg?w=300
+coverImage: /wp-content/uploads/2012/01/53213087.jpeg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - LADA
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/11/lada_banner.jpeg?w=300
+coverImage: /wp-content/uploads/2013/11/lada_banner.jpeg
 gallery: []
 draft: false
 ---

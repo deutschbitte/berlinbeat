@@ -8,7 +8,7 @@ tags:
   - Austrian
   - B. Fleischmann
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/aef3d837b05fed9735c3b3b25c47a9e9.png?w=300
+coverImage: /wp-content/uploads/2012/03/aef3d837b05fed9735c3b3b25c47a9e9.png
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Me and My Drummer
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/mamd-pressefoto2011.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/mamd-pressefoto2011.jpeg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Museum
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/photo.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/photo.jpeg
 gallery: []
 draft: false
 ---

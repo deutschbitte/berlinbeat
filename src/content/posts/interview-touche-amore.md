@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Touché Amoré
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/08/ta_press_0143.jpeg?w=300
+coverImage: /wp-content/uploads/2012/08/ta_press_0143.jpeg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - YACHT
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/8a9b053b80b35253cf01f753b8fdbeab.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/8a9b053b80b35253cf01f753b8fdbeab.jpeg
 gallery: []
 draft: false
 ---

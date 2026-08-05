@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Slow Runner
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/slowrunner.jpeg?w=300
+coverImage: /wp-content/uploads/2011/12/slowrunner.jpeg
 gallery: []
 draft: false
 ---

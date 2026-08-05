@@ -9,7 +9,7 @@ tags:
   - Feature
   - Scottish
   - The Spook School
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/10/270245_165867646811871_8167432_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/10/270245_165867646811871_8167432_n.jpeg
 gallery: []
 draft: true
 ---

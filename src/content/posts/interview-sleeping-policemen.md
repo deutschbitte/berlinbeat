@@ -9,7 +9,7 @@ tags:
   - German
   - Indie Pop Days
   - Sleeping Policemen
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/08/sleepingpolicemen2.jpeg?w=300
+coverImage: /wp-content/uploads/2012/08/sleepingpolicemen2.jpeg
 gallery: []
 draft: false
 ---

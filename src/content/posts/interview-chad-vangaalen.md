@@ -8,7 +8,7 @@ tags:
   - Canadian
   - Chad Vangaalen
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo.jpeg?w=297
+coverImage: /wp-content/uploads/2011/08/photo.jpeg
 gallery: []
 draft: false
 ---

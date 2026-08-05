@@ -7,7 +7,7 @@ band: Eagulls
 tags:
   - Eagulls
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/05/eagulls_sandykim.jpg?w=300
+coverImage: /wp-content/uploads/2014/05/eagulls_sandykim.jpg
 gallery: []
 draft: false
 ---

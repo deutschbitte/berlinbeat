@@ -9,7 +9,7 @@ tags:
   - German
   - Peer
   - Zosch
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/05/14060642940_f36bf79035.jpg
+coverImage: /wp-content/uploads/2014/05/14060642940_f36bf79035.jpg
 gallery:
   - https://farm3.staticflickr.com/2897/14267427603_2652f715e3.jpg
   - https://farm6.staticflickr.com/5486/14060646390_81b60a755a.jpg

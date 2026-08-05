@@ -9,7 +9,7 @@ tags:
   - Luxemburg
   - Mutiny on the bounty
   - Schokoladen
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/04/1.jpg
+coverImage: /wp-content/uploads/2014/04/1.jpg
 gallery:
   - https://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - https://farm8.staticflickr.com/7234/13768645535_14bcaa4a04.jpg

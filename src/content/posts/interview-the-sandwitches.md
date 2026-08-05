@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - The Sandwitches
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/11/sw3.jpeg?w=300
+coverImage: /wp-content/uploads/2011/11/sw3.jpeg
 gallery: []
 draft: false
 ---

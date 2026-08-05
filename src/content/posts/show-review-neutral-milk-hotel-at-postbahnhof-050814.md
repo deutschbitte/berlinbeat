@@ -10,7 +10,7 @@ tags:
   - American
   - Neutral Milk Hotel
   - Postbahnhof
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/08/r-neutral-milk-hotel-reunion-tour-large570.jpg?w=300
+coverImage: /wp-content/uploads/2014/08/r-neutral-milk-hotel-reunion-tour-large570.jpg
 gallery: []
 draft: false
 ---

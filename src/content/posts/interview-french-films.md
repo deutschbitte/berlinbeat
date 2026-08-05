@@ -8,7 +8,7 @@ tags:
   - Feature
   - Finnish
   - French Films
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/207128_10150177253839750_365690509749_8282814_2777531_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/12/207128_10150177253839750_365690509749_8282814_2777531_n.jpeg
 gallery: []
 draft: false
 ---

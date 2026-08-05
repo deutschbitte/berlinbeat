@@ -8,7 +8,7 @@ tags:
   - American
   - David Bazan
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/08/double-web.jpg?w=300
+coverImage: /wp-content/uploads/2013/08/double-web.jpg
 gallery: []
 draft: false
 ---

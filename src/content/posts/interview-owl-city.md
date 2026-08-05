@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Owl City
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/577792_10150792935637025_170366715_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/07/577792_10150792935637025_170366715_n.jpeg
 gallery: []
 draft: false
 ---

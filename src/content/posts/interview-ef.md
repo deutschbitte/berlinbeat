@@ -8,7 +8,7 @@ tags:
   - EF
   - Feature
   - Swedish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/02/ef_web_sitting.jpg?w=300
+coverImage: /wp-content/uploads/2014/02/ef_web_sitting.jpg
 gallery: []
 draft: false
 ---

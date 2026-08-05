@@ -9,7 +9,7 @@ tags:
   - Feature
   - Joey Cape
   - Scorpios
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/11/n29111817030_1189647_4825.jpeg?w=300
+coverImage: /wp-content/uploads/2011/11/n29111817030_1189647_4825.jpeg
 gallery: []
 draft: false
 ---

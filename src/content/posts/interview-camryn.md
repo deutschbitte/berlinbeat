@@ -8,7 +8,7 @@ tags:
   - American
   - Camryn
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/05/large-k8z5dnvvjkwtzs5frv08guot7cl0mefzn1y26g-8rcq.jpg?w=300
+coverImage: /wp-content/uploads/2013/05/large-k8z5dnvvjkwtzs5frv08guot7cl0mefzn1y26g-8rcq.jpg
 gallery: []
 draft: false
 ---

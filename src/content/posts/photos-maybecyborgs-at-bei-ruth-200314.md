@@ -9,7 +9,7 @@ tags:
   - Bei Ruth
   - German
   - Maybecyborgs
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/03/13456204024_ce4255067b.jpg
+coverImage: /wp-content/uploads/2014/03/13456204024_ce4255067b.jpg
 gallery:
   - https://farm9.staticflickr.com/8041/7901433812_848f7b9ee5.jpg
   - https://farm6.staticflickr.com/5096/13456206834_c01fb767fb.jpg

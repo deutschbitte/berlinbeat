@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Johnny Houx
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/270616_140147502731128_102533953159150_268937_3973088_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/10/270616_140147502731128_102533953159150_268937_3973088_n.jpeg
 gallery: []
 draft: false
 ---

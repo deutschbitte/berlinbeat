@@ -9,7 +9,7 @@ tags:
   - Feature
   - Israeli
   - Rosi Golan
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/11/190272_10150102841628096_33637088095_6434039_4723936_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/11/190272_10150102841628096_33637088095_6434039_4723936_n.jpeg
 gallery: []
 draft: false
 ---

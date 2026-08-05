@@ -10,7 +10,7 @@ tags:
   - American
   - Warner Drive
   - Wild at Heart
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/09/63443_172972059409875_7294158_n.jpg?w=279
+coverImage: /wp-content/uploads/2014/09/63443_172972059409875_7294158_n.jpg
 gallery: []
 draft: false
 ---

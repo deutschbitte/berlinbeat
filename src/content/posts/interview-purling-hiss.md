@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Purling Hiss
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/l_e7f7f4d0d8f2417da44f5a71bc632e9e.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/l_e7f7f4d0d8f2417da44f5a71bc632e9e.jpeg
 gallery: []
 draft: false
 ---

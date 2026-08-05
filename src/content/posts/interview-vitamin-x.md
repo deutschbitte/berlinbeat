@@ -10,7 +10,7 @@ tags:
   - Russian
   - Serbian
   - Vitamin X
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/58274_113456455377662_1135958_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/01/58274_113456455377662_1135958_n.jpeg
 gallery: []
 draft: false
 ---

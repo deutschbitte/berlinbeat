@@ -9,7 +9,7 @@ tags:
   - German
   - mOck
   - Schokoladen
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/04/13768649415_48e10b7ba9.jpg
+coverImage: /wp-content/uploads/2014/04/13768649415_48e10b7ba9.jpg
 gallery:
   - https://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - https://farm8.staticflickr.com/7452/13768658973_41e902196c.jpg

@@ -10,7 +10,7 @@ tags:
   - All Your Sisters
   - American
   - Urban Spree
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/05/11220085_979586565437929_1306610842690876768_n.jpg?w=224
+coverImage: /wp-content/uploads/2015/05/11220085_979586565437929_1306610842690876768_n.jpg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - Grande Roses
   - Swedish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/grtivoli2sv2011.jpeg?w=300
+coverImage: /wp-content/uploads/2012/01/grtivoli2sv2011.jpeg
 gallery: []
 draft: false
 ---

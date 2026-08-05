@@ -9,7 +9,7 @@ tags:
   - German
   - Swiss
   - We Invented Paris
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/5062682048_44e678bcdf.jpeg?w=300
+coverImage: /wp-content/uploads/2012/02/5062682048_44e678bcdf.jpeg
 gallery: []
 draft: false
 ---

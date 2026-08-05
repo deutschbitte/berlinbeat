@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - The Appleseed Cast
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/10/appleseedcast2013.jpg?w=300
+coverImage: /wp-content/uploads/2013/10/appleseedcast2013.jpg
 gallery: []
 draft: false
 ---

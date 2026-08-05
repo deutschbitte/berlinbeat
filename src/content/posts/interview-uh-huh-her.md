@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Uh Huh Her
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/167529_10150097587767553_28796362552_6854726_5872643_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/04/167529_10150097587767553_28796362552_6854726_5872643_n.jpeg
 gallery: []
 draft: false
 ---

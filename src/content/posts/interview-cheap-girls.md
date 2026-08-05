@@ -8,7 +8,7 @@ tags:
   - American
   - Cheap Girls
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo1.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/photo1.jpeg
 gallery: []
 draft: false
 ---

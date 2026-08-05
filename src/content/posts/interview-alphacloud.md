@@ -10,7 +10,7 @@ tags:
   - Feature
   - French
   - Israeli
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/mg_9524.jpeg?w=300
+coverImage: /wp-content/uploads/2011/12/mg_9524.jpeg
 gallery: []
 draft: false
 ---

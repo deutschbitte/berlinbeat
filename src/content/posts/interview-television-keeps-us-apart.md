@@ -9,7 +9,7 @@ tags:
   - Indie Pop Days
   - Swedish
   - Television Keeps Us Apart
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo8.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/photo8.jpeg
 gallery: []
 draft: false
 ---

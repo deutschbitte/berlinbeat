@@ -9,7 +9,7 @@ album: mOck
 tags:
   - German
   - mOck
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/05/mock1.png
+coverImage: /wp-content/uploads/2012/05/mock1.png
 gallery: []
 draft: false
 ---

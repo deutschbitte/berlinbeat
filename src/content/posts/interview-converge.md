@@ -8,7 +8,7 @@ tags:
   - American
   - Converge
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/06/converge30hi.jpg?w=300
+coverImage: /wp-content/uploads/2013/06/converge30hi.jpg
 gallery: []
 draft: false
 ---

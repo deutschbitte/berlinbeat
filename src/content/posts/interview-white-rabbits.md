@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - White Rabbits
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/th_go3_musicmain_0329_t900x900.jpeg?w=300
+coverImage: /wp-content/uploads/2012/04/th_go3_musicmain_0329_t900x900.jpeg
 gallery: []
 draft: false
 ---

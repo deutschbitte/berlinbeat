@@ -9,7 +9,7 @@ tags:
   - Flink Festival
   - German
   - Touchy Mob
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo-31.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/photo-31.jpeg
 gallery: []
 draft: false
 ---

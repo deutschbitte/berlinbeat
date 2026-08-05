@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Lemuria
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo2.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/photo2.jpeg
 gallery: []
 draft: false
 ---

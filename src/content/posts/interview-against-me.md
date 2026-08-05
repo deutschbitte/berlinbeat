@@ -8,7 +8,7 @@ tags:
   - Against Me!
   - American
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/08/1385506326againstme_2013_highres_4006_bw.jpg?w=300
+coverImage: /wp-content/uploads/2014/08/1385506326againstme_2013_highres_4006_bw.jpg
 gallery: []
 draft: false
 ---

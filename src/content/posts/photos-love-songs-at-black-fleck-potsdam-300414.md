@@ -9,7 +9,7 @@ tags:
   - Black Fleck
   - German
   - Love-Songs
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/05/13967328979_be3e8c5cfb.jpg
+coverImage: /wp-content/uploads/2014/05/13967328979_be3e8c5cfb.jpg
 gallery:
   - https://farm3.staticflickr.com/2899/14174065653_0e6cac7639.jpg
   - https://farm8.staticflickr.com/7393/14174065373_8f8662cd12.jpg

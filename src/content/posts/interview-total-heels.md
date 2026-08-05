@@ -9,7 +9,7 @@ tags:
   - Danish
   - Feature
   - Total Heels
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/10/totalheelsblogspot_zps531c0213.jpg?w=300
+coverImage: /wp-content/uploads/2014/10/totalheelsblogspot_zps531c0213.jpg
 gallery: []
 draft: false
 ---

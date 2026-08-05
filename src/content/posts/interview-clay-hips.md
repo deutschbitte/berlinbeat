@@ -8,7 +8,7 @@ tags:
   - American
   - Clay Hips
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/l2.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/l2.jpeg
 gallery: []
 draft: false
 ---

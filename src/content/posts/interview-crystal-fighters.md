@@ -9,7 +9,7 @@ tags:
   - Crystal Fighters
   - Feature
   - Spanish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/06/crystal-fighters-extralarge_1338390304285.jpg?w=300
+coverImage: /wp-content/uploads/2013/06/crystal-fighters-extralarge_1338390304285.jpg
 gallery: []
 draft: false
 ---

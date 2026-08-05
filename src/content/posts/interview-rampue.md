@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Rampue
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/04/rampue_2_12.jpg?w=300
+coverImage: /wp-content/uploads/2013/04/rampue_2_12.jpg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Joan of Arc
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/12/1069281_10151550142933786_1920195221_n.jpg?w=274
+coverImage: /wp-content/uploads/2013/12/1069281_10151550142933786_1920195221_n.jpg
 gallery: []
 draft: false
 ---

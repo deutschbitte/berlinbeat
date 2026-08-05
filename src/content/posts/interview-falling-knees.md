@@ -8,7 +8,7 @@ tags:
   - Falling Knees
   - Feature
   - German
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/206217_181315201934705_170343929698499_466993_7823586_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/01/206217_181315201934705_170343929698499_466993_7823586_n.jpeg
 gallery: []
 draft: false
 ---

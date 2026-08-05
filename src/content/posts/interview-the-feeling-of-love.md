@@ -8,7 +8,7 @@ tags:
   - Feature
   - French
   - The Feeling of Love
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/feeling_of_love-d-hion.jpg?w=300
+coverImage: /wp-content/uploads/2011/10/feeling_of_love-d-hion.jpg
 gallery: []
 draft: false
 ---

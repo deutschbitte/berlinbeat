@@ -8,7 +8,7 @@ tags:
   - Feature
   - God is an Astronaut
   - Irish
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/07/giaa2012.jpeg?w=300
+coverImage: /wp-content/uploads/2012/07/giaa2012.jpeg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Ghost of Tom Joad
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/gotj_blckmsk_1.jpg?w=300
+coverImage: /wp-content/uploads/2011/10/gotj_blckmsk_1.jpg
 gallery: []
 draft: false
 ---

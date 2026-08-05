@@ -8,7 +8,7 @@ tags:
   - Bo Ningen
   - Feature
   - Japanese
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/08/bo-ningen-profile-2.jpg?w=300
+coverImage: /wp-content/uploads/2014/08/bo-ningen-profile-2.jpg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Wild Flag
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/wildflag_johnclark_sunny_sm.jpeg?w=300
+coverImage: /wp-content/uploads/2012/02/wildflag_johnclark_sunny_sm.jpeg
 gallery: []
 draft: false
 ---

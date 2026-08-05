@@ -9,7 +9,7 @@ tags:
   - Indie Pop Days
   - Spanish
   - Sundae
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/photo10.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/photo10.jpeg
 gallery: []
 draft: false
 ---

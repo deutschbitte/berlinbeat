@@ -10,7 +10,7 @@ tags:
   - Schokoladen
   - Spanish
   - The Anna Thompsons
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/01/12028291516_b66ce7c987.jpg
+coverImage: /wp-content/uploads/2014/01/12028291516_b66ce7c987.jpg
 gallery:
   - http://farm3.staticflickr.com/2818/12010693346_bda31dd368.jpg
   - http://farm6.staticflickr.com/5529/12027731443_3d7cb2335c.jpg

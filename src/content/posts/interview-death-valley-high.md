@@ -8,7 +8,7 @@ tags:
   - American
   - Death Valley High
   - Feature
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/12/602136_10151325077761146_859148190_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/12/602136_10151325077761146_859148190_n.jpg
 gallery: []
 draft: false
 ---

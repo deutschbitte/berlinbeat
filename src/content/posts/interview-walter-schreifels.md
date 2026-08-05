@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Walter Schreifels
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/08/walter-schreifels.jpg?w=300
+coverImage: /wp-content/uploads/2014/08/walter-schreifels.jpg
 gallery: []
 draft: false
 ---

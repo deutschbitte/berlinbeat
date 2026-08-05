@@ -9,7 +9,7 @@ tags:
   - German
   - Kastanienkeller
   - Zelf
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/04/13940645885_aa4b2593c9.jpg
+coverImage: /wp-content/uploads/2014/04/13940645885_aa4b2593c9.jpg
 gallery:
   - https://farm4.staticflickr.com/3802/13940647145_dbd7a477e8.jpg
   - https://farm4.staticflickr.com/3718/13940645885_aa4b2593c9.jpg

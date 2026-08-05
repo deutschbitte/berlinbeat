@@ -8,7 +8,7 @@ tags:
   - Feature
   - Highasakite
   - Norwegian
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/11/523057_513314455348202_2071369984_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/11/523057_513314455348202_2071369984_n.jpeg
 gallery: []
 draft: false
 ---

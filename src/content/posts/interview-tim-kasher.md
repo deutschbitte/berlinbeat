@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Tim Kasher
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/07/993339_10151509638921478_473781031_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/07/993339_10151509638921478_473781031_n.jpg
 gallery: []
 draft: false
 ---

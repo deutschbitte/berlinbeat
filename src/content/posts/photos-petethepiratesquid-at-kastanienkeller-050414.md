@@ -9,7 +9,7 @@ tags:
   - German
   - Kastanienkeller
   - Petethepiratesquid
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/04/13940613085_c223a23900.jpg
+coverImage: /wp-content/uploads/2014/04/13940613085_c223a23900.jpg
 gallery:
   - https://farm8.staticflickr.com/7035/13940673273_fc74ae98ec.jpg
   - https://farm8.staticflickr.com/7247/13940613085_c223a23900.jpg

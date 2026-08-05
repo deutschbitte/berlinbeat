@@ -8,7 +8,7 @@ tags:
   - Alan Metzger
   - Feature
   - German
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/278574_10150247556333844_737163843_7276521_1895765_o.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/278574_10150247556333844_737163843_7276521_1895765_o.jpeg
 gallery: []
 draft: false
 ---

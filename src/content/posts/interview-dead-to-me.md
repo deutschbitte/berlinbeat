@@ -8,7 +8,7 @@ tags:
   - American
   - Dead to Me
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/63416_10150104049340743_176196740742_8057795_2554208_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/02/63416_10150104049340743_176196740742_8057795_2554208_n.jpeg
 gallery: []
 draft: false
 ---

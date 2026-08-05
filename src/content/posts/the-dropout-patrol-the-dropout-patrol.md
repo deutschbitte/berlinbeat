@@ -9,7 +9,7 @@ album: The Dropout Patrol
 tags:
   - German
   - The Dropout Patrol
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/09/avm047_dropoutpatrol_900x900_72dpi.jpg?w=350
+coverImage: /wp-content/uploads/2012/09/avm047_dropoutpatrol_900x900_72dpi.jpg
 gallery: []
 draft: true
 ---

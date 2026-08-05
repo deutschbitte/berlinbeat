@@ -9,7 +9,7 @@ tags:
   - Feature
   - This Town Needs Guns
   - TTNG
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/02/ttng.jpg?w=300
+coverImage: /wp-content/uploads/2013/02/ttng.jpg
 gallery: []
 draft: false
 ---

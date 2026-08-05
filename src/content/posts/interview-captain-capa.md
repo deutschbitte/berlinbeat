@@ -8,7 +8,7 @@ tags:
   - Captain Capa
   - Feature
   - German
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/5773_121649915783_121640235783_2552065_308894_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/5773_121649915783_121640235783_2552065_308894_n.jpeg
 gallery: []
 draft: false
 ---

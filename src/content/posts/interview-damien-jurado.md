@@ -8,7 +8,7 @@ tags:
   - American
   - Damien Jurado
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/03/402626_366040560074721_288980227780755_1464954_1120091478_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/03/402626_366040560074721_288980227780755_1464954_1120091478_n.jpeg
 gallery: []
 draft: false
 ---

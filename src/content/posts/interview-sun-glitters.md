@@ -8,7 +8,7 @@ tags:
   - Feature
   - Luxembourg
   - Sun Glitters
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/11/254988_216492405040444_193152587374426_708110_7011999_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/11/254988_216492405040444_193152587374426_708110_7011999_n.jpeg
 gallery: []
 draft: false
 ---

@@ -10,7 +10,7 @@ tags:
   - French
   - German
   - I Heart Sharks
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/6026149848_c787025005.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/6026149848_c787025005.jpeg
 gallery: []
 draft: false
 ---

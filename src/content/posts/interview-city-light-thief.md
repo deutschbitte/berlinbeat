@@ -8,7 +8,7 @@ tags:
   - City Light Thief
   - Feature
   - German
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/378875_10150493808914853_380929414852_10592431_463712885_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/02/378875_10150493808914853_380929414852_10592431_463712885_n.jpeg
 gallery: []
 draft: false
 ---

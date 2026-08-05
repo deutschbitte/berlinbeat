@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - Max Prosa
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/l.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/l.jpeg
 gallery: []
 draft: false
 ---

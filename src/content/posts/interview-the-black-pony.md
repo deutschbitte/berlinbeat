@@ -10,7 +10,7 @@ tags:
   - Feature
   - German
   - The Black Pony
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/10/tbp_foto135.jpeg?w=300
+coverImage: /wp-content/uploads/2011/10/tbp_foto135.jpeg
 gallery: []
 draft: false
 ---

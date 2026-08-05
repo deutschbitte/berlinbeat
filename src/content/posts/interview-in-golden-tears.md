@@ -8,7 +8,7 @@ tags:
   - Feature
   - German
   - In Golden Tears
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/549936_375873259119050_178721948834183_1143959_1894465141_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/04/549936_375873259119050_178721948834183_1143959_1894465141_n.jpeg
 gallery: []
 draft: false
 ---

@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - Sivu
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/09/99999.jpg?w=300
+coverImage: /wp-content/uploads/2014/09/99999.jpg
 gallery: []
 draft: false
 ---

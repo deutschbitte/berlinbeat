@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - Is Tropical
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/01/istropical6_lo_res.jpg?w=300
+coverImage: /wp-content/uploads/2012/01/istropical6_lo_res.jpg
 gallery: []
 draft: false
 ---

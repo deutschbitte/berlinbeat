@@ -10,7 +10,7 @@ tags:
   - American
   - SO36
   - The Adolescents
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/07/adolescents_poster.jpg?w=212
+coverImage: /wp-content/uploads/2013/07/adolescents_poster.jpg
 gallery: []
 draft: false
 ---

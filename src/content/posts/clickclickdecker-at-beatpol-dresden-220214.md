@@ -10,7 +10,7 @@ tags:
   - Clickclickdecker
   - Dresden
   - German
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/03/13069967945_7f1aac5f71.jpg
+coverImage: /wp-content/uploads/2014/03/13069967945_7f1aac5f71.jpg
 gallery:
   - http://farm3.staticflickr.com/2753/13069985745_2c22a793ea.jpg
   - http://farm3.staticflickr.com/2188/13070307174_55ff340db4.jpg

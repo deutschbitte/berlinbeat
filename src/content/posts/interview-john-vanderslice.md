@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - John Vanderslice
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/09/e3d75b5f592104ff6db251cb4c7f0fff.jpeg?w=300
+coverImage: /wp-content/uploads/2011/09/e3d75b5f592104ff6db251cb4c7f0fff.jpeg
 gallery: []
 draft: false
 ---

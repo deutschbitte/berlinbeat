@@ -8,7 +8,7 @@ tags:
   - Dutch
   - Feature
   - I Am Oak
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/04/6817059695_f9e801a297_b.jpeg?w=300
+coverImage: /wp-content/uploads/2012/04/6817059695_f9e801a297_b.jpeg
 gallery: []
 draft: false
 ---

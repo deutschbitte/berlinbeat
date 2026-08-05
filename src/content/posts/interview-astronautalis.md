@@ -8,7 +8,7 @@ tags:
   - American
   - Astronautalis
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/02/astronautalis.jpeg?w=300
+coverImage: /wp-content/uploads/2012/02/astronautalis.jpeg
 gallery: []
 draft: false
 ---

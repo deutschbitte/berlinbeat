@@ -8,7 +8,7 @@ tags:
   - Canadian
   - Feature
   - Kid Koala
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/12/n17527901121_554168_1868.jpeg?w=300
+coverImage: /wp-content/uploads/2011/12/n17527901121_554168_1868.jpeg
 gallery: []
 draft: false
 ---

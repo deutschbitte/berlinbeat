@@ -9,7 +9,7 @@ tags:
   - Indie Pop Days
   - Scottish
   - Wake the President
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/08/wake7.jpeg?w=300
+coverImage: /wp-content/uploads/2011/08/wake7.jpeg
 gallery: []
 draft: false
 ---

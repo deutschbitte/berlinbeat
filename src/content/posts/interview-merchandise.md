@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - Merchandise
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/06/995018_560980383995097_296266620_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/06/995018_560980383995097_296266620_n.jpg
 gallery: []
 draft: false
 ---

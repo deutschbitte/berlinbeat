@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - The Bouncing Souls
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/09/2012-4.jpg?w=300
+coverImage: /wp-content/uploads/2013/09/2012-4.jpg
 gallery: []
 draft: false
 ---

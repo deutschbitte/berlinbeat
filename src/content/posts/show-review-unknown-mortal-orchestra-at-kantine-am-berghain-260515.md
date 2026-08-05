@@ -11,7 +11,7 @@ tags:
   - Kantine am Berghain
   - New Zealander
   - Unknown Mortal Orchestra
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2015/06/unknownmortalorchestra-hi-28.jpg?w=300
+coverImage: /wp-content/uploads/2015/06/unknownmortalorchestra-hi-28.jpg
 gallery: []
 draft: false
 ---

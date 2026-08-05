@@ -10,7 +10,7 @@ tags:
   - American
   - Huxley's Neue Welt
   - The War on Drugs
-coverImage: https://berlinbeat.wordpress.com/wp-content/uploads/2014/11/10154116_10152383769503874_1392206806398344519_n.jpg?w=300
+coverImage: /wp-content/uploads/2014/11/10154116_10152383769503874_1392206806398344519_n.jpg
 gallery: []
 draft: false
 ---

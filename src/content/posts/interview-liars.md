@@ -9,7 +9,7 @@ tags:
   - Australian
   - Feature
   - Liars
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/06/8c9e021df91e788ad12847f824a8b8665-576x432.jpeg?w=300
+coverImage: /wp-content/uploads/2012/06/8c9e021df91e788ad12847f824a8b8665-576x432.jpeg
 gallery: []
 draft: false
 ---

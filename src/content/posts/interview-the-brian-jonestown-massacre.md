@@ -8,7 +8,7 @@ tags:
   - American
   - Feature
   - The Brian Jonestown Massacre
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2014/04/an.jpg?w=225
+coverImage: /wp-content/uploads/2014/04/an.jpg
 gallery: []
 draft: false
 ---

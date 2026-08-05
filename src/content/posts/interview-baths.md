@@ -8,7 +8,7 @@ tags:
   - American
   - Baths
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2013/11/baths_5.jpg?w=300
+coverImage: /wp-content/uploads/2013/11/baths_5.jpg
 gallery: []
 draft: false
 ---

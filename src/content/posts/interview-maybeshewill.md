@@ -8,7 +8,7 @@ tags:
   - British
   - Feature
   - Maybeshewill
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2011/11/298852_10150391297125781_8572170780_10435152_739391852_n.jpeg?w=300
+coverImage: /wp-content/uploads/2011/11/298852_10150391297125781_8572170780_10435152_739391852_n.jpeg
 gallery: []
 draft: false
 ---

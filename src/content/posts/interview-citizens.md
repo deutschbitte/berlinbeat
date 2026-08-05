@@ -8,7 +8,7 @@ tags:
   - British
   - Citizens!
   - Feature
-coverImage: http://berlinbeat.wordpress.com/wp-content/uploads/2012/05/426007_254264897983465_179690968774192_566685_216372507_n.jpeg?w=300
+coverImage: /wp-content/uploads/2012/05/426007_254264897983465_179690968774192_566685_216372507_n.jpeg
 gallery: []
 draft: false
 ---
